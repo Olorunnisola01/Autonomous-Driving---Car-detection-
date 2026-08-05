@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 140 / 200
+- **Scene shots complete:** 150 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S15_Step01`
+- **Next scene-image label after reference approval:** `S16_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -231,16 +231,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S15_Step01` | @KOSI_MENSAH @ESI_TETTEH @SENA_ADJOVI | WIDE / high establishing angle | The lagoon promenade falls suddenly dark as a meeting gathers at dusk. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step01_promenade_blackout.png` |
-| ⬜ | `S15_Step02` | @SENA_ADJOVI | MEDIUM / eye-level | Phone lights bloom in the crowd beneath a fading coral sky. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step02_phone_lights.png` |
-| ⬜ | `S15_Step03` | @AMA_ADJOVI | CLOSE / three-quarter profile | Ama briefly loses strength beside the cracked sea wall. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step03_ama_falters.png` |
-| ⬜ | `S15_Step04` | @KOSI_MENSAH @AMA_ADJOVI | INSERT / top-down detail | Kosi catches Ama and steadies her with quiet concern. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step04_kosi_supports_ama.png` |
-| ⬜ | `S15_Step05` | @ESI_TETTEH @KOSI_MENSAH | TWO-SHOT / eye-level | Esi asks who will light the town's hearing. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step05_esi_asks_who.png` |
-| ⬜ | `S15_Step06` | @KOSI_MENSAH @ESI_TETTEH | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Kosi points toward the distant beacon and explains the broadcast plan. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step06_kosi_beacon_plan.png` |
-| ⬜ | `S15_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama regains her breath and looks toward the handmade lights. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step07_ama_recovers.png` |
-| ⬜ | `S15_Step08` | @KOSI_MENSAH @AMA_ADJOVI @ESI_TETTEH @SENA_ADJOVI @KOJO_DANSO | WIDE / low observational angle | Residents raise lanterns along the dark promenade. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step08_people_lanterns.png` |
-| ⬜ | `S15_Step09` | @KOSI_MENSAH | MEDIUM / handheld eye-level | Kosi says the town will light itself, resolve clear in her face. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step09_all_of_us.png` |
-| ⬜ | `S15_Step10` | @KOSI_MENSAH @AMA_ADJOVI @ESI_TETTEH @SENA_ADJOVI @KOJO_DANSO | WIDE / rear closing tableau | Lantern light draws a communal line along the lagoon at dusk. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step10_dusk_commitment.png` |
+| ✅ | `S15_Step01` | @KOSI_MENSAH @ESI_TETTEH @SENA_ADJOVI | WIDE / high establishing angle | The lagoon promenade falls suddenly dark as a meeting gathers at dusk. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step01_promenade_blackout.png` |
+| ✅ | `S15_Step02` | @SENA_ADJOVI | MEDIUM / eye-level | Phone lights bloom in the crowd beneath a fading coral sky. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step02_phone_lights.png` |
+| ✅ | `S15_Step03` | @AMA_ADJOVI | CLOSE / three-quarter profile | Ama briefly loses strength beside the cracked sea wall. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step03_ama_falters.png` |
+| ✅ | `S15_Step04` | @KOSI_MENSAH @AMA_ADJOVI | INSERT / top-down detail | Kosi catches Ama and steadies her with quiet concern. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step04_kosi_supports_ama.png` |
+| ✅ | `S15_Step05` | @ESI_TETTEH @KOSI_MENSAH | TWO-SHOT / eye-level | Esi asks who will light the town's hearing. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step05_esi_asks_who.png` |
+| ✅ | `S15_Step06` | @KOSI_MENSAH @ESI_TETTEH | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Kosi points toward the distant beacon and explains the broadcast plan. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step06_kosi_beacon_plan.png` |
+| ✅ | `S15_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama regains her breath and looks toward the handmade lights. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step07_ama_recovers.png` |
+| ✅ | `S15_Step08` | @KOSI_MENSAH @AMA_ADJOVI @ESI_TETTEH @SENA_ADJOVI @KOJO_DANSO | WIDE / low observational angle | Residents raise lanterns along the dark promenade. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step08_people_lanterns.png` |
+| ✅ | `S15_Step09` | @KOSI_MENSAH | MEDIUM / handheld eye-level | Kosi says the town will light itself, resolve clear in her face. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step09_all_of_us.png` |
+| ✅ | `S15_Step10` | @KOSI_MENSAH @AMA_ADJOVI @ESI_TETTEH @SENA_ADJOVI @KOJO_DANSO | WIDE / rear closing tableau | Lantern light draws a communal line along the lagoon at dusk. | loss becoming a plan; sudden blackout, last coral sunset and handmade lantern glow | `images/act2/S15_Step10_dusk_commitment.png` |
 
 # ACT III — PUBLIC LIGHT
 

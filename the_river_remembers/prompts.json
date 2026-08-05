@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 140,
+    "scene_shots_complete": 150,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -3295,7 +3295,7 @@
         "Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S15 — When the Power Fails. WIDE shot, high establishing angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). The lagoon promenade falls suddenly dark as a meeting gathers at dusk. Mood: loss becoming a plan. Lighting: sudden blackout, last coral sunset and handmade lantern glow. Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S15_Step01_promenade_blackout.png"
     },
     {
@@ -3317,7 +3317,7 @@
         "Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S15 — When the Power Fails. MEDIUM shot, eye-level. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Phone lights bloom in the crowd beneath a fading coral sky. Mood: loss becoming a plan. Lighting: sudden blackout, last coral sunset and handmade lantern glow. Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S15_Step02_phone_lights.png"
     },
     {
@@ -3339,7 +3339,7 @@
         "Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S15 — When the Power Fails. CLOSE shot, three-quarter profile. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama briefly loses strength beside the cracked sea wall. Mood: loss becoming a plan. Lighting: sudden blackout, last coral sunset and handmade lantern glow. Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S15_Step03_ama_falters.png"
     },
     {
@@ -3363,7 +3363,7 @@
         "Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S15 — When the Power Fails. INSERT shot, top-down detail. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Kosi catches Ama and steadies her with quiet concern. Mood: loss becoming a plan. Lighting: sudden blackout, last coral sunset and handmade lantern glow. Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S15_Step04_kosi_supports_ama.png"
     },
     {
@@ -3387,7 +3387,7 @@
         "Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S15 — When the Power Fails. TWO-SHOT shot, eye-level. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Esi asks who will light the town's hearing. Mood: loss becoming a plan. Lighting: sudden blackout, last coral sunset and handmade lantern glow. Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S15_Step05_esi_asks_who.png"
     },
     {
@@ -3411,7 +3411,7 @@
         "Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S15 — When the Power Fails. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle). Over Kosi's shoulder, Kosi points toward the distant beacon and explains the broadcast plan. Mood: loss becoming a plan. Lighting: sudden blackout, last coral sunset and handmade lantern glow. Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S15_Step06_kosi_beacon_plan.png"
     },
     {
@@ -3433,7 +3433,7 @@
         "Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S15 — When the Power Fails. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama regains her breath and looks toward the handmade lights. Mood: loss becoming a plan. Lighting: sudden blackout, last coral sunset and handmade lantern glow. Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S15_Step07_ama_recovers.png"
     },
     {
@@ -3463,7 +3463,7 @@
         "Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S15 — When the Power Fails. WIDE shot, low observational angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). Residents raise lanterns along the dark promenade. Mood: loss becoming a plan. Lighting: sudden blackout, last coral sunset and handmade lantern glow. Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S15_Step08_people_lanterns.png"
     },
     {
@@ -3485,7 +3485,7 @@
         "Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S15 — When the Power Fails. MEDIUM shot, handheld eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi says the town will light itself, resolve clear in her face. Mood: loss becoming a plan. Lighting: sudden blackout, last coral sunset and handmade lantern glow. Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S15_Step09_all_of_us.png"
     },
     {
@@ -3515,7 +3515,7 @@
         "Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S15 — When the Power Fails. WIDE shot, rear closing tableau. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). Lantern light draws a communal line along the lagoon at dusk. Mood: loss becoming a plan. Lighting: sudden blackout, last coral sunset and handmade lantern glow. Environment = Location Registry id 'LAGOON_PROMENADE': Afenyo's public lagoon promenade at dusk: a cracked concrete path, low sea wall, fishing boats, flowering bougainvillea, street vendors, fading coral sky and the resort fence in the far distance.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S15_Step10_dusk_commitment.png"
     },
     {
