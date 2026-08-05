@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 130,
+    "scene_shots_complete": 140,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -3057,7 +3057,7 @@
         "Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S14 — Archive of the Unheard. WIDE shot, high establishing angle. Characters in frame: @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kwame unlocks the dim archive beneath the assembly hall after hours. Mood: quiet betrayal turning toward alliance. Lighting: single green desk lamp, dust and darkness. Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S14_Step01_archive_dark.png"
     },
     {
@@ -3079,7 +3079,7 @@
         "Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S14 — Archive of the Unheard. MEDIUM shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi searches rows of bound land ledgers with quick, careful hands. Mood: quiet betrayal turning toward alliance. Lighting: single green desk lamp, dust and darkness. Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S14_Step02_kosi_files.png"
     },
     {
@@ -3101,7 +3101,7 @@
         "Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S14 — Archive of the Unheard. CLOSE shot, three-quarter profile. Characters in frame: @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kwame listens toward the stairwell while holding the keycard. Mood: quiet betrayal turning toward alliance. Lighting: single green desk lamp, dust and darkness. Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S14_Step03_kwame_guard.png"
     },
     {
@@ -3123,7 +3123,7 @@
         "Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S14 — Archive of the Unheard. INSERT shot, top-down detail. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). An original public-landing record opens beneath the green-shaded desk lamp. Mood: quiet betrayal turning toward alliance. Lighting: single green desk lamp, dust and darkness. Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S14_Step04_original_deed.png"
     },
     {
@@ -3147,7 +3147,7 @@
         "Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S14 — Archive of the Unheard. TWO-SHOT shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kosi and Kwame compare the recent amendment with the record that disproves it. Mood: quiet betrayal turning toward alliance. Lighting: single green desk lamp, dust and darkness. Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S14_Step05_forged_amendment.png"
     },
     {
@@ -3171,7 +3171,7 @@
         "Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S14 — Archive of the Unheard. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Over Sena's shoulder, pages are photographed one after another. Mood: quiet betrayal turning toward alliance. Lighting: single green desk lamp, dust and darkness. Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S14_Step06_sena_photographs.png"
     },
     {
@@ -3193,7 +3193,7 @@
         "Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S14 — Archive of the Unheard. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kwame admits that releasing the files will finish him at the council. Mood: quiet betrayal turning toward alliance. Lighting: single green desk lamp, dust and darkness. Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S14_Step07_kwame_confesses.png"
     },
     {
@@ -3219,7 +3219,7 @@
         "Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S14 — Archive of the Unheard. WIDE shot, low observational angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Dusty shelves close around the three as a sound rises in the stairwell. Mood: quiet betrayal turning toward alliance. Lighting: single green desk lamp, dust and darkness. Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S14_Step08_three_in_dust.png"
     },
     {
@@ -3243,7 +3243,7 @@
         "Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S14 — Archive of the Unheard. MEDIUM shot, handheld eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kwame places the archive keycard in Kosi's open palm. Mood: quiet betrayal turning toward alliance. Lighting: single green desk lamp, dust and darkness. Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S14_Step09_keycard_handoff.png"
     },
     {
@@ -3269,7 +3269,7 @@
         "Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S14 — Archive of the Unheard. WIDE shot, rear closing tableau. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). The trio slips from the dark archive carrying copied proof. Mood: quiet betrayal turning toward alliance. Lighting: single green desk lamp, dust and darkness. Environment = Location Registry id 'COUNCIL_ARCHIVE': A dim records room beneath Afenyo's district assembly hall: metal filing shelves, bound land ledgers, dust motes, a scarred wooden table, a green-shaded desk lamp and narrow high windows.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S14_Step10_escape_archive.png"
     },
     {

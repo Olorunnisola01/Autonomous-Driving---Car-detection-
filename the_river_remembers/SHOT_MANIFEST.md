@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 130 / 200
+- **Scene shots complete:** 140 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S14_Step01`
+- **Next scene-image label after reference approval:** `S15_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -216,16 +216,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S14_Step01` | @KWAME_AGYEMAN | WIDE / high establishing angle | Kwame unlocks the dim archive beneath the assembly hall after hours. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step01_archive_dark.png` |
-| ⬜ | `S14_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi searches rows of bound land ledgers with quick, careful hands. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step02_kosi_files.png` |
-| ⬜ | `S14_Step03` | @KWAME_AGYEMAN | CLOSE / three-quarter profile | Kwame listens toward the stairwell while holding the keycard. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step03_kwame_guard.png` |
-| ⬜ | `S14_Step04` | @KOSI_MENSAH | INSERT / top-down detail | An original public-landing record opens beneath the green-shaded desk lamp. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step04_original_deed.png` |
-| ⬜ | `S14_Step05` | @KOSI_MENSAH @KWAME_AGYEMAN | TWO-SHOT / eye-level | Kosi and Kwame compare the recent amendment with the record that disproves it. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step05_forged_amendment.png` |
-| ⬜ | `S14_Step06` | @SENA_ADJOVI @KOSI_MENSAH | OVER-SHOULDER / over the lead character's shoulder | Over Sena's shoulder, pages are photographed one after another. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step06_sena_photographs.png` |
-| ⬜ | `S14_Step07` | @KWAME_AGYEMAN | EXTREME CLOSE / intimate frontal angle | Kwame admits that releasing the files will finish him at the council. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step07_kwame_confesses.png` |
-| ⬜ | `S14_Step08` | @KOSI_MENSAH @KWAME_AGYEMAN @SENA_ADJOVI | WIDE / low observational angle | Dusty shelves close around the three as a sound rises in the stairwell. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step08_three_in_dust.png` |
-| ⬜ | `S14_Step09` | @KOSI_MENSAH @KWAME_AGYEMAN | MEDIUM / handheld eye-level | Kwame places the archive keycard in Kosi's open palm. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step09_keycard_handoff.png` |
-| ⬜ | `S14_Step10` | @KOSI_MENSAH @KWAME_AGYEMAN @SENA_ADJOVI | WIDE / rear closing tableau | The trio slips from the dark archive carrying copied proof. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step10_escape_archive.png` |
+| ✅ | `S14_Step01` | @KWAME_AGYEMAN | WIDE / high establishing angle | Kwame unlocks the dim archive beneath the assembly hall after hours. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step01_archive_dark.png` |
+| ✅ | `S14_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi searches rows of bound land ledgers with quick, careful hands. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step02_kosi_files.png` |
+| ✅ | `S14_Step03` | @KWAME_AGYEMAN | CLOSE / three-quarter profile | Kwame listens toward the stairwell while holding the keycard. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step03_kwame_guard.png` |
+| ✅ | `S14_Step04` | @KOSI_MENSAH | INSERT / top-down detail | An original public-landing record opens beneath the green-shaded desk lamp. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step04_original_deed.png` |
+| ✅ | `S14_Step05` | @KOSI_MENSAH @KWAME_AGYEMAN | TWO-SHOT / eye-level | Kosi and Kwame compare the recent amendment with the record that disproves it. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step05_forged_amendment.png` |
+| ✅ | `S14_Step06` | @SENA_ADJOVI @KOSI_MENSAH | OVER-SHOULDER / over the lead character's shoulder | Over Sena's shoulder, pages are photographed one after another. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step06_sena_photographs.png` |
+| ✅ | `S14_Step07` | @KWAME_AGYEMAN | EXTREME CLOSE / intimate frontal angle | Kwame admits that releasing the files will finish him at the council. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step07_kwame_confesses.png` |
+| ✅ | `S14_Step08` | @KOSI_MENSAH @KWAME_AGYEMAN @SENA_ADJOVI | WIDE / low observational angle | Dusty shelves close around the three as a sound rises in the stairwell. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step08_three_in_dust.png` |
+| ✅ | `S14_Step09` | @KOSI_MENSAH @KWAME_AGYEMAN | MEDIUM / handheld eye-level | Kwame places the archive keycard in Kosi's open palm. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step09_keycard_handoff.png` |
+| ✅ | `S14_Step10` | @KOSI_MENSAH @KWAME_AGYEMAN @SENA_ADJOVI | WIDE / rear closing tableau | The trio slips from the dark archive carrying copied proof. | quiet betrayal turning toward alliance; single green desk lamp, dust and darkness | `images/act2/S14_Step10_escape_archive.png` |
 
 ## S15 — When the Power Fails (LAGOON_PROMENADE)
 
