@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 90 / 200
+- **Scene shots complete:** 100 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S10_Step01`
+- **Next scene-image label after reference approval:** `S11_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -156,16 +156,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S10_Step01` | @KOJO_DANSO @KOSI_MENSAH @SENA_ADJOVI | WIDE / high establishing angle | A slim canoe slips into a shadowed mangrove passage. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step01_mangrove_entry.png` |
-| ⬜ | `S10_Step02` | @KOJO_DANSO | MEDIUM / eye-level | Kojo poles carefully between tangled roots and dark water. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step02_kojo_poles.png` |
-| ⬜ | `S10_Step03` | @KOSI_MENSAH | CLOSE / three-quarter profile | Kosi lowers a water sensor on a wire over the canoe's side. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step03_kosi_sensor.png` |
-| ⬜ | `S10_Step04` | @KOSI_MENSAH | INSERT / top-down detail | The sensor display spikes sharply against Kosi's gloved hand. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step04_meter_spike.png` |
-| ⬜ | `S10_Step05` | @KOSI_MENSAH @KOJO_DANSO @SENA_ADJOVI | TWO-SHOT / eye-level | Kosi, Kojo and Sena hold their breath in the narrow canoe. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step05_three_in_canoe.png` |
-| ⬜ | `S10_Step06` | @KOSI_MENSAH @SENA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Sena films a concealed pipe pulsing warm grey water. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step06_hidden_pipe.png` |
-| ⬜ | `S10_Step07` | @SENA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Sena whispers about being seen but keeps her phone steady. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step07_sena_fear.png` |
-| ⬜ | `S10_Step08` | @KOJO_DANSO @KOSI_MENSAH @SENA_ADJOVI | WIDE / low observational angle | The trio freezes as a distant construction engine cuts out. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step08_engine_hush.png` |
-| ⬜ | `S10_Step09` | @KOSI_MENSAH | MEDIUM / handheld eye-level | Kosi seals the water sample with practiced precision. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step09_sample_sealed.png` |
-| ⬜ | `S10_Step10` | @KOJO_DANSO @KOSI_MENSAH @SENA_ADJOVI | WIDE / rear closing tableau | Kojo guides the canoe back through green-gold roots toward daylight. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step10_escape_passage.png` |
+| ✅ | `S10_Step01` | @KOJO_DANSO @KOSI_MENSAH @SENA_ADJOVI | WIDE / high establishing angle | A slim canoe slips into a shadowed mangrove passage. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step01_mangrove_entry.png` |
+| ✅ | `S10_Step02` | @KOJO_DANSO | MEDIUM / eye-level | Kojo poles carefully between tangled roots and dark water. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step02_kojo_poles.png` |
+| ✅ | `S10_Step03` | @KOSI_MENSAH | CLOSE / three-quarter profile | Kosi lowers a water sensor on a wire over the canoe's side. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step03_kosi_sensor.png` |
+| ✅ | `S10_Step04` | @KOSI_MENSAH | INSERT / top-down detail | The sensor display spikes sharply against Kosi's gloved hand. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step04_meter_spike.png` |
+| ✅ | `S10_Step05` | @KOSI_MENSAH @KOJO_DANSO @SENA_ADJOVI | TWO-SHOT / eye-level | Kosi, Kojo and Sena hold their breath in the narrow canoe. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step05_three_in_canoe.png` |
+| ✅ | `S10_Step06` | @KOSI_MENSAH @SENA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Sena films a concealed pipe pulsing warm grey water. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step06_hidden_pipe.png` |
+| ✅ | `S10_Step07` | @SENA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Sena whispers about being seen but keeps her phone steady. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step07_sena_fear.png` |
+| ✅ | `S10_Step08` | @KOJO_DANSO @KOSI_MENSAH @SENA_ADJOVI | WIDE / low observational angle | The trio freezes as a distant construction engine cuts out. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step08_engine_hush.png` |
+| ✅ | `S10_Step09` | @KOSI_MENSAH | MEDIUM / handheld eye-level | Kosi seals the water sample with practiced precision. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step09_sample_sealed.png` |
+| ✅ | `S10_Step10` | @KOJO_DANSO @KOSI_MENSAH @SENA_ADJOVI | WIDE / rear closing tableau | Kojo guides the canoe back through green-gold roots toward daylight. | tense fieldwork; green-gold shafts through dense mangrove canopy | `images/act2/S10_Step10_escape_passage.png` |
 
 ## S11 — King Tide (FLOODED_COMPOUND)
 

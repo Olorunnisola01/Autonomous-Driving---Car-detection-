@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 90,
+    "scene_shots_complete": 100,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -2109,7 +2109,7 @@
         "Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S10 — Under the Roots. WIDE shot, high establishing angle. Characters in frame: @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). A slim canoe slips into a shadowed mangrove passage. Mood: tense fieldwork. Lighting: green-gold shafts through dense mangrove canopy. Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S10_Step01_mangrove_entry.png"
     },
     {
@@ -2131,7 +2131,7 @@
         "Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S10 — Under the Roots. MEDIUM shot, eye-level. Characters in frame: @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). Kojo poles carefully between tangled roots and dark water. Mood: tense fieldwork. Lighting: green-gold shafts through dense mangrove canopy. Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S10_Step02_kojo_poles.png"
     },
     {
@@ -2153,7 +2153,7 @@
         "Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S10 — Under the Roots. CLOSE shot, three-quarter profile. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi lowers a water sensor on a wire over the canoe's side. Mood: tense fieldwork. Lighting: green-gold shafts through dense mangrove canopy. Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S10_Step03_kosi_sensor.png"
     },
     {
@@ -2175,7 +2175,7 @@
         "Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S10 — Under the Roots. INSERT shot, top-down detail. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). The sensor display spikes sharply against Kosi's gloved hand. Mood: tense fieldwork. Lighting: green-gold shafts through dense mangrove canopy. Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S10_Step04_meter_spike.png"
     },
     {
@@ -2201,7 +2201,7 @@
         "Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S10 — Under the Roots. TWO-SHOT shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Kosi, Kojo and Sena hold their breath in the narrow canoe. Mood: tense fieldwork. Lighting: green-gold shafts through dense mangrove canopy. Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S10_Step05_three_in_canoe.png"
     },
     {
@@ -2225,7 +2225,7 @@
         "Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S10 — Under the Roots. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Over Kosi's shoulder, Sena films a concealed pipe pulsing warm grey water. Mood: tense fieldwork. Lighting: green-gold shafts through dense mangrove canopy. Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S10_Step06_hidden_pipe.png"
     },
     {
@@ -2247,7 +2247,7 @@
         "Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S10 — Under the Roots. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena whispers about being seen but keeps her phone steady. Mood: tense fieldwork. Lighting: green-gold shafts through dense mangrove canopy. Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S10_Step07_sena_fear.png"
     },
     {
@@ -2273,7 +2273,7 @@
         "Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S10 — Under the Roots. WIDE shot, low observational angle. Characters in frame: @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). The trio freezes as a distant construction engine cuts out. Mood: tense fieldwork. Lighting: green-gold shafts through dense mangrove canopy. Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S10_Step08_engine_hush.png"
     },
     {
@@ -2295,7 +2295,7 @@
         "Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S10 — Under the Roots. MEDIUM shot, handheld eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi seals the water sample with practiced precision. Mood: tense fieldwork. Lighting: green-gold shafts through dense mangrove canopy. Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S10_Step09_sample_sealed.png"
     },
     {
@@ -2321,7 +2321,7 @@
         "Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S10 — Under the Roots. WIDE shot, rear closing tableau. Characters in frame: @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Kojo guides the canoe back through green-gold roots toward daylight. Mood: tense fieldwork. Lighting: green-gold shafts through dense mangrove canopy. Environment = Location Registry id 'MANGROVE_PASSAGE': A shadowed mangrove passage off Afenyo lagoon: tangled roots in dark water, a slim canoe path, floating leaves, shafts of green-gold light and the distant hum of construction machinery.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S10_Step10_escape_passage.png"
     },
     {
