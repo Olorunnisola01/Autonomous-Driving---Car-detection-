@@ -65,3 +65,18 @@
 1. Retry `voices/odogwu.mp3` (softened text) — feminine/masculine slots free.
 2. Chapter 2 — The Night Bus (~2,400 words → ~7 narration clips + woman-in-lace scene + scarred-man teaser).
 3. Continue chapter-by-chapter until Epilogue. ~7 more narration turns expected (45–55 min total runtime).
+
+---
+
+## 7. LOCKED PRODUCTION PLAN (2026-08-05, user-approved)
+
+**Narrator voice:** feminine · educational · index 3 (= audition "Option 7", the slowest natural voice in the pool)
+**Speed:** atempo **0.70** (maximum slow) — applied at assembly time to every narration chunk
+**Pauses:** narration recorded in **short ~450-char sentence-aligned chunks** (`split_chapter.py`), assembled with **1.8 s gaps** between chunks for a heavy, cinematic read
+**Pipeline:** `split_chapter.py N` → generate `parts/Chapter-NN/narr-XX.mp3` (narrator voice) → assemble with atempo 0.70 + 1.8 s gaps
+**Chapter 1 must be RE-RECORDED** with the new voice (15 chunks) and re-assembled to replace the old 5:20 version.
+**Auditions:** `auditions/` — reels 1–4 (options 1–20). Option 7 = `opt-G-edu3.mp3`.
+
+## 8. TURN LOG UPDATE
+
+- **Turn 3:** Auditioned 20 narrator options across use_cases (narration/educational/entertainment/conversational, indices 0–9). Slowest natural = Option 7 (edu idx 3, 19.20 s for the demo passage). User chose **maximum slow: Option 7 @ 70% + pauses**. Built `split_chapter.py`; Ch1 = 15 chunks, Ch2 = 24, Epilogue = 15.
