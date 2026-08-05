@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 120,
+    "scene_shots_complete": 130,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -2825,7 +2825,7 @@
         "Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S13 — The Yard Stands Still. WIDE shot, high establishing angle. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle). Esi's smoke yard stands still: ovens cold, fish trays stacked, workers watching. Mood: defiant collective action. Lighting: white daylight softened by smoke haze. Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S13_Step01_smoke_yard.png"
     },
     {
@@ -2847,7 +2847,7 @@
         "Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S13 — The Yard Stands Still. MEDIUM shot, eye-level. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle). Esi raises her charred paddle and calls for a careful work stoppage. Mood: defiant collective action. Lighting: white daylight softened by smoke haze. Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S13_Step02_esi_calls_stop.png"
     },
     {
@@ -2869,7 +2869,7 @@
         "Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S13 — The Yard Stands Still. CLOSE shot, three-quarter profile. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi holds water-sample results protected in a clear sleeve. Mood: defiant collective action. Lighting: white daylight softened by smoke haze. Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S13_Step03_kosi_results.png"
     },
     {
@@ -2891,7 +2891,7 @@
         "Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S13 — The Yard Stands Still. INSERT shot, top-down detail. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle). Woven fish trays make a nonviolent barrier across the resort road. Mood: defiant collective action. Lighting: white daylight softened by smoke haze. Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S13_Step04_fish_tray_barrier.png"
     },
     {
@@ -2915,7 +2915,7 @@
         "Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S13 — The Yard Stands Still. TWO-SHOT shot, eye-level. Characters in frame: @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle). Nii arrives with his ebony heron cane as Esi meets him in the smoke. Mood: defiant collective action. Lighting: white daylight softened by smoke haze. Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S13_Step05_nii_arrives.png"
     },
     {
@@ -2939,7 +2939,7 @@
         "Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S13 — The Yard Stands Still. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). Over Kosi's shoulder, Nii refuses even to read the water results. Mood: defiant collective action. Lighting: white daylight softened by smoke haze. Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S13_Step06_proof_refused.png"
     },
     {
@@ -2961,7 +2961,7 @@
         "Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S13 — The Yard Stands Still. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle). Esi says theft does not become progress by wearing a hard hat. Mood: defiant collective action. Lighting: white daylight softened by smoke haze. Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S13_Step07_esi_defiance.png"
     },
     {
@@ -2989,7 +2989,7 @@
         "Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S13 — The Yard Stands Still. WIDE shot, low observational angle. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). Fish smokers stand shoulder to shoulder amid luminous smoke. Mood: defiant collective action. Lighting: white daylight softened by smoke haze. Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S13_Step08_yard_united.png"
     },
     {
@@ -3011,7 +3011,7 @@
         "Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S13 — The Yard Stands Still. MEDIUM shot, handheld eye-level. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena broadcasts Esi's words into her small microphone. Mood: defiant collective action. Lighting: white daylight softened by smoke haze. Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S13_Step09_sena_broadcasts.png"
     },
     {
@@ -3035,7 +3035,7 @@
         "Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S13 — The Yard Stands Still. WIDE shot, rear closing tableau. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). The smoke-yard standoff holds as the whole town watches. Mood: defiant collective action. Lighting: white daylight softened by smoke haze. Environment = Location Registry id 'FISH_SMOKE_YARD': Esi's fish-smoking yard by the Afenyo market: low clay smoking ovens, blackened racks, woven fish trays, stacked firewood, haze of fragrant smoke, red earth and a glimpse of lagoon water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S13_Step10_silent_standoff.png"
     },
     {

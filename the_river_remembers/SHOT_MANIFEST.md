@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 120 / 200
+- **Scene shots complete:** 130 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S13_Step01`
+- **Next scene-image label after reference approval:** `S14_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -201,16 +201,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S13_Step01` | @ESI_TETTEH | WIDE / high establishing angle | Esi's smoke yard stands still: ovens cold, fish trays stacked, workers watching. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step01_smoke_yard.png` |
-| ⬜ | `S13_Step02` | @ESI_TETTEH | MEDIUM / eye-level | Esi raises her charred paddle and calls for a careful work stoppage. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step02_esi_calls_stop.png` |
-| ⬜ | `S13_Step03` | @KOSI_MENSAH | CLOSE / three-quarter profile | Kosi holds water-sample results protected in a clear sleeve. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step03_kosi_results.png` |
-| ⬜ | `S13_Step04` | @ESI_TETTEH | INSERT / top-down detail | Woven fish trays make a nonviolent barrier across the resort road. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step04_fish_tray_barrier.png` |
-| ⬜ | `S13_Step05` | @NII_LAMPTEY @ESI_TETTEH | TWO-SHOT / eye-level | Nii arrives with his ebony heron cane as Esi meets him in the smoke. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step05_nii_arrives.png` |
-| ⬜ | `S13_Step06` | @KOSI_MENSAH @NII_LAMPTEY | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Nii refuses even to read the water results. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step06_proof_refused.png` |
-| ⬜ | `S13_Step07` | @ESI_TETTEH | EXTREME CLOSE / intimate frontal angle | Esi says theft does not become progress by wearing a hard hat. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step07_esi_defiance.png` |
-| ⬜ | `S13_Step08` | @ESI_TETTEH @KOSI_MENSAH @SENA_ADJOVI @NII_LAMPTEY | WIDE / low observational angle | Fish smokers stand shoulder to shoulder amid luminous smoke. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step08_yard_united.png` |
-| ⬜ | `S13_Step09` | @SENA_ADJOVI | MEDIUM / handheld eye-level | Sena broadcasts Esi's words into her small microphone. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step09_sena_broadcasts.png` |
-| ⬜ | `S13_Step10` | @ESI_TETTEH @NII_LAMPTEY | WIDE / rear closing tableau | The smoke-yard standoff holds as the whole town watches. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step10_silent_standoff.png` |
+| ✅ | `S13_Step01` | @ESI_TETTEH | WIDE / high establishing angle | Esi's smoke yard stands still: ovens cold, fish trays stacked, workers watching. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step01_smoke_yard.png` |
+| ✅ | `S13_Step02` | @ESI_TETTEH | MEDIUM / eye-level | Esi raises her charred paddle and calls for a careful work stoppage. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step02_esi_calls_stop.png` |
+| ✅ | `S13_Step03` | @KOSI_MENSAH | CLOSE / three-quarter profile | Kosi holds water-sample results protected in a clear sleeve. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step03_kosi_results.png` |
+| ✅ | `S13_Step04` | @ESI_TETTEH | INSERT / top-down detail | Woven fish trays make a nonviolent barrier across the resort road. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step04_fish_tray_barrier.png` |
+| ✅ | `S13_Step05` | @NII_LAMPTEY @ESI_TETTEH | TWO-SHOT / eye-level | Nii arrives with his ebony heron cane as Esi meets him in the smoke. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step05_nii_arrives.png` |
+| ✅ | `S13_Step06` | @KOSI_MENSAH @NII_LAMPTEY | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Nii refuses even to read the water results. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step06_proof_refused.png` |
+| ✅ | `S13_Step07` | @ESI_TETTEH | EXTREME CLOSE / intimate frontal angle | Esi says theft does not become progress by wearing a hard hat. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step07_esi_defiance.png` |
+| ✅ | `S13_Step08` | @ESI_TETTEH @KOSI_MENSAH @SENA_ADJOVI @NII_LAMPTEY | WIDE / low observational angle | Fish smokers stand shoulder to shoulder amid luminous smoke. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step08_yard_united.png` |
+| ✅ | `S13_Step09` | @SENA_ADJOVI | MEDIUM / handheld eye-level | Sena broadcasts Esi's words into her small microphone. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step09_sena_broadcasts.png` |
+| ✅ | `S13_Step10` | @ESI_TETTEH @NII_LAMPTEY | WIDE / rear closing tableau | The smoke-yard standoff holds as the whole town watches. | defiant collective action; white daylight softened by smoke haze | `images/act2/S13_Step10_silent_standoff.png` |
 
 ## S14 — Archive of the Unheard (COUNCIL_ARCHIVE)
 
