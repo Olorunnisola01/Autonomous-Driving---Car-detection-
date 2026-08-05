@@ -80,3 +80,17 @@
 ## 8. TURN LOG UPDATE
 
 - **Turn 3:** Auditioned 20 narrator options across use_cases (narration/educational/entertainment/conversational, indices 0–9). Slowest natural = Option 7 (edu idx 3, 19.20 s for the demo passage). User chose **maximum slow: Option 7 @ 70% + pauses**. Built `split_chapter.py`; Ch1 = 15 chunks, Ch2 = 24, Epilogue = 15.
+
+## 9. TURN LOG — "continue" run (2026-08-05)
+
+- **Chapter 1 RE-RECORDED** with locked Option 7 voice (feminine · educational · index 3): 7 chunks, assembled at **atempo 0.70 + 1.8 s gaps** → **8:40** (was 5:20). ✅
+- **Odogwu reel** ✅ generated (softened text passed moderation) → `voices/odogwu.mp3` (0:58). All 5 primary reels now complete.
+- **Chapter 2 — The Night Bus:** 2 of 11 narration chunks recorded (`parts/Chapter-02/narr-01..02.mp3`). Remaining: chunks 03–11.
+- Pipeline updated: chapter chunks now **~900 chars** (7 chunks Ch1, 11 chunks Ch2, Epilogue 7); `assemble.py` supports `--tempo`.
+- Chapter 1 sample sentence for audition comparison: `auditions/opt-G-edu3.mp3` (natural) vs 70% (reel 4).
+
+## NEXT TURN TODO
+1. Chapter 2 narration chunks 03–11 (9 clips).
+2. Assemble Chapter 2 (tempo 0.70, gap 1.8) → `Chapter-02-The-Night-Bus.mp3`.
+3. Chapter 3 — The Compound (7 chunks at 900).
+4. Push to GitHub after each chapter.
