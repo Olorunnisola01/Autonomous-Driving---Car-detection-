@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 10 / 200
+- **Scene shots complete:** 20 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S02_Step01`
+- **Next scene-image label after reference approval:** `S03_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -34,16 +34,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S02_Step01` | @KOSI_MENSAH | WIDE / high establishing angle | A tro-tro pulls away from the red-earth stop, leaving Kosi in the sea wind. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step01_bus_stop_establish.png` |
-| ⬜ | `S02_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi steadies her tool case beside cassava baskets and looks toward the lagoon. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step02_arrival_with_case.png` |
-| ⬜ | `S02_Step03` | @SENA_ADJOVI | CLOSE / three-quarter profile | Sena grins beneath turquoise headphones as she spots Kosi. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step03_sena_spots_kosi.png` |
-| ⬜ | `S02_Step04` | @SENA_ADJOVI | INSERT / top-down detail | Sena's small microphone and turquoise headphone cable rest against her mustard hoodie. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step04_radio_mic.png` |
-| ⬜ | `S02_Step05` | @KOSI_MENSAH @SENA_ADJOVI | TWO-SHOT / eye-level | Sena reaches for Kosi's case rather than a hug; Kosi laughs despite herself. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step05_cousins_reunite.png` |
-| ⬜ | `S02_Step06` | @KOSI_MENSAH @SENA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Sena's shoulder, Kosi hears that Ama is afraid. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step06_fear_confession.png` |
-| ⬜ | `S02_Step07` | @SENA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Sena's brave face falters for one honest second. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step07_sena_truthful.png` |
-| ⬜ | `S02_Step08` | @KOSI_MENSAH @SENA_ADJOVI | WIDE / low observational angle | Wind lifts striped umbrellas around the two cousins amid the busy stop. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step08_wind_and_vendors.png` |
-| ⬜ | `S02_Step09` | @KOSI_MENSAH @SENA_ADJOVI | MEDIUM / handheld eye-level | Kosi and Sena walk along the lagoon road, one carrying tools and one recording sound. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step09_walk_home.png` |
-| ⬜ | `S02_Step10` | @KOSI_MENSAH @SENA_ADJOVI | WIDE / rear closing tableau | Their small figures head toward Afenyo's palms and blue water. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step10_road_to_compound.png` |
+| ✅ | `S02_Step01` | @KOSI_MENSAH | WIDE / high establishing angle | A tro-tro pulls away from the red-earth stop, leaving Kosi in the sea wind. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step01_bus_stop_establish.png` |
+| ✅ | `S02_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi steadies her tool case beside cassava baskets and looks toward the lagoon. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step02_arrival_with_case.png` |
+| ✅ | `S02_Step03` | @SENA_ADJOVI | CLOSE / three-quarter profile | Sena grins beneath turquoise headphones as she spots Kosi. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step03_sena_spots_kosi.png` |
+| ✅ | `S02_Step04` | @SENA_ADJOVI | INSERT / top-down detail | Sena's small microphone and turquoise headphone cable rest against her mustard hoodie. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step04_radio_mic.png` |
+| ✅ | `S02_Step05` | @KOSI_MENSAH @SENA_ADJOVI | TWO-SHOT / eye-level | Sena reaches for Kosi's case rather than a hug; Kosi laughs despite herself. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step05_cousins_reunite.png` |
+| ✅ | `S02_Step06` | @KOSI_MENSAH @SENA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Sena's shoulder, Kosi hears that Ama is afraid. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step06_fear_confession.png` |
+| ✅ | `S02_Step07` | @SENA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Sena's brave face falters for one honest second. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step07_sena_truthful.png` |
+| ✅ | `S02_Step08` | @KOSI_MENSAH @SENA_ADJOVI | WIDE / low observational angle | Wind lifts striped umbrellas around the two cousins amid the busy stop. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step08_wind_and_vendors.png` |
+| ✅ | `S02_Step09` | @KOSI_MENSAH @SENA_ADJOVI | MEDIUM / handheld eye-level | Kosi and Sena walk along the lagoon road, one carrying tools and one recording sound. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step09_walk_home.png` |
+| ✅ | `S02_Step10` | @KOSI_MENSAH @SENA_ADJOVI | WIDE / rear closing tableau | Their small figures head toward Afenyo's palms and blue water. | uneasy homecoming; late gold filtering through bus dust | `images/act1/S02_Step10_road_to_compound.png` |
 
 ## S03 — A Lantern Left Dark (COMPOUND_COURTYARD)
 

@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 10,
+    "scene_shots_complete": 20,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -249,7 +249,7 @@
         "Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S02 — Road to Afenyo. WIDE shot, high establishing angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). A tro-tro pulls away from the red-earth stop, leaving Kosi in the sea wind. Mood: uneasy homecoming. Lighting: late gold filtering through bus dust. Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S02_Step01_bus_stop_establish.png"
     },
     {
@@ -271,7 +271,7 @@
         "Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S02 — Road to Afenyo. MEDIUM shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi steadies her tool case beside cassava baskets and looks toward the lagoon. Mood: uneasy homecoming. Lighting: late gold filtering through bus dust. Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S02_Step02_arrival_with_case.png"
     },
     {
@@ -293,7 +293,7 @@
         "Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S02 — Road to Afenyo. CLOSE shot, three-quarter profile. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena grins beneath turquoise headphones as she spots Kosi. Mood: uneasy homecoming. Lighting: late gold filtering through bus dust. Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S02_Step03_sena_spots_kosi.png"
     },
     {
@@ -315,7 +315,7 @@
         "Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S02 — Road to Afenyo. INSERT shot, top-down detail. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena's small microphone and turquoise headphone cable rest against her mustard hoodie. Mood: uneasy homecoming. Lighting: late gold filtering through bus dust. Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S02_Step04_radio_mic.png"
     },
     {
@@ -339,7 +339,7 @@
         "Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S02 — Road to Afenyo. TWO-SHOT shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena reaches for Kosi's case rather than a hug; Kosi laughs despite herself. Mood: uneasy homecoming. Lighting: late gold filtering through bus dust. Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S02_Step05_cousins_reunite.png"
     },
     {
@@ -363,7 +363,7 @@
         "Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S02 — Road to Afenyo. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Over Sena's shoulder, Kosi hears that Ama is afraid. Mood: uneasy homecoming. Lighting: late gold filtering through bus dust. Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S02_Step06_fear_confession.png"
     },
     {
@@ -385,7 +385,7 @@
         "Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S02 — Road to Afenyo. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena's brave face falters for one honest second. Mood: uneasy homecoming. Lighting: late gold filtering through bus dust. Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S02_Step07_sena_truthful.png"
     },
     {
@@ -409,7 +409,7 @@
         "Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S02 — Road to Afenyo. WIDE shot, low observational angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Wind lifts striped umbrellas around the two cousins amid the busy stop. Mood: uneasy homecoming. Lighting: late gold filtering through bus dust. Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S02_Step08_wind_and_vendors.png"
     },
     {
@@ -433,7 +433,7 @@
         "Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S02 — Road to Afenyo. MEDIUM shot, handheld eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Kosi and Sena walk along the lagoon road, one carrying tools and one recording sound. Mood: uneasy homecoming. Lighting: late gold filtering through bus dust. Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S02_Step09_walk_home.png"
     },
     {
@@ -457,7 +457,7 @@
         "Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S02 — Road to Afenyo. WIDE shot, rear closing tableau. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Their small figures head toward Afenyo's palms and blue water. Mood: uneasy homecoming. Lighting: late gold filtering through bus dust. Environment = Location Registry id 'AFENYO_BUS_STOP': Afenyo's small red-earth bus stop at the lagoon edge: a faded blue shelter, cassava vendors under striped umbrellas, old tro-tro vans, palm trees bent by sea wind and distant silver water.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S02_Step10_road_to_compound.png"
     },
     {
