@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 100 / 200
+- **Scene shots complete:** 110 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S11_Step01`
+- **Next scene-image label after reference approval:** `S12_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -171,16 +171,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S11_Step01` | @KOSI_MENSAH @AMA_ADJOVI | WIDE / high establishing angle | Storm water fills the compound around the blue door and floating mango leaves. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step01_flooded_home.png` |
-| ⬜ | `S11_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi raises electrical leads above ankle-deep flood water. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step02_kosi_lifts_leads.png` |
-| ⬜ | `S11_Step03` | @AMA_ADJOVI | CLOSE / three-quarter profile | Ama grips a crate of lanterns and refuses to leave it behind. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step03_ama_crate.png` |
-| ⬜ | `S11_Step04` | @AMA_ADJOVI | INSERT / top-down detail | A blue lantern reflection trembles in flood water around Ama's sandals. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step04_water_reflection.png` |
-| ⬜ | `S11_Step05` | @KOJO_DANSO @SENA_ADJOVI | TWO-SHOT / eye-level | Kojo wades in with a canoe as Sena reaches for the lantern crate. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step05_kojo_arrives.png` |
-| ⬜ | `S11_Step06` | @KOSI_MENSAH @AMA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Ama's shoulder, Kosi promises to make the water testify. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step06_kosi_reassures.png` |
-| ⬜ | `S11_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama speaks of water remembering every blocked path. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step07_ama_remembers.png` |
-| ⬜ | `S11_Step08` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI @KOJO_DANSO | WIDE / low observational angle | The family floats tools and lanterns toward Kojo's waiting canoe. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step08_rescue_team.png` |
-| ⬜ | `S11_Step09` | @KOSI_MENSAH @SENA_ADJOVI | MEDIUM / handheld eye-level | A blue lantern sputters to life between rain lashes. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step09_first_flicker.png` |
-| ⬜ | `S11_Step10` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI @KOJO_DANSO | WIDE / rear closing tableau | One small lantern burns over the flooded courtyard as the group works together. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step10_storm_lantern.png` |
+| ✅ | `S11_Step01` | @KOSI_MENSAH @AMA_ADJOVI | WIDE / high establishing angle | Storm water fills the compound around the blue door and floating mango leaves. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step01_flooded_home.png` |
+| ✅ | `S11_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi raises electrical leads above ankle-deep flood water. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step02_kosi_lifts_leads.png` |
+| ✅ | `S11_Step03` | @AMA_ADJOVI | CLOSE / three-quarter profile | Ama grips a crate of lanterns and refuses to leave it behind. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step03_ama_crate.png` |
+| ✅ | `S11_Step04` | @AMA_ADJOVI | INSERT / top-down detail | A blue lantern reflection trembles in flood water around Ama's sandals. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step04_water_reflection.png` |
+| ✅ | `S11_Step05` | @KOJO_DANSO @SENA_ADJOVI | TWO-SHOT / eye-level | Kojo wades in with a canoe as Sena reaches for the lantern crate. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step05_kojo_arrives.png` |
+| ✅ | `S11_Step06` | @KOSI_MENSAH @AMA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Ama's shoulder, Kosi promises to make the water testify. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step06_kosi_reassures.png` |
+| ✅ | `S11_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama speaks of water remembering every blocked path. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step07_ama_remembers.png` |
+| ✅ | `S11_Step08` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI @KOJO_DANSO | WIDE / low observational angle | The family floats tools and lanterns toward Kojo's waiting canoe. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step08_rescue_team.png` |
+| ✅ | `S11_Step09` | @KOSI_MENSAH @SENA_ADJOVI | MEDIUM / handheld eye-level | A blue lantern sputters to life between rain lashes. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step09_first_flicker.png` |
+| ✅ | `S11_Step10` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI @KOJO_DANSO | WIDE / rear closing tableau | One small lantern burns over the flooded courtyard as the group works together. | urgent, tender resilience; storm flashes, lantern reflections and dark blue rain | `images/act2/S11_Step10_storm_lantern.png` |
 
 ## S12 — Night of the Red Moon (OLD_BEACON_HUT)
 

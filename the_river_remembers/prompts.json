@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 100,
+    "scene_shots_complete": 110,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -2345,7 +2345,7 @@
         "Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S11 — King Tide. WIDE shot, high establishing angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Storm water fills the compound around the blue door and floating mango leaves. Mood: urgent, tender resilience. Lighting: storm flashes, lantern reflections and dark blue rain. Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S11_Step01_flooded_home.png"
     },
     {
@@ -2367,7 +2367,7 @@
         "Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S11 — King Tide. MEDIUM shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi raises electrical leads above ankle-deep flood water. Mood: urgent, tender resilience. Lighting: storm flashes, lantern reflections and dark blue rain. Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S11_Step02_kosi_lifts_leads.png"
     },
     {
@@ -2389,7 +2389,7 @@
         "Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S11 — King Tide. CLOSE shot, three-quarter profile. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama grips a crate of lanterns and refuses to leave it behind. Mood: urgent, tender resilience. Lighting: storm flashes, lantern reflections and dark blue rain. Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S11_Step03_ama_crate.png"
     },
     {
@@ -2411,7 +2411,7 @@
         "Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S11 — King Tide. INSERT shot, top-down detail. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). A blue lantern reflection trembles in flood water around Ama's sandals. Mood: urgent, tender resilience. Lighting: storm flashes, lantern reflections and dark blue rain. Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S11_Step04_water_reflection.png"
     },
     {
@@ -2435,7 +2435,7 @@
         "Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S11 — King Tide. TWO-SHOT shot, eye-level. Characters in frame: @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Kojo wades in with a canoe as Sena reaches for the lantern crate. Mood: urgent, tender resilience. Lighting: storm flashes, lantern reflections and dark blue rain. Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S11_Step05_kojo_arrives.png"
     },
     {
@@ -2459,7 +2459,7 @@
         "Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S11 — King Tide. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Over Ama's shoulder, Kosi promises to make the water testify. Mood: urgent, tender resilience. Lighting: storm flashes, lantern reflections and dark blue rain. Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S11_Step06_kosi_reassures.png"
     },
     {
@@ -2481,7 +2481,7 @@
         "Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S11 — King Tide. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama speaks of water remembering every blocked path. Mood: urgent, tender resilience. Lighting: storm flashes, lantern reflections and dark blue rain. Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S11_Step07_ama_remembers.png"
     },
     {
@@ -2509,7 +2509,7 @@
         "Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S11 — King Tide. WIDE shot, low observational angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). The family floats tools and lanterns toward Kojo's waiting canoe. Mood: urgent, tender resilience. Lighting: storm flashes, lantern reflections and dark blue rain. Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S11_Step08_rescue_team.png"
     },
     {
@@ -2533,7 +2533,7 @@
         "Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S11 — King Tide. MEDIUM shot, handheld eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). A blue lantern sputters to life between rain lashes. Mood: urgent, tender resilience. Lighting: storm flashes, lantern reflections and dark blue rain. Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S11_Step09_first_flicker.png"
     },
     {
@@ -2561,7 +2561,7 @@
         "Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S11 — King Tide. WIDE shot, rear closing tableau. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). One small lantern burns over the flooded courtyard as the group works together. Mood: urgent, tender resilience. Lighting: storm flashes, lantern reflections and dark blue rain. Environment = Location Registry id 'FLOODED_COMPOUND': Ama's family compound courtyard after a king-tide flood: ankle-deep reflective water around ochre walls and woven stools, floating mango leaves, soaked laundry, a blue door and storm-grey sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S11_Step10_storm_lantern.png"
     },
     {
