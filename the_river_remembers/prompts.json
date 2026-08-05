@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 60,
+    "scene_shots_complete": 70,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -1413,7 +1413,7 @@
         "Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S07 — The Ledger in the Lantern. WIDE shot, high establishing angle. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Ama's workshop glows with brass lanterns while Kosi opens a damaged frame. Mood: discovery and inheritance. Lighting: warm brass lantern light against deep blue night. Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S07_Step01_workshop_night.png"
     },
     {
@@ -1435,7 +1435,7 @@
         "Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S07 — The Ledger in the Lantern. MEDIUM shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi uses a small tool to reconnect a lantern wire at the workbench. Mood: discovery and inheritance. Lighting: warm brass lantern light against deep blue night. Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S07_Step02_kosi_repairs.png"
     },
     {
@@ -1457,7 +1457,7 @@
         "Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S07 — The Ledger in the Lantern. CLOSE shot, three-quarter profile. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama watches Kosi work with pride and guarded concern. Mood: discovery and inheritance. Lighting: warm brass lantern light against deep blue night. Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S07_Step03_ama_watches.png"
     },
     {
@@ -1479,7 +1479,7 @@
         "Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S07 — The Ledger in the Lantern. INSERT shot, top-down detail. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). A rolled water-stained ledger page slides from behind a loose blue glass pane. Mood: discovery and inheritance. Lighting: warm brass lantern light against deep blue night. Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S07_Step04_hidden_page.png"
     },
     {
@@ -1501,7 +1501,7 @@
         "Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S07 — The Ledger in the Lantern. TWO-SHOT shot, eye-level. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena recognizes a repeating code in the page's hand-drawn wave marks. Mood: discovery and inheritance. Lighting: warm brass lantern light against deep blue night. Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S07_Step05_sena_decodes.png"
     },
     {
@@ -1525,7 +1525,7 @@
         "Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S07 — The Ledger in the Lantern. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Over Kosi's shoulder, Ama closes Kosi's hand around the recovered page. Mood: discovery and inheritance. Lighting: warm brass lantern light against deep blue night. Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S07_Step06_legacy_handoff.png"
     },
     {
@@ -1547,7 +1547,7 @@
         "Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S07 — The Ledger in the Lantern. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama explains that elders hid papers inside what kept people safe. Mood: discovery and inheritance. Lighting: warm brass lantern light against deep blue night. Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S07_Step07_ama_memory.png"
     },
     {
@@ -1573,7 +1573,7 @@
         "Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S07 — The Ledger in the Lantern. WIDE shot, low observational angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Three generations stand among crowded lantern frames and copper wire. Mood: discovery and inheritance. Lighting: warm brass lantern light against deep blue night. Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S07_Step08_lanterns_crowd.png"
     },
     {
@@ -1597,7 +1597,7 @@
         "Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S07 — The Ledger in the Lantern. MEDIUM shot, handheld eye-level. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Sena points from the coded waves to an old radio frequency in the ledger. Mood: discovery and inheritance. Lighting: warm brass lantern light against deep blue night. Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S07_Step09_frequency_found.png"
     },
     {
@@ -1623,7 +1623,7 @@
         "Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S07 — The Ledger in the Lantern. WIDE shot, rear closing tableau. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). The group makes a quiet pact beneath warm lantern light. Mood: discovery and inheritance. Lighting: warm brass lantern light against deep blue night. Environment = Location Registry id 'AMA_LANTERN_WORKSHOP': Ama's lantern workshop off the compound courtyard: clay-red floor, crowded wooden workbench, brass lantern frames, blue glass panes, hand tools, coils of copper wire, indigo cloth and shafts of warm window light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S07_Step10_workshop_pact.png"
     },
     {

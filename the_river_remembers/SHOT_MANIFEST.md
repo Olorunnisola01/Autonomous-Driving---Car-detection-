@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 60 / 200
+- **Scene shots complete:** 70 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S07_Step01`
+- **Next scene-image label after reference approval:** `S08_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -111,16 +111,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S07_Step01` | @AMA_ADJOVI @KOSI_MENSAH | WIDE / high establishing angle | Ama's workshop glows with brass lanterns while Kosi opens a damaged frame. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step01_workshop_night.png` |
-| ⬜ | `S07_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi uses a small tool to reconnect a lantern wire at the workbench. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step02_kosi_repairs.png` |
-| ⬜ | `S07_Step03` | @AMA_ADJOVI | CLOSE / three-quarter profile | Ama watches Kosi work with pride and guarded concern. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step03_ama_watches.png` |
-| ⬜ | `S07_Step04` | @KOSI_MENSAH | INSERT / top-down detail | A rolled water-stained ledger page slides from behind a loose blue glass pane. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step04_hidden_page.png` |
-| ⬜ | `S07_Step05` | @SENA_ADJOVI | TWO-SHOT / eye-level | Sena recognizes a repeating code in the page's hand-drawn wave marks. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step05_sena_decodes.png` |
-| ⬜ | `S07_Step06` | @KOSI_MENSAH @AMA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Ama closes Kosi's hand around the recovered page. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step06_legacy_handoff.png` |
-| ⬜ | `S07_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama explains that elders hid papers inside what kept people safe. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step07_ama_memory.png` |
-| ⬜ | `S07_Step08` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI | WIDE / low observational angle | Three generations stand among crowded lantern frames and copper wire. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step08_lanterns_crowd.png` |
-| ⬜ | `S07_Step09` | @SENA_ADJOVI @KOSI_MENSAH | MEDIUM / handheld eye-level | Sena points from the coded waves to an old radio frequency in the ledger. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step09_frequency_found.png` |
-| ⬜ | `S07_Step10` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI | WIDE / rear closing tableau | The group makes a quiet pact beneath warm lantern light. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step10_workshop_pact.png` |
+| ✅ | `S07_Step01` | @AMA_ADJOVI @KOSI_MENSAH | WIDE / high establishing angle | Ama's workshop glows with brass lanterns while Kosi opens a damaged frame. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step01_workshop_night.png` |
+| ✅ | `S07_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi uses a small tool to reconnect a lantern wire at the workbench. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step02_kosi_repairs.png` |
+| ✅ | `S07_Step03` | @AMA_ADJOVI | CLOSE / three-quarter profile | Ama watches Kosi work with pride and guarded concern. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step03_ama_watches.png` |
+| ✅ | `S07_Step04` | @KOSI_MENSAH | INSERT / top-down detail | A rolled water-stained ledger page slides from behind a loose blue glass pane. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step04_hidden_page.png` |
+| ✅ | `S07_Step05` | @SENA_ADJOVI | TWO-SHOT / eye-level | Sena recognizes a repeating code in the page's hand-drawn wave marks. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step05_sena_decodes.png` |
+| ✅ | `S07_Step06` | @KOSI_MENSAH @AMA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Ama closes Kosi's hand around the recovered page. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step06_legacy_handoff.png` |
+| ✅ | `S07_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama explains that elders hid papers inside what kept people safe. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step07_ama_memory.png` |
+| ✅ | `S07_Step08` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI | WIDE / low observational angle | Three generations stand among crowded lantern frames and copper wire. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step08_lanterns_crowd.png` |
+| ✅ | `S07_Step09` | @SENA_ADJOVI @KOSI_MENSAH | MEDIUM / handheld eye-level | Sena points from the coded waves to an old radio frequency in the ledger. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step09_frequency_found.png` |
+| ✅ | `S07_Step10` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI | WIDE / rear closing tableau | The group makes a quiet pact beneath warm lantern light. | discovery and inheritance; warm brass lantern light against deep blue night | `images/act2/S07_Step10_workshop_pact.png` |
 
 ## S08 — Open Frequency (SENA_RADIO_SHACK)
 
