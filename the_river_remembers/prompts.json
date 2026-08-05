@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 30,
+    "scene_shots_complete": 40,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -711,7 +711,7 @@
         "Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S04 — Price of the Water. WIDE shot, high establishing angle. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). The market wakes around fish baskets, bright canopies and a restless lagoon. Mood: busy, simmering anger. Lighting: bright tropical morning broken by striped canopies. Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S04_Step01_market_morning.png"
     },
     {
@@ -733,7 +733,7 @@
         "Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S04 — Price of the Water. MEDIUM shot, eye-level. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle). Esi slaps a wet survey notice onto a fish tray with her charred paddle. Mood: busy, simmering anger. Lighting: bright tropical morning broken by striped canopies. Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S04_Step02_esi_notice.png"
     },
     {
@@ -755,7 +755,7 @@
         "Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S04 — Price of the Water. CLOSE shot, three-quarter profile. Characters in frame: @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). Kojo looks toward the water, naming the metallic smell in the current. Mood: busy, simmering anger. Lighting: bright tropical morning broken by striped canopies. Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S04_Step03_kojo_smell.png"
     },
     {
@@ -777,7 +777,7 @@
         "Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S04 — Price of the Water. INSERT shot, top-down detail. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi's finger tracks an unfamiliar utility line on the crumpled notice. Mood: busy, simmering anger. Lighting: bright tropical morning broken by striped canopies. Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S04_Step04_survey_map.png"
     },
     {
@@ -805,7 +805,7 @@
         "Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S04 — Price of the Water. TWO-SHOT shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). Esi, Kojo, Kosi and Sena circle the notice amid the crowded market. Mood: busy, simmering anger. Lighting: bright tropical morning broken by striped canopies. Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S04_Step05_four_way_debate.png"
     },
     {
@@ -829,7 +829,7 @@
         "Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S04 — Price of the Water. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle). Over Kosi's shoulder, the diagram points toward the navigation buoy. Mood: busy, simmering anger. Lighting: bright tropical morning broken by striped canopies. Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S04_Step06_line_to_buoy.png"
     },
     {
@@ -851,7 +851,7 @@
         "Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S04 — Price of the Water. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle). Esi refuses the promise of access behind a locked gate. Mood: busy, simmering anger. Lighting: bright tropical morning broken by striped canopies. Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S04_Step07_esi_anger.png"
     },
     {
@@ -877,7 +877,7 @@
         "Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S04 — Price of the Water. WIDE shot, low observational angle. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Nearby sellers pause to listen as Sena records voices. Mood: busy, simmering anger. Lighting: bright tropical morning broken by striped canopies. Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S04_Step08_market_listens.png"
     },
     {
@@ -901,7 +901,7 @@
         "Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S04 — Price of the Water. MEDIUM shot, handheld eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). Kosi asks Kojo to show her where the cables entered the shore. Mood: busy, simmering anger. Lighting: bright tropical morning broken by striped canopies. Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S04_Step09_kosi_sets_plan.png"
     },
     {
@@ -927,7 +927,7 @@
         "Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S04 — Price of the Water. WIDE shot, rear closing tableau. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Kosi, Kojo and Sena leave the market toward the blue-green lagoon. Mood: busy, simmering anger. Lighting: bright tropical morning broken by striped canopies. Environment = Location Registry id 'AFENYO_MARKET': Afenyo's open lagoon market: timber stalls, bright wax-print canopies, baskets of smoked fish and tomatoes, colourful basins, sandy paths, bicycles and the blue-green lagoon visible beyond mangroves.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S04_Step10_toward_lagoon.png"
     },
     {

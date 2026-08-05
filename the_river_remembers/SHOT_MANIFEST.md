@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 30 / 200
+- **Scene shots complete:** 40 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S04_Step01`
+- **Next scene-image label after reference approval:** `S05_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -64,16 +64,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S04_Step01` | @ESI_TETTEH @SENA_ADJOVI | WIDE / high establishing angle | The market wakes around fish baskets, bright canopies and a restless lagoon. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step01_market_morning.png` |
-| ⬜ | `S04_Step02` | @ESI_TETTEH | MEDIUM / eye-level | Esi slaps a wet survey notice onto a fish tray with her charred paddle. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step02_esi_notice.png` |
-| ⬜ | `S04_Step03` | @KOJO_DANSO | CLOSE / three-quarter profile | Kojo looks toward the water, naming the metallic smell in the current. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step03_kojo_smell.png` |
-| ⬜ | `S04_Step04` | @KOSI_MENSAH | INSERT / top-down detail | Kosi's finger tracks an unfamiliar utility line on the crumpled notice. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step04_survey_map.png` |
-| ⬜ | `S04_Step05` | @KOSI_MENSAH @SENA_ADJOVI @ESI_TETTEH @KOJO_DANSO | TWO-SHOT / eye-level | Esi, Kojo, Kosi and Sena circle the notice amid the crowded market. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step05_four_way_debate.png` |
-| ⬜ | `S04_Step06` | @KOSI_MENSAH @ESI_TETTEH | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, the diagram points toward the navigation buoy. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step06_line_to_buoy.png` |
-| ⬜ | `S04_Step07` | @ESI_TETTEH | EXTREME CLOSE / intimate frontal angle | Esi refuses the promise of access behind a locked gate. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step07_esi_anger.png` |
-| ⬜ | `S04_Step08` | @ESI_TETTEH @KOSI_MENSAH @SENA_ADJOVI | WIDE / low observational angle | Nearby sellers pause to listen as Sena records voices. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step08_market_listens.png` |
-| ⬜ | `S04_Step09` | @KOSI_MENSAH @KOJO_DANSO | MEDIUM / handheld eye-level | Kosi asks Kojo to show her where the cables entered the shore. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step09_kosi_sets_plan.png` |
-| ⬜ | `S04_Step10` | @KOSI_MENSAH @KOJO_DANSO @SENA_ADJOVI | WIDE / rear closing tableau | Kosi, Kojo and Sena leave the market toward the blue-green lagoon. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step10_toward_lagoon.png` |
+| ✅ | `S04_Step01` | @ESI_TETTEH @SENA_ADJOVI | WIDE / high establishing angle | The market wakes around fish baskets, bright canopies and a restless lagoon. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step01_market_morning.png` |
+| ✅ | `S04_Step02` | @ESI_TETTEH | MEDIUM / eye-level | Esi slaps a wet survey notice onto a fish tray with her charred paddle. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step02_esi_notice.png` |
+| ✅ | `S04_Step03` | @KOJO_DANSO | CLOSE / three-quarter profile | Kojo looks toward the water, naming the metallic smell in the current. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step03_kojo_smell.png` |
+| ✅ | `S04_Step04` | @KOSI_MENSAH | INSERT / top-down detail | Kosi's finger tracks an unfamiliar utility line on the crumpled notice. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step04_survey_map.png` |
+| ✅ | `S04_Step05` | @KOSI_MENSAH @SENA_ADJOVI @ESI_TETTEH @KOJO_DANSO | TWO-SHOT / eye-level | Esi, Kojo, Kosi and Sena circle the notice amid the crowded market. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step05_four_way_debate.png` |
+| ✅ | `S04_Step06` | @KOSI_MENSAH @ESI_TETTEH | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, the diagram points toward the navigation buoy. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step06_line_to_buoy.png` |
+| ✅ | `S04_Step07` | @ESI_TETTEH | EXTREME CLOSE / intimate frontal angle | Esi refuses the promise of access behind a locked gate. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step07_esi_anger.png` |
+| ✅ | `S04_Step08` | @ESI_TETTEH @KOSI_MENSAH @SENA_ADJOVI | WIDE / low observational angle | Nearby sellers pause to listen as Sena records voices. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step08_market_listens.png` |
+| ✅ | `S04_Step09` | @KOSI_MENSAH @KOJO_DANSO | MEDIUM / handheld eye-level | Kosi asks Kojo to show her where the cables entered the shore. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step09_kosi_sets_plan.png` |
+| ✅ | `S04_Step10` | @KOSI_MENSAH @KOJO_DANSO @SENA_ADJOVI | WIDE / rear closing tableau | Kosi, Kojo and Sena leave the market toward the blue-green lagoon. | busy, simmering anger; bright tropical morning broken by striped canopies | `images/act1/S04_Step10_toward_lagoon.png` |
 
 ## S05 — The Polite Hearing (DISTRICT_ASSEMBLY_HALL)
 
