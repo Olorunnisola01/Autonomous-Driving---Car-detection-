@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 70 / 200
+- **Scene shots complete:** 80 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S08_Step01`
+- **Next scene-image label after reference approval:** `S09_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -126,16 +126,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S08_Step01` | @SENA_ADJOVI | WIDE / high establishing angle | Sena unlocks the tiny radio shack while morning brightens the market outside. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step01_radio_shack_morning.png` |
-| ⬜ | `S08_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi connects a temporary solar battery to the old mixing board. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step02_battery_connection.png` |
-| ⬜ | `S08_Step03` | @SENA_ADJOVI | CLOSE / three-quarter profile | Sena leans into the battered microphone for the station's first clear broadcast. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step03_sena_on_air.png` |
-| ⬜ | `S08_Step04` | @SENA_ADJOVI | INSERT / top-down detail | Tiny red recording lights and moving level meters glow on the mixing board. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step04_level_meters.png` |
-| ⬜ | `S08_Step05` | @ESI_TETTEH @SENA_ADJOVI | TWO-SHOT / eye-level | Esi gives a fierce testimony into the microphone as Sena listens. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step05_esi_testimony.png` |
-| ⬜ | `S08_Step06` | @KOSI_MENSAH @SENA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Sena's shoulder, Kosi urges caution until they have proof. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step06_kosi_caution.png` |
-| ⬜ | `S08_Step07` | @SENA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Sena answers that fear itself has a voice that deserves air. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step07_sena_counter.png` |
-| ⬜ | `S08_Step08` | @SENA_ADJOVI @KOSI_MENSAH @ESI_TETTEH | WIDE / low observational angle | The cramped shack fills with ringing phones and a growing sense of listeners. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step08_calls_arrive.png` |
-| ⬜ | `S08_Step09` | @KOSI_MENSAH @SENA_ADJOVI | MEDIUM / handheld eye-level | Sena places the microphone between herself and Kosi. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step09_shared_microphone.png` |
-| ⬜ | `S08_Step10` | @SENA_ADJOVI | WIDE / rear closing tableau | The radio antenna points through the open window toward bright lagoon water. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step10_signal_to_lagoon.png` |
+| ✅ | `S08_Step01` | @SENA_ADJOVI | WIDE / high establishing angle | Sena unlocks the tiny radio shack while morning brightens the market outside. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step01_radio_shack_morning.png` |
+| ✅ | `S08_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi connects a temporary solar battery to the old mixing board. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step02_battery_connection.png` |
+| ✅ | `S08_Step03` | @SENA_ADJOVI | CLOSE / three-quarter profile | Sena leans into the battered microphone for the station's first clear broadcast. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step03_sena_on_air.png` |
+| ✅ | `S08_Step04` | @SENA_ADJOVI | INSERT / top-down detail | Tiny red recording lights and moving level meters glow on the mixing board. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step04_level_meters.png` |
+| ✅ | `S08_Step05` | @ESI_TETTEH @SENA_ADJOVI | TWO-SHOT / eye-level | Esi gives a fierce testimony into the microphone as Sena listens. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step05_esi_testimony.png` |
+| ✅ | `S08_Step06` | @KOSI_MENSAH @SENA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Sena's shoulder, Kosi urges caution until they have proof. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step06_kosi_caution.png` |
+| ✅ | `S08_Step07` | @SENA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Sena answers that fear itself has a voice that deserves air. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step07_sena_counter.png` |
+| ✅ | `S08_Step08` | @SENA_ADJOVI @KOSI_MENSAH @ESI_TETTEH | WIDE / low observational angle | The cramped shack fills with ringing phones and a growing sense of listeners. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step08_calls_arrive.png` |
+| ✅ | `S08_Step09` | @KOSI_MENSAH @SENA_ADJOVI | MEDIUM / handheld eye-level | Sena places the microphone between herself and Kosi. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step09_shared_microphone.png` |
+| ✅ | `S08_Step10` | @SENA_ADJOVI | WIDE / rear closing tableau | The radio antenna points through the open window toward bright lagoon water. | improvised courage; clean morning sun and small red recording lights | `images/act2/S08_Step10_signal_to_lagoon.png` |
 
 ## S09 — Map with a Missing Line (RESORT_FENCE)
 

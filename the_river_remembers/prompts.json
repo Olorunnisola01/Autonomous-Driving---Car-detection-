@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 70,
+    "scene_shots_complete": 80,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -1645,7 +1645,7 @@
         "Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S08 — Open Frequency. WIDE shot, high establishing angle. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena unlocks the tiny radio shack while morning brightens the market outside. Mood: improvised courage. Lighting: clean morning sun and small red recording lights. Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S08_Step01_radio_shack_morning.png"
     },
     {
@@ -1667,7 +1667,7 @@
         "Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S08 — Open Frequency. MEDIUM shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi connects a temporary solar battery to the old mixing board. Mood: improvised courage. Lighting: clean morning sun and small red recording lights. Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S08_Step02_battery_connection.png"
     },
     {
@@ -1689,7 +1689,7 @@
         "Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S08 — Open Frequency. CLOSE shot, three-quarter profile. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena leans into the battered microphone for the station's first clear broadcast. Mood: improvised courage. Lighting: clean morning sun and small red recording lights. Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S08_Step03_sena_on_air.png"
     },
     {
@@ -1711,7 +1711,7 @@
         "Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S08 — Open Frequency. INSERT shot, top-down detail. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Tiny red recording lights and moving level meters glow on the mixing board. Mood: improvised courage. Lighting: clean morning sun and small red recording lights. Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S08_Step04_level_meters.png"
     },
     {
@@ -1735,7 +1735,7 @@
         "Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S08 — Open Frequency. TWO-SHOT shot, eye-level. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Esi gives a fierce testimony into the microphone as Sena listens. Mood: improvised courage. Lighting: clean morning sun and small red recording lights. Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S08_Step05_esi_testimony.png"
     },
     {
@@ -1759,7 +1759,7 @@
         "Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S08 — Open Frequency. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Over Sena's shoulder, Kosi urges caution until they have proof. Mood: improvised courage. Lighting: clean morning sun and small red recording lights. Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S08_Step06_kosi_caution.png"
     },
     {
@@ -1781,7 +1781,7 @@
         "Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S08 — Open Frequency. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena answers that fear itself has a voice that deserves air. Mood: improvised courage. Lighting: clean morning sun and small red recording lights. Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S08_Step07_sena_counter.png"
     },
     {
@@ -1807,7 +1807,7 @@
         "Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S08 — Open Frequency. WIDE shot, low observational angle. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle). The cramped shack fills with ringing phones and a growing sense of listeners. Mood: improvised courage. Lighting: clean morning sun and small red recording lights. Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S08_Step08_calls_arrive.png"
     },
     {
@@ -1831,7 +1831,7 @@
         "Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S08 — Open Frequency. MEDIUM shot, handheld eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena places the microphone between herself and Kosi. Mood: improvised courage. Lighting: clean morning sun and small red recording lights. Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S08_Step09_shared_microphone.png"
     },
     {
@@ -1853,7 +1853,7 @@
         "Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S08 — Open Frequency. WIDE shot, rear closing tableau. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). The radio antenna points through the open window toward bright lagoon water. Mood: improvised courage. Lighting: clean morning sun and small red recording lights. Environment = Location Registry id 'SENA_RADIO_SHACK': Sena's tiny community-radio shack beside the market: a patched corrugated roof, foam-lined timber walls, a second-hand mixing board, a battered microphone, tangled cables, a solar battery and one open window to the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S08_Step10_signal_to_lagoon.png"
     },
     {
