@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 20 / 200
+- **Scene shots complete:** 30 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S03_Step01`
+- **Next scene-image label after reference approval:** `S04_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -49,16 +49,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S03_Step01` | @AMA_ADJOVI | WIDE / high establishing angle | Ama waits beneath the mango tree in the courtyard beside an unlit blue-glass lantern. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step01_compound_reveal.png` |
-| ⬜ | `S03_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi steps through the weathered blue door and scans her childhood courtyard. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step02_kosi_enters.png` |
-| ⬜ | `S03_Step03` | @AMA_ADJOVI | CLOSE / three-quarter profile | Ama hides a tremor with a warm, teasing smile. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step03_ama_welcome.png` |
-| ⬜ | `S03_Step04` | @AMA_ADJOVI | INSERT / top-down detail | The dusty blue-glass courtyard lantern hangs dark against sunset. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step04_unlit_lantern.png` |
-| ⬜ | `S03_Step05` | @KOSI_MENSAH @AMA_ADJOVI | TWO-SHOT / eye-level | Kosi hugs Ama tightly while Sena watches from a woven stool. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step05_family_embrace.png` |
-| ⬜ | `S03_Step06` | @KOSI_MENSAH @AMA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Ama's hand trembles against the indigo jumpsuit. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step06_noticed_tremor.png` |
-| ⬜ | `S03_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama explains the meaning of a dark lantern with quiet gravity. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step07_ama_warning.png` |
-| ⬜ | `S03_Step08` | @SENA_ADJOVI | WIDE / low observational angle | Sena strings blue glass scraps into the mango branches. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step08_glass_garland.png` |
-| ⬜ | `S03_Step09` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI | MEDIUM / handheld eye-level | The three sit near untouched pepper soup as sunset turns the courtyard amber. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step09_shared_supper.png` |
-| ⬜ | `S03_Step10` | @KOSI_MENSAH @AMA_ADJOVI | WIDE / rear closing tableau | Kosi faces the dark lantern while Ama watches her understand. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step10_lantern_between_them.png` |
+| ✅ | `S03_Step01` | @AMA_ADJOVI | WIDE / high establishing angle | Ama waits beneath the mango tree in the courtyard beside an unlit blue-glass lantern. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step01_compound_reveal.png` |
+| ✅ | `S03_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi steps through the weathered blue door and scans her childhood courtyard. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step02_kosi_enters.png` |
+| ✅ | `S03_Step03` | @AMA_ADJOVI | CLOSE / three-quarter profile | Ama hides a tremor with a warm, teasing smile. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step03_ama_welcome.png` |
+| ✅ | `S03_Step04` | @AMA_ADJOVI | INSERT / top-down detail | The dusty blue-glass courtyard lantern hangs dark against sunset. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step04_unlit_lantern.png` |
+| ✅ | `S03_Step05` | @KOSI_MENSAH @AMA_ADJOVI | TWO-SHOT / eye-level | Kosi hugs Ama tightly while Sena watches from a woven stool. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step05_family_embrace.png` |
+| ✅ | `S03_Step06` | @KOSI_MENSAH @AMA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Ama's hand trembles against the indigo jumpsuit. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step06_noticed_tremor.png` |
+| ✅ | `S03_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama explains the meaning of a dark lantern with quiet gravity. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step07_ama_warning.png` |
+| ✅ | `S03_Step08` | @SENA_ADJOVI | WIDE / low observational angle | Sena strings blue glass scraps into the mango branches. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step08_glass_garland.png` |
+| ✅ | `S03_Step09` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI | MEDIUM / handheld eye-level | The three sit near untouched pepper soup as sunset turns the courtyard amber. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step09_shared_supper.png` |
+| ✅ | `S03_Step10` | @KOSI_MENSAH @AMA_ADJOVI | WIDE / rear closing tableau | Kosi faces the dark lantern while Ama watches her understand. | warm reunion with a hidden wound; low amber sunset and first cool blue shadows | `images/act1/S03_Step10_lantern_between_them.png` |
 
 ## S04 — Price of the Water (AFENYO_MARKET)
 

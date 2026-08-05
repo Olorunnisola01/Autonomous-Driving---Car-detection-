@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 20,
+    "scene_shots_complete": 30,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -479,7 +479,7 @@
         "Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S03 — A Lantern Left Dark. WIDE shot, high establishing angle. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama waits beneath the mango tree in the courtyard beside an unlit blue-glass lantern. Mood: warm reunion with a hidden wound. Lighting: low amber sunset and first cool blue shadows. Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S03_Step01_compound_reveal.png"
     },
     {
@@ -501,7 +501,7 @@
         "Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S03 — A Lantern Left Dark. MEDIUM shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi steps through the weathered blue door and scans her childhood courtyard. Mood: warm reunion with a hidden wound. Lighting: low amber sunset and first cool blue shadows. Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S03_Step02_kosi_enters.png"
     },
     {
@@ -523,7 +523,7 @@
         "Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S03 — A Lantern Left Dark. CLOSE shot, three-quarter profile. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama hides a tremor with a warm, teasing smile. Mood: warm reunion with a hidden wound. Lighting: low amber sunset and first cool blue shadows. Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S03_Step03_ama_welcome.png"
     },
     {
@@ -545,7 +545,7 @@
         "Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S03 — A Lantern Left Dark. INSERT shot, top-down detail. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). The dusty blue-glass courtyard lantern hangs dark against sunset. Mood: warm reunion with a hidden wound. Lighting: low amber sunset and first cool blue shadows. Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S03_Step04_unlit_lantern.png"
     },
     {
@@ -569,7 +569,7 @@
         "Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S03 — A Lantern Left Dark. TWO-SHOT shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Kosi hugs Ama tightly while Sena watches from a woven stool. Mood: warm reunion with a hidden wound. Lighting: low amber sunset and first cool blue shadows. Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S03_Step05_family_embrace.png"
     },
     {
@@ -593,7 +593,7 @@
         "Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S03 — A Lantern Left Dark. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Over Kosi's shoulder, Ama's hand trembles against the indigo jumpsuit. Mood: warm reunion with a hidden wound. Lighting: low amber sunset and first cool blue shadows. Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S03_Step06_noticed_tremor.png"
     },
     {
@@ -615,7 +615,7 @@
         "Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S03 — A Lantern Left Dark. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama explains the meaning of a dark lantern with quiet gravity. Mood: warm reunion with a hidden wound. Lighting: low amber sunset and first cool blue shadows. Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S03_Step07_ama_warning.png"
     },
     {
@@ -637,7 +637,7 @@
         "Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S03 — A Lantern Left Dark. WIDE shot, low observational angle. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena strings blue glass scraps into the mango branches. Mood: warm reunion with a hidden wound. Lighting: low amber sunset and first cool blue shadows. Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S03_Step08_glass_garland.png"
     },
     {
@@ -663,7 +663,7 @@
         "Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S03 — A Lantern Left Dark. MEDIUM shot, handheld eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). The three sit near untouched pepper soup as sunset turns the courtyard amber. Mood: warm reunion with a hidden wound. Lighting: low amber sunset and first cool blue shadows. Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S03_Step09_shared_supper.png"
     },
     {
@@ -687,7 +687,7 @@
         "Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S03 — A Lantern Left Dark. WIDE shot, rear closing tableau. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Kosi faces the dark lantern while Ama watches her understand. Mood: warm reunion with a hidden wound. Lighting: low amber sunset and first cool blue shadows. Environment = Location Registry id 'COMPOUND_COURTYARD': Ama's lived-in family compound courtyard in Afenyo: ochre plaster walls, a weathered blue wooden door, clay pots of basil, woven stools, a mango tree, laundry lines and a low view toward the lagoon.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S03_Step10_lantern_between_them.png"
     },
     {
