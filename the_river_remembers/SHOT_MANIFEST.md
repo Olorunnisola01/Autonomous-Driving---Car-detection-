@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 50 / 200
+- **Scene shots complete:** 60 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S06_Step01`
+- **Next scene-image label after reference approval:** `S07_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -94,16 +94,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S06_Step01` | @KOJO_DANSO | WIDE / high establishing angle | Kojo's narrow canoe glides into the violet channel toward the dark navigation buoy. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step01_channel_dusk.png` |
-| ⬜ | `S06_Step02` | @KOJO_DANSO | MEDIUM / eye-level | Kojo rows steadily, brass compass moving against his striped shirt. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step02_kojo_paddles.png` |
-| ⬜ | `S06_Step03` | @KOSI_MENSAH | CLOSE / three-quarter profile | Kosi kneels in the canoe and tests the buoy's dead solar housing. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step03_kosi_tests.png` |
-| ⬜ | `S06_Step04` | @KOSI_MENSAH | INSERT / top-down detail | A severed solar connection and newer buried cable meet beneath the buoy casing. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step04_bypassed_cable.png` |
-| ⬜ | `S06_Step05` | @KOSI_MENSAH @KOJO_DANSO | TWO-SHOT / eye-level | Kosi and Kojo balance beside the rusted buoy as resort lights glow far away. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step05_two_at_buoy.png` |
-| ⬜ | `S06_Step06` | @KOSI_MENSAH | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, a thin oily slick shivers across teal water. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step06_slick_in_water.png` |
-| ⬜ | `S06_Step07` | @KOJO_DANSO | EXTREME CLOSE / intimate frontal angle | Kojo speaks of the channel that has always carried the town outward. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step07_kojo_warning.png` |
-| ⬜ | `S06_Step08` | @KOSI_MENSAH @KOJO_DANSO | WIDE / low observational angle | The unlit lantern crown silhouettes against the dusk sky. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step08_dead_lantern.png` |
-| ⬜ | `S06_Step09` | @KOSI_MENSAH | MEDIUM / handheld eye-level | Kosi photographs the severed connection with steady hands. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step09_photo_evidence.png` |
-| ⬜ | `S06_Step10` | @KOSI_MENSAH @KOJO_DANSO | WIDE / rear closing tableau | The canoe turns home as Kosi's decision settles over the dark water. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step10_returning_decision.png` |
+| ✅ | `S06_Step01` | @KOJO_DANSO | WIDE / high establishing angle | Kojo's narrow canoe glides into the violet channel toward the dark navigation buoy. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step01_channel_dusk.png` |
+| ✅ | `S06_Step02` | @KOJO_DANSO | MEDIUM / eye-level | Kojo rows steadily, brass compass moving against his striped shirt. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step02_kojo_paddles.png` |
+| ✅ | `S06_Step03` | @KOSI_MENSAH | CLOSE / three-quarter profile | Kosi kneels in the canoe and tests the buoy's dead solar housing. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step03_kosi_tests.png` |
+| ✅ | `S06_Step04` | @KOSI_MENSAH | INSERT / top-down detail | A severed solar connection and newer buried cable meet beneath the buoy casing. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step04_bypassed_cable.png` |
+| ✅ | `S06_Step05` | @KOSI_MENSAH @KOJO_DANSO | TWO-SHOT / eye-level | Kosi and Kojo balance beside the rusted buoy as resort lights glow far away. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step05_two_at_buoy.png` |
+| ✅ | `S06_Step06` | @KOSI_MENSAH | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, a thin oily slick shivers across teal water. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step06_slick_in_water.png` |
+| ✅ | `S06_Step07` | @KOJO_DANSO | EXTREME CLOSE / intimate frontal angle | Kojo speaks of the channel that has always carried the town outward. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step07_kojo_warning.png` |
+| ✅ | `S06_Step08` | @KOSI_MENSAH @KOJO_DANSO | WIDE / low observational angle | The unlit lantern crown silhouettes against the dusk sky. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step08_dead_lantern.png` |
+| ✅ | `S06_Step09` | @KOSI_MENSAH | MEDIUM / handheld eye-level | Kosi photographs the severed connection with steady hands. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step09_photo_evidence.png` |
+| ✅ | `S06_Step10` | @KOSI_MENSAH @KOJO_DANSO | WIDE / rear closing tableau | The canoe turns home as Kosi's decision settles over the dark water. | intimate investigation; violet dusk, reflected teal water and a dead lantern silhouette | `images/act1/S06_Step10_returning_decision.png` |
 
 # ACT II — THE SIGNAL
 

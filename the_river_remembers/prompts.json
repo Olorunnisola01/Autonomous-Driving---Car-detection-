@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 50,
+    "scene_shots_complete": 60,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -1185,7 +1185,7 @@
         "Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S06 — The Black Buoy. WIDE shot, high establishing angle. Characters in frame: @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). Kojo's narrow canoe glides into the violet channel toward the dark navigation buoy. Mood: intimate investigation. Lighting: violet dusk, reflected teal water and a dead lantern silhouette. Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S06_Step01_channel_dusk.png"
     },
     {
@@ -1207,7 +1207,7 @@
         "Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S06 — The Black Buoy. MEDIUM shot, eye-level. Characters in frame: @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). Kojo rows steadily, brass compass moving against his striped shirt. Mood: intimate investigation. Lighting: violet dusk, reflected teal water and a dead lantern silhouette. Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S06_Step02_kojo_paddles.png"
     },
     {
@@ -1229,7 +1229,7 @@
         "Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S06 — The Black Buoy. CLOSE shot, three-quarter profile. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi kneels in the canoe and tests the buoy's dead solar housing. Mood: intimate investigation. Lighting: violet dusk, reflected teal water and a dead lantern silhouette. Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S06_Step03_kosi_tests.png"
     },
     {
@@ -1251,7 +1251,7 @@
         "Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S06 — The Black Buoy. INSERT shot, top-down detail. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). A severed solar connection and newer buried cable meet beneath the buoy casing. Mood: intimate investigation. Lighting: violet dusk, reflected teal water and a dead lantern silhouette. Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S06_Step04_bypassed_cable.png"
     },
     {
@@ -1275,7 +1275,7 @@
         "Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S06 — The Black Buoy. TWO-SHOT shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). Kosi and Kojo balance beside the rusted buoy as resort lights glow far away. Mood: intimate investigation. Lighting: violet dusk, reflected teal water and a dead lantern silhouette. Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S06_Step05_two_at_buoy.png"
     },
     {
@@ -1297,7 +1297,7 @@
         "Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S06 — The Black Buoy. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Over Kosi's shoulder, a thin oily slick shivers across teal water. Mood: intimate investigation. Lighting: violet dusk, reflected teal water and a dead lantern silhouette. Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S06_Step06_slick_in_water.png"
     },
     {
@@ -1319,7 +1319,7 @@
         "Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S06 — The Black Buoy. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). Kojo speaks of the channel that has always carried the town outward. Mood: intimate investigation. Lighting: violet dusk, reflected teal water and a dead lantern silhouette. Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S06_Step07_kojo_warning.png"
     },
     {
@@ -1343,7 +1343,7 @@
         "Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S06 — The Black Buoy. WIDE shot, low observational angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). The unlit lantern crown silhouettes against the dusk sky. Mood: intimate investigation. Lighting: violet dusk, reflected teal water and a dead lantern silhouette. Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S06_Step08_dead_lantern.png"
     },
     {
@@ -1365,7 +1365,7 @@
         "Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S06 — The Black Buoy. MEDIUM shot, handheld eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi photographs the severed connection with steady hands. Mood: intimate investigation. Lighting: violet dusk, reflected teal water and a dead lantern silhouette. Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S06_Step09_photo_evidence.png"
     },
     {
@@ -1389,7 +1389,7 @@
         "Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S06 — The Black Buoy. WIDE shot, rear closing tableau. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). The canoe turns home as Kosi's decision settles over the dark water. Mood: intimate investigation. Lighting: violet dusk, reflected teal water and a dead lantern silhouette. Environment = Location Registry id 'LAGOON_CHANNEL': A narrow Afenyo lagoon channel: glassy teal water, low mangrove roots, weathered fishing canoes, stilted homes, a rusted solar navigation buoy and a wide pale sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S06_Step10_returning_decision.png"
     },
     {
