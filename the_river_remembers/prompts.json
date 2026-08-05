@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 110,
+    "scene_shots_complete": 120,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -2589,7 +2589,7 @@
         "Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S12 — Night of the Red Moon. WIDE shot, high establishing angle. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). The group approaches the derelict beacon hut across a lonely predawn sandbar. Mood: revelatory and ancestral. Lighting: thin pre-dawn blue with a red moon fading behind cloud. Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S12_Step01_sandbar_hut.png"
     },
     {
@@ -2611,7 +2611,7 @@
         "Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S12 — Night of the Red Moon. MEDIUM shot, eye-level. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama steps through the cracked doorway with amber beads catching the blue light. Mood: revelatory and ancestral. Lighting: thin pre-dawn blue with a red moon fading behind cloud. Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S12_Step02_ama_leads.png"
     },
     {
@@ -2633,7 +2633,7 @@
         "Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S12 — Night of the Red Moon. CLOSE shot, three-quarter profile. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi listens closely as Ama begins the old story. Mood: revelatory and ancestral. Lighting: thin pre-dawn blue with a red moon fading behind cloud. Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S12_Step03_kosi_listens.png"
     },
     {
@@ -2655,7 +2655,7 @@
         "Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S12 — Night of the Red Moon. INSERT shot, top-down detail. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Broken blue beacon glass lies among salt-stained timber and reed grass. Mood: revelatory and ancestral. Lighting: thin pre-dawn blue with a red moon fading behind cloud. Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S12_Step04_broken_glass.png"
     },
     {
@@ -2679,7 +2679,7 @@
         "Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S12 — Night of the Red Moon. TWO-SHOT shot, eye-level. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Ama recounts how elders preserved a public landing deed during a survey. Mood: revelatory and ancestral. Lighting: thin pre-dawn blue with a red moon fading behind cloud. Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S12_Step05_told_history.png"
     },
     {
@@ -2703,7 +2703,7 @@
         "Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S12 — Night of the Red Moon. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Over Kosi's shoulder, Sena compares the page's rhythm to the radio frequency. Mood: revelatory and ancestral. Lighting: thin pre-dawn blue with a red moon fading behind cloud. Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S12_Step06_frequency_realization.png"
     },
     {
@@ -2725,7 +2725,7 @@
         "Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S12 — Night of the Red Moon. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama says memory is a signal someone must answer. Mood: revelatory and ancestral. Lighting: thin pre-dawn blue with a red moon fading behind cloud. Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S12_Step07_ama_signal.png"
     },
     {
@@ -2753,7 +2753,7 @@
         "Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S12 — Night of the Red Moon. WIDE shot, low observational angle. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). The fading red moon frames the group in the beacon hut doorway. Mood: revelatory and ancestral. Lighting: thin pre-dawn blue with a red moon fading behind cloud. Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S12_Step08_red_moon.png"
     },
     {
@@ -2775,7 +2775,7 @@
         "Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S12 — Night of the Red Moon. MEDIUM shot, handheld eye-level. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena repeats Ama's words into her pocket recorder, finding a new sign-off. Mood: revelatory and ancestral. Lighting: thin pre-dawn blue with a red moon fading behind cloud. Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S12_Step09_sena_signoff.png"
     },
     {
@@ -2803,7 +2803,7 @@
         "Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S12 — Night of the Red Moon. WIDE shot, rear closing tableau. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). They leave the beacon hut carrying an old signal into first light. Mood: revelatory and ancestral. Lighting: thin pre-dawn blue with a red moon fading behind cloud. Environment = Location Registry id 'OLD_BEACON_HUT': A derelict tidal beacon hut on a small lagoon sandbar: cracked whitewash walls, a rusted ladder, broken blue lantern glass, salt-stained timber, reed grass and sweeping water on every side.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S12_Step10_leaving_hut.png"
     },
     {

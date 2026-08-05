@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 110 / 200
+- **Scene shots complete:** 120 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S12_Step01`
+- **Next scene-image label after reference approval:** `S13_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -186,16 +186,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S12_Step01` | @AMA_ADJOVI @KOSI_MENSAH @SENA_ADJOVI @KOJO_DANSO | WIDE / high establishing angle | The group approaches the derelict beacon hut across a lonely predawn sandbar. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step01_sandbar_hut.png` |
-| ⬜ | `S12_Step02` | @AMA_ADJOVI | MEDIUM / eye-level | Ama steps through the cracked doorway with amber beads catching the blue light. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step02_ama_leads.png` |
-| ⬜ | `S12_Step03` | @KOSI_MENSAH | CLOSE / three-quarter profile | Kosi listens closely as Ama begins the old story. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step03_kosi_listens.png` |
-| ⬜ | `S12_Step04` | @AMA_ADJOVI | INSERT / top-down detail | Broken blue beacon glass lies among salt-stained timber and reed grass. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step04_broken_glass.png` |
-| ⬜ | `S12_Step05` | @AMA_ADJOVI @KOSI_MENSAH | TWO-SHOT / eye-level | Ama recounts how elders preserved a public landing deed during a survey. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step05_told_history.png` |
-| ⬜ | `S12_Step06` | @KOSI_MENSAH @SENA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Sena compares the page's rhythm to the radio frequency. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step06_frequency_realization.png` |
-| ⬜ | `S12_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama says memory is a signal someone must answer. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step07_ama_signal.png` |
-| ⬜ | `S12_Step08` | @AMA_ADJOVI @KOSI_MENSAH @SENA_ADJOVI @KOJO_DANSO | WIDE / low observational angle | The fading red moon frames the group in the beacon hut doorway. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step08_red_moon.png` |
-| ⬜ | `S12_Step09` | @SENA_ADJOVI | MEDIUM / handheld eye-level | Sena repeats Ama's words into her pocket recorder, finding a new sign-off. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step09_sena_signoff.png` |
-| ⬜ | `S12_Step10` | @AMA_ADJOVI @KOSI_MENSAH @SENA_ADJOVI @KOJO_DANSO | WIDE / rear closing tableau | They leave the beacon hut carrying an old signal into first light. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step10_leaving_hut.png` |
+| ✅ | `S12_Step01` | @AMA_ADJOVI @KOSI_MENSAH @SENA_ADJOVI @KOJO_DANSO | WIDE / high establishing angle | The group approaches the derelict beacon hut across a lonely predawn sandbar. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step01_sandbar_hut.png` |
+| ✅ | `S12_Step02` | @AMA_ADJOVI | MEDIUM / eye-level | Ama steps through the cracked doorway with amber beads catching the blue light. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step02_ama_leads.png` |
+| ✅ | `S12_Step03` | @KOSI_MENSAH | CLOSE / three-quarter profile | Kosi listens closely as Ama begins the old story. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step03_kosi_listens.png` |
+| ✅ | `S12_Step04` | @AMA_ADJOVI | INSERT / top-down detail | Broken blue beacon glass lies among salt-stained timber and reed grass. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step04_broken_glass.png` |
+| ✅ | `S12_Step05` | @AMA_ADJOVI @KOSI_MENSAH | TWO-SHOT / eye-level | Ama recounts how elders preserved a public landing deed during a survey. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step05_told_history.png` |
+| ✅ | `S12_Step06` | @KOSI_MENSAH @SENA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Sena compares the page's rhythm to the radio frequency. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step06_frequency_realization.png` |
+| ✅ | `S12_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama says memory is a signal someone must answer. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step07_ama_signal.png` |
+| ✅ | `S12_Step08` | @AMA_ADJOVI @KOSI_MENSAH @SENA_ADJOVI @KOJO_DANSO | WIDE / low observational angle | The fading red moon frames the group in the beacon hut doorway. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step08_red_moon.png` |
+| ✅ | `S12_Step09` | @SENA_ADJOVI | MEDIUM / handheld eye-level | Sena repeats Ama's words into her pocket recorder, finding a new sign-off. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step09_sena_signoff.png` |
+| ✅ | `S12_Step10` | @AMA_ADJOVI @KOSI_MENSAH @SENA_ADJOVI @KOJO_DANSO | WIDE / rear closing tableau | They leave the beacon hut carrying an old signal into first light. | revelatory and ancestral; thin pre-dawn blue with a red moon fading behind cloud | `images/act2/S12_Step10_leaving_hut.png` |
 
 ## S13 — The Yard Stands Still (FISH_SMOKE_YARD)
 
