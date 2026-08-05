@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 40 / 200
+- **Scene shots complete:** 50 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S05_Step01`
+- **Next scene-image label after reference approval:** `S06_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -79,16 +79,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S05_Step01` | @NII_LAMPTEY @KWAME_AGYEMAN | WIDE / high establishing angle | The assembly hall fills slowly beneath ceiling fans while Nii and Kwame wait at the dais. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step01_hall_establish.png` |
-| ⬜ | `S05_Step02` | @NII_LAMPTEY | MEDIUM / eye-level | Nii presents the resort as a polished future of jobs and clean power. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step02_nii_presentation.png` |
-| ⬜ | `S05_Step03` | @KWAME_AGYEMAN | CLOSE / three-quarter profile | Kwame catches sight of Kosi among the public and his rehearsed smile slips. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step03_kwame_recognizes.png` |
-| ⬜ | `S05_Step04` | @NII_LAMPTEY | INSERT / top-down detail | An empty wall beside the dais makes the missing public map conspicuous. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step04_blank_map_wall.png` |
-| ⬜ | `S05_Step05` | @ESI_TETTEH @NII_LAMPTEY | TWO-SHOT / eye-level | Esi stands to demand a public copy of the lagoon agreement. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step05_esi_demands_copy.png` |
-| ⬜ | `S05_Step06` | @KOSI_MENSAH @NII_LAMPTEY | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Nii answers her question about why no map is displayed. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step06_kosi_challenges.png` |
-| ⬜ | `S05_Step07` | @SENA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Sena silently presses record beneath turquoise headphones. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step07_sena_records.png` |
-| ⬜ | `S05_Step08` | @KOSI_MENSAH @ESI_TETTEH @KWAME_AGYEMAN @NII_LAMPTEY | WIDE / low observational angle | The public hall divides between concerned residents and officials at the dais. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step08_room_divides.png` |
-| ⬜ | `S05_Step09` | @KWAME_AGYEMAN | MEDIUM / handheld eye-level | Kwame adjusts his bronze compass pin, visibly uneasy. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step09_kwame_discomfort.png` |
-| ⬜ | `S05_Step10` | @KOSI_MENSAH @SENA_ADJOVI @ESI_TETTEH | WIDE / rear closing tableau | Kosi leaves with Sena and Esi as the polite hearing closes behind them. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step10_hearing_ends.png` |
+| ✅ | `S05_Step01` | @NII_LAMPTEY @KWAME_AGYEMAN | WIDE / high establishing angle | The assembly hall fills slowly beneath ceiling fans while Nii and Kwame wait at the dais. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step01_hall_establish.png` |
+| ✅ | `S05_Step02` | @NII_LAMPTEY | MEDIUM / eye-level | Nii presents the resort as a polished future of jobs and clean power. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step02_nii_presentation.png` |
+| ✅ | `S05_Step03` | @KWAME_AGYEMAN | CLOSE / three-quarter profile | Kwame catches sight of Kosi among the public and his rehearsed smile slips. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step03_kwame_recognizes.png` |
+| ✅ | `S05_Step04` | @NII_LAMPTEY | INSERT / top-down detail | An empty wall beside the dais makes the missing public map conspicuous. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step04_blank_map_wall.png` |
+| ✅ | `S05_Step05` | @ESI_TETTEH @NII_LAMPTEY | TWO-SHOT / eye-level | Esi stands to demand a public copy of the lagoon agreement. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step05_esi_demands_copy.png` |
+| ✅ | `S05_Step06` | @KOSI_MENSAH @NII_LAMPTEY | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Nii answers her question about why no map is displayed. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step06_kosi_challenges.png` |
+| ✅ | `S05_Step07` | @SENA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Sena silently presses record beneath turquoise headphones. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step07_sena_records.png` |
+| ✅ | `S05_Step08` | @KOSI_MENSAH @ESI_TETTEH @KWAME_AGYEMAN @NII_LAMPTEY | WIDE / low observational angle | The public hall divides between concerned residents and officials at the dais. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step08_room_divides.png` |
+| ✅ | `S05_Step09` | @KWAME_AGYEMAN | MEDIUM / handheld eye-level | Kwame adjusts his bronze compass pin, visibly uneasy. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step09_kwame_discomfort.png` |
+| ✅ | `S05_Step10` | @KOSI_MENSAH @SENA_ADJOVI @ESI_TETTEH | WIDE / rear closing tableau | Kosi leaves with Sena and Esi as the polite hearing closes behind them. | civil language hiding violence; stale fan-cooled daylight through louvre windows | `images/act1/S05_Step10_hearing_ends.png` |
 
 ## S06 — The Black Buoy (LAGOON_CHANNEL)
 

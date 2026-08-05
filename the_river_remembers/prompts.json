@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 40,
+    "scene_shots_complete": 50,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -951,7 +951,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S05 — The Polite Hearing. WIDE shot, high establishing angle. Characters in frame: @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). The assembly hall fills slowly beneath ceiling fans while Nii and Kwame wait at the dais. Mood: civil language hiding violence. Lighting: stale fan-cooled daylight through louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S05_Step01_hall_establish.png"
     },
     {
@@ -973,7 +973,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S05 — The Polite Hearing. MEDIUM shot, eye-level. Characters in frame: @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). Nii presents the resort as a polished future of jobs and clean power. Mood: civil language hiding violence. Lighting: stale fan-cooled daylight through louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S05_Step02_nii_presentation.png"
     },
     {
@@ -995,7 +995,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S05 — The Polite Hearing. CLOSE shot, three-quarter profile. Characters in frame: @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kwame catches sight of Kosi among the public and his rehearsed smile slips. Mood: civil language hiding violence. Lighting: stale fan-cooled daylight through louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S05_Step03_kwame_recognizes.png"
     },
     {
@@ -1017,7 +1017,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S05 — The Polite Hearing. INSERT shot, top-down detail. Characters in frame: @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). An empty wall beside the dais makes the missing public map conspicuous. Mood: civil language hiding violence. Lighting: stale fan-cooled daylight through louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S05_Step04_blank_map_wall.png"
     },
     {
@@ -1041,7 +1041,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S05 — The Polite Hearing. TWO-SHOT shot, eye-level. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). Esi stands to demand a public copy of the lagoon agreement. Mood: civil language hiding violence. Lighting: stale fan-cooled daylight through louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S05_Step05_esi_demands_copy.png"
     },
     {
@@ -1065,7 +1065,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S05 — The Polite Hearing. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). Over Kosi's shoulder, Nii answers her question about why no map is displayed. Mood: civil language hiding violence. Lighting: stale fan-cooled daylight through louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S05_Step06_kosi_challenges.png"
     },
     {
@@ -1087,7 +1087,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S05 — The Polite Hearing. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena silently presses record beneath turquoise headphones. Mood: civil language hiding violence. Lighting: stale fan-cooled daylight through louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S05_Step07_sena_records.png"
     },
     {
@@ -1115,7 +1115,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S05 — The Polite Hearing. WIDE shot, low observational angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose); @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). The public hall divides between concerned residents and officials at the dais. Mood: civil language hiding violence. Lighting: stale fan-cooled daylight through louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S05_Step08_room_divides.png"
     },
     {
@@ -1137,7 +1137,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S05 — The Polite Hearing. MEDIUM shot, handheld eye-level. Characters in frame: @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kwame adjusts his bronze compass pin, visibly uneasy. Mood: civil language hiding violence. Lighting: stale fan-cooled daylight through louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S05_Step09_kwame_discomfort.png"
     },
     {
@@ -1163,7 +1163,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S05 — The Polite Hearing. WIDE shot, rear closing tableau. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle). Kosi leaves with Sena and Esi as the polite hearing closes behind them. Mood: civil language hiding violence. Lighting: stale fan-cooled daylight through louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act1/S05_Step10_hearing_ends.png"
     },
     {
