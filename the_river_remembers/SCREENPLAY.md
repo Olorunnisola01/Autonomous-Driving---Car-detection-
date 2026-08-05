@@ -12,7 +12,7 @@
 
 ## Visual style guide
 
-Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 2.39:1 widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.
+Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.
 
 ### Continuity rules
 
@@ -20,7 +20,7 @@ Grounded cinematic West African magical realism; contemporary Ghanaian coastal l
 - Reuse each location registry description **verbatim** in image prompts.
 - The magical-realism element is restrained: the lanterns and water carry emotional resonance, not overt supernatural effects.
 - Favour community-scale images, real working hands, tactile blue glass, reed, copper, wood and water.
-- Maintain 2.39:1 compositions and avoid readable text, logos, watermarks or generic tourism imagery.
+- Maintain 16:9 landscape compositions for every scene image and avoid readable text, logos, watermarks or generic tourism imagery.
 
 ## Character Bible
 

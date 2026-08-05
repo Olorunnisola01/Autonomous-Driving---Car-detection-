@@ -16,7 +16,7 @@ SUBTITLE = "A Ghanaian magical-realism family drama"
 STYLE = (
     "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; "
     "human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; "
-    "natural skin texture; tactile fabric and weathered wood; 2.39:1 widescreen composition; "
+    "natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; "
     "subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, "
     "no distorted hands, no duplicate people."
 )
@@ -512,7 +512,7 @@ def write_screenplay():
         "**Theme:** Public things survive when ordinary people decide to remember and care for them together.", "",
         "## Visual style guide", "", STYLE, "",
         "### Continuity rules", "",
-        "- Keep each principal in the exact signature wardrobe and signature object specified below in every present-day frame.\n- Reuse each location registry description **verbatim** in image prompts.\n- The magical-realism element is restrained: the lanterns and water carry emotional resonance, not overt supernatural effects.\n- Favour community-scale images, real working hands, tactile blue glass, reed, copper, wood and water.\n- Maintain 2.39:1 compositions and avoid readable text, logos, watermarks or generic tourism imagery.", "",
+        "- Keep each principal in the exact signature wardrobe and signature object specified below in every present-day frame.\n- Reuse each location registry description **verbatim** in image prompts.\n- The magical-realism element is restrained: the lanterns and water carry emotional resonance, not overt supernatural effects.\n- Favour community-scale images, real working hands, tactile blue glass, reed, copper, wood and water.\n- Maintain 16:9 landscape compositions for every scene image and avoid readable text, logos, watermarks or generic tourism imagery.", "",
         "## Character Bible", "",
     ]
     for c in characters:

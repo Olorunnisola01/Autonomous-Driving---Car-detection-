@@ -2,14 +2,14 @@
 
 ## Production state
 
-- **Scene shots complete:** 0 / 200
+- **Scene shots complete:** 10 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S01_Step01`
+- **Next scene-image label after reference approval:** `S02_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
 
-- **Style:** Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 2.39:1 widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.
+- **Style:** Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.
 - **Character references:** generate and approve all seven `images/refs/*_ref.png` portraits before generating any scene shot.
 - **Location continuity:** each row below uses its `location_id` exactly as defined in `LOCATION_REGISTRY.md`.
 
@@ -19,16 +19,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S01_Step01` | @KOSI_MENSAH | WIDE / high establishing angle | Kosi crosses the orderly solar roof with her tool case as Accra spreads beneath her. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step01_accra_roof_arrival.png` |
-| ⬜ | `S01_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi kneels beside a silent panel string and checks its junction box. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step02_panel_diagnosis.png` |
-| ⬜ | `S01_Step03` | @KOSI_MENSAH | CLOSE / three-quarter profile | Kosi concentrates on the meter reading, sweat and resolve visible in her face. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step03_focused_engineer.png` |
-| ⬜ | `S01_Step04` | @KOSI_MENSAH | INSERT / top-down detail | A gloved hand holds a tester against a sunlit cable connection. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step04_tester_display.png` |
-| ⬜ | `S01_Step05` | @KOSI_MENSAH | TWO-SHOT / eye-level | Kosi listens to Ama's voice message, city glare behind her. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step05_phone_message.png` |
-| ⬜ | `S01_Step06` | @KOSI_MENSAH | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, the phone waveform plays while she looks toward the horizon. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step06_voice_from_home.png` |
-| ⬜ | `S01_Step07` | @KOSI_MENSAH | EXTREME CLOSE / intimate frontal angle | Kosi's eyes harden as she decides to return home. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step07_decision_in_eyes.png` |
-| ⬜ | `S01_Step08` | @KOSI_MENSAH | WIDE / low observational angle | The repaired panels gleam in rows as Kosi stands among them. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step08_panels_awake.png` |
-| ⬜ | `S01_Step09` | @KOSI_MENSAH | MEDIUM / handheld eye-level | Kosi packs a wrench, tester and cables into her battered case. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step09_packing_tools.png` |
-| ⬜ | `S01_Step10` | @KOSI_MENSAH | WIDE / rear closing tableau | Kosi walks toward the roof exit with her case as the panels hum behind her. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step10_leaving_roof.png` |
+| ✅ | `S01_Step01` | @KOSI_MENSAH | WIDE / high establishing angle | Kosi crosses the orderly solar roof with her tool case as Accra spreads beneath her. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step01_accra_roof_arrival.png` |
+| ✅ | `S01_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi kneels beside a silent panel string and checks its junction box. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step02_panel_diagnosis.png` |
+| ✅ | `S01_Step03` | @KOSI_MENSAH | CLOSE / three-quarter profile | Kosi concentrates on the meter reading, sweat and resolve visible in her face. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step03_focused_engineer.png` |
+| ✅ | `S01_Step04` | @KOSI_MENSAH | INSERT / top-down detail | A gloved hand holds a tester against a sunlit cable connection. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step04_tester_display.png` |
+| ✅ | `S01_Step05` | @KOSI_MENSAH | TWO-SHOT / eye-level | Kosi listens to Ama's voice message, city glare behind her. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step05_phone_message.png` |
+| ✅ | `S01_Step06` | @KOSI_MENSAH | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, the phone waveform plays while she looks toward the horizon. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step06_voice_from_home.png` |
+| ✅ | `S01_Step07` | @KOSI_MENSAH | EXTREME CLOSE / intimate frontal angle | Kosi's eyes harden as she decides to return home. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step07_decision_in_eyes.png` |
+| ✅ | `S01_Step08` | @KOSI_MENSAH | WIDE / low observational angle | The repaired panels gleam in rows as Kosi stands among them. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step08_panels_awake.png` |
+| ✅ | `S01_Step09` | @KOSI_MENSAH | MEDIUM / handheld eye-level | Kosi packs a wrench, tester and cables into her battered case. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step09_packing_tools.png` |
+| ✅ | `S01_Step10` | @KOSI_MENSAH | WIDE / rear closing tableau | Kosi walks toward the roof exit with her case as the panels hum behind her. | restless possibility; hard white midday sun softened by coastal haze | `images/act1/S01_Step10_leaving_roof.png` |
 
 ## S02 — Road to Afenyo (AFENYO_BUS_STOP)
 
