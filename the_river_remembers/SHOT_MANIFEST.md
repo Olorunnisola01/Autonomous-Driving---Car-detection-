@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 80 / 200
+- **Scene shots complete:** 90 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S09_Step01`
+- **Next scene-image label after reference approval:** `S10_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -141,16 +141,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S09_Step01` | @KWAME_AGYEMAN | WIDE / high establishing angle | Kwame waits alone at the chained resort gate in punishing afternoon heat. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step01_fence_heat.png` |
-| ⬜ | `S09_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi approaches the fence with her tool case and an unblinking stare. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step02_kosi_arrives.png` |
-| ⬜ | `S09_Step03` | @KWAME_AGYEMAN | CLOSE / three-quarter profile | Kwame unfolds an approved site plan against a corrugated fence panel. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step03_kwame_plan.png` |
-| ⬜ | `S09_Step04` | @KWAME_AGYEMAN | INSERT / top-down detail | A utility route disappears under a stark black redaction on the plan. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step04_redacted_route.png` |
-| ⬜ | `S09_Step05` | @KOSI_MENSAH @KWAME_AGYEMAN | TWO-SHOT / eye-level | Kosi and Kwame face each other with the locked gate between them. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step05_old_friends_distance.png` |
-| ⬜ | `S09_Step06` | @KOSI_MENSAH @KWAME_AGYEMAN | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Kwame admits he is excluded from the discharge route. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step06_kosi_accuses.png` |
-| ⬜ | `S09_Step07` | @KWAME_AGYEMAN | EXTREME CLOSE / intimate frontal angle | Kwame's eyes drop behind rimless spectacles as Kosi names his compromise. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step07_kwame_shame.png` |
-| ⬜ | `S09_Step08` | @KOSI_MENSAH @KWAME_AGYEMAN | WIDE / low observational angle | Hard shadows of the fence divide the two former friends. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step08_fence_imprisons.png` |
-| ⬜ | `S09_Step09` | @KOSI_MENSAH @KWAME_AGYEMAN | MEDIUM / handheld eye-level | Kosi photographs the survey number Kwame leaves visible on the plan. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step09_survey_number.png` |
-| ⬜ | `S09_Step10` | @KOSI_MENSAH @KWAME_AGYEMAN | WIDE / rear closing tableau | Kwame walks along the fence while Kosi remains at the locked gate. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step10_kwame_leaves.png` |
+| ✅ | `S09_Step01` | @KWAME_AGYEMAN | WIDE / high establishing angle | Kwame waits alone at the chained resort gate in punishing afternoon heat. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step01_fence_heat.png` |
+| ✅ | `S09_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi approaches the fence with her tool case and an unblinking stare. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step02_kosi_arrives.png` |
+| ✅ | `S09_Step03` | @KWAME_AGYEMAN | CLOSE / three-quarter profile | Kwame unfolds an approved site plan against a corrugated fence panel. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step03_kwame_plan.png` |
+| ✅ | `S09_Step04` | @KWAME_AGYEMAN | INSERT / top-down detail | A utility route disappears under a stark black redaction on the plan. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step04_redacted_route.png` |
+| ✅ | `S09_Step05` | @KOSI_MENSAH @KWAME_AGYEMAN | TWO-SHOT / eye-level | Kosi and Kwame face each other with the locked gate between them. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step05_old_friends_distance.png` |
+| ✅ | `S09_Step06` | @KOSI_MENSAH @KWAME_AGYEMAN | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Kwame admits he is excluded from the discharge route. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step06_kosi_accuses.png` |
+| ✅ | `S09_Step07` | @KWAME_AGYEMAN | EXTREME CLOSE / intimate frontal angle | Kwame's eyes drop behind rimless spectacles as Kosi names his compromise. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step07_kwame_shame.png` |
+| ✅ | `S09_Step08` | @KOSI_MENSAH @KWAME_AGYEMAN | WIDE / low observational angle | Hard shadows of the fence divide the two former friends. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step08_fence_imprisons.png` |
+| ✅ | `S09_Step09` | @KOSI_MENSAH @KWAME_AGYEMAN | MEDIUM / handheld eye-level | Kosi photographs the survey number Kwame leaves visible on the plan. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step09_survey_number.png` |
+| ✅ | `S09_Step10` | @KOSI_MENSAH @KWAME_AGYEMAN | WIDE / rear closing tableau | Kwame walks along the fence while Kosi remains at the locked gate. | charged old friendship; bleached afternoon heat and hard fence shadows | `images/act2/S09_Step10_kwame_leaves.png` |
 
 ## S10 — Under the Roots (MANGROVE_PASSAGE)
 

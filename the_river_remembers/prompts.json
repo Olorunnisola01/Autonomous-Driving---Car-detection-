@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 80,
+    "scene_shots_complete": 90,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -1875,7 +1875,7 @@
         "Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S09 — Map with a Missing Line. WIDE shot, high establishing angle. Characters in frame: @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kwame waits alone at the chained resort gate in punishing afternoon heat. Mood: charged old friendship. Lighting: bleached afternoon heat and hard fence shadows. Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S09_Step01_fence_heat.png"
     },
     {
@@ -1897,7 +1897,7 @@
         "Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S09 — Map with a Missing Line. MEDIUM shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi approaches the fence with her tool case and an unblinking stare. Mood: charged old friendship. Lighting: bleached afternoon heat and hard fence shadows. Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S09_Step02_kosi_arrives.png"
     },
     {
@@ -1919,7 +1919,7 @@
         "Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S09 — Map with a Missing Line. CLOSE shot, three-quarter profile. Characters in frame: @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kwame unfolds an approved site plan against a corrugated fence panel. Mood: charged old friendship. Lighting: bleached afternoon heat and hard fence shadows. Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S09_Step03_kwame_plan.png"
     },
     {
@@ -1941,7 +1941,7 @@
         "Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S09 — Map with a Missing Line. INSERT shot, top-down detail. Characters in frame: @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). A utility route disappears under a stark black redaction on the plan. Mood: charged old friendship. Lighting: bleached afternoon heat and hard fence shadows. Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S09_Step04_redacted_route.png"
     },
     {
@@ -1965,7 +1965,7 @@
         "Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S09 — Map with a Missing Line. TWO-SHOT shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kosi and Kwame face each other with the locked gate between them. Mood: charged old friendship. Lighting: bleached afternoon heat and hard fence shadows. Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S09_Step05_old_friends_distance.png"
     },
     {
@@ -1989,7 +1989,7 @@
         "Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S09 — Map with a Missing Line. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Over Kosi's shoulder, Kwame admits he is excluded from the discharge route. Mood: charged old friendship. Lighting: bleached afternoon heat and hard fence shadows. Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S09_Step06_kosi_accuses.png"
     },
     {
@@ -2011,7 +2011,7 @@
         "Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S09 — Map with a Missing Line. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kwame's eyes drop behind rimless spectacles as Kosi names his compromise. Mood: charged old friendship. Lighting: bleached afternoon heat and hard fence shadows. Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S09_Step07_kwame_shame.png"
     },
     {
@@ -2035,7 +2035,7 @@
         "Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S09 — Map with a Missing Line. WIDE shot, low observational angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Hard shadows of the fence divide the two former friends. Mood: charged old friendship. Lighting: bleached afternoon heat and hard fence shadows. Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S09_Step08_fence_imprisons.png"
     },
     {
@@ -2059,7 +2059,7 @@
         "Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S09 — Map with a Missing Line. MEDIUM shot, handheld eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kosi photographs the survey number Kwame leaves visible on the plan. Mood: charged old friendship. Lighting: bleached afternoon heat and hard fence shadows. Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S09_Step09_survey_number.png"
     },
     {
@@ -2083,7 +2083,7 @@
         "Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S09 — Map with a Missing Line. WIDE shot, rear closing tableau. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kwame walks along the fence while Kosi remains at the locked gate. Mood: charged old friendship. Lighting: bleached afternoon heat and hard fence shadows. Environment = Location Registry id 'RESORT_FENCE': The unfinished resort perimeter at Afenyo's lagoon shore: pale concrete columns, tall corrugated-metal fence panels, orange survey flags, a locked chain gate, scraped sand and mangroves pressed tightly behind it.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act2/S09_Step10_kwame_leaves.png"
     },
     {
