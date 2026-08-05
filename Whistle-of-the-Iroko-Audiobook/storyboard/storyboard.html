@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Whistle of the Iroko — Visual Storyboard</title>
+<style>
+  :root{
+    --bg:#0b0f14; --panel:#121a24; --panel2:#0f1620; --line:#22303f;
+    --ink:#ece7dc; --muted:#9aa6b2; --amber:#e0a458; --teal:#5cc8bd;
+    --red:#d96a5f; --dim:#6b7683;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.55;
+  }
+  .wrap{max-width:1280px;margin:0 auto;padding:0 24px}
+
+  /* ---------- HERO ---------- */
+  .hero{
+    position:relative; overflow:hidden; border-bottom:1px solid var(--line);
+    background:linear-gradient(180deg,#0b0f14 0%, #10161f 100%);
+  }
+  .hero .bg{
+    position:absolute; inset:0; background-size:cover; background-position:center 30%;
+    opacity:.32; filter:saturate(.85);
+  }
+  .hero .shade{
+    position:absolute; inset:0;
+    background:linear-gradient(180deg, rgba(11,15,20,.55) 0%, rgba(11,15,20,.85) 78%, var(--bg) 100%);
+  }
+  .hero .inner{position:relative; padding:72px 0 44px; text-align:center}
+  .kicker{
+    font-size:12px; letter-spacing:.42em; text-transform:uppercase; color:var(--amber);
+    margin-bottom:14px; font-weight:600;
+  }
+  .hero h1{
+    font-size:clamp(30px,5vw,52px); font-weight:800; letter-spacing:.02em; line-height:1.08;
+  }
+  .hero h1 span{color:var(--teal)}
+  .logline{
+    max-width:760px; margin:18px auto 0; color:var(--muted); font-size:15px;
+  }
+  .meta{display:flex; flex-wrap:wrap; gap:10px; justify-content:center; margin-top:22px}
+  .chip{
+    border:1px solid var(--line); border-radius:999px; padding:7px 15px; font-size:12.5px;
+    color:var(--muted); background:rgba(255,255,255,.03); letter-spacing:.03em;
+  }
+  .chip b{color:var(--ink); font-weight:600}
+
+  /* ---------- AUDIO STRIP ---------- */
+  .audio-strip{border-bottom:1px solid var(--line); background:var(--panel2)}
+  .audio-strip .wrap{display:flex; flex-wrap:wrap; gap:18px; align-items:center; padding-top:18px; padding-bottom:18px}
+  .audio-label{font-size:12px; letter-spacing:.3em; text-transform:uppercase; color:var(--teal); font-weight:700}
+  audio{height:40px; flex:1 1 260px; min-width:240px}
+  audio::-webkit-media-controls-panel{background:#0e1620}
+
+  /* ---------- FILTERS ---------- */
+  .filters{border-bottom:1px solid var(--line); background:var(--panel2)}
+  .filters .wrap{display:flex; flex-wrap:wrap; gap:10px; align-items:center; padding-top:16px; padding-bottom:16px}
+  .fbtn{
+    border:1px solid var(--line); background:transparent; color:var(--muted);
+    padding:8px 16px; border-radius:999px; cursor:pointer; font-size:13px; letter-spacing:.04em;
+    transition:all .18s ease;
+  }
+  .fbtn:hover{color:var(--ink); border-color:var(--amber)}
+  .fbtn.on{background:var(--amber); border-color:var(--amber); color:#131313; font-weight:700}
+  .count{margin-left:auto; font-size:12px; color:var(--dim); letter-spacing:.08em}
+
+  /* ---------- GRID ---------- */
+  .board{padding:34px 0 60px}
+  .grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:22px}
+  .card{
+    position:relative; background:var(--panel); border:1px solid var(--line); border-radius:14px;
+    overflow:hidden; cursor:pointer; transition:transform .22s ease, border-color .22s ease, box-shadow .22s ease;
+    animation:rise .5s ease both;
+  }
+  @keyframes rise{from{opacity:0; transform:translateY(14px)} to{opacity:1; transform:none}}
+  .card:hover{transform:translateY(-5px); border-color:var(--amber); box-shadow:0 18px 44px rgba(0,0,0,.5)}
+  .frame{position:relative; aspect-ratio:16/10; overflow:hidden; background:#000}
+  .frame img{width:100%; height:100%; object-fit:cover; display:block; transition:transform .5s ease}
+  .card:hover .frame img{transform:scale(1.06)}
+  .num{
+    position:absolute; top:12px; left:12px; background:rgba(11,15,20,.78); border:1px solid rgba(224,164,88,.5);
+    color:var(--amber); font-size:11px; font-weight:800; letter-spacing:.18em; padding:5px 10px; border-radius:6px;
+  }
+  .body{padding:16px 18px 18px}
+  .tags{display:flex; gap:7px; flex-wrap:wrap; margin-bottom:9px}
+  .tag{font-size:10.5px; letter-spacing:.1em; text-transform:uppercase; font-weight:700; padding:3px 9px; border-radius:999px}
+  .tag.ch{background:rgba(92,200,189,.14); color:var(--teal); border:1px solid rgba(92,200,189,.3)}
+  .tag.mood{background:rgba(224,164,88,.12); color:var(--amber); border:1px solid rgba(224,164,88,.3)}
+  .tag.act{background:rgba(255,255,255,.06); color:var(--muted); border:1px solid var(--line)}
+  .body h3{font-size:17.5px; font-weight:750; letter-spacing:.01em; margin-bottom:7px}
+  .body p{font-size:13.5px; color:var(--muted)}
+  .beats{margin-top:12px; border-top:1px dashed var(--line); padding-top:11px; display:flex; flex-direction:column; gap:5px}
+  .beats div{font-size:12px; color:var(--dim); display:flex; gap:8px; align-items:baseline}
+  .beats div::before{content:"◆"; color:var(--amber); font-size:8px}
+
+  /* ---------- LIGHTBOX ---------- */
+  .lb{
+    position:fixed; inset:0; z-index:50; background:rgba(5,8,12,.94);
+    display:none; align-items:center; justify-content:center; flex-direction:column; padding:30px;
+  }
+  .lb.open{display:flex; animation:fade .2s ease}
+  @keyframes fade{from{opacity:0} to{opacity:1}}
+  .lb img{max-width:min(1000px,94vw); max-height:72vh; border-radius:12px; border:1px solid var(--line); box-shadow:0 30px 80px rgba(0,0,0,.7)}
+  .lb .cap{margin-top:18px; text-align:center; max-width:720px}
+  .lb .cap .t{font-size:19px; font-weight:750; letter-spacing:.02em}
+  .lb .cap .d{font-size:13.5px; color:var(--muted); margin-top:6px}
+  .lb .x{position:absolute; top:18px; right:24px; font-size:34px; color:var(--muted); background:none; border:none; cursor:pointer; line-height:1}
+  .lb .x:hover{color:var(--amber)}
+  .lb .nav{
+    position:absolute; top:50%; transform:translateY(-50%); width:52px; height:52px; border-radius:50%;
+    border:1px solid var(--line); background:rgba(18,26,36,.85); color:var(--ink); font-size:22px; cursor:pointer;
+    transition:all .18s ease;
+  }
+  .lb .nav:hover{background:var(--amber); color:#131313; border-color:var(--amber)}
+  .lb .nav.prev{left:22px} .lb .nav.next{right:22px}
+  .lb .idx{position:absolute; bottom:18px; left:50%; transform:translateX(-50%); font-size:12px; letter-spacing:.25em; color:var(--dim)}
+
+  /* ---------- FOOTER ---------- */
+  footer{border-top:1px solid var(--line); padding:26px 0 40px; text-align:center; color:var(--dim); font-size:12.5px}
+  footer b{color:var(--muted)}
+  code{background:rgba(92,200,189,.1); color:var(--teal); padding:2px 7px; border-radius:5px; font-size:12px}
+
+  @media (max-width:640px){
+    .lb .nav.prev{left:8px} .lb .nav.next{right:8px}
+    .hero .inner{padding:52px 0 34px}
+  }
+</style>
+</head>
+<body>
+
+<!-- ================= HERO ================= -->
+<header class="hero">
+  <div class="bg" style="background-image:url('scenes/scene-07-whistle.jpg')"></div>
+  <div class="shade"></div>
+  <div class="inner wrap">
+    <div class="kicker">A Nigerian Suspense Story · Visual Storyboard</div>
+    <h1>THE WHISTLE <span>OF THE IROKO</span></h1>
+    <p class="logline">
+      A Lagos journalist returns to her grandmother's village in Enugu to bury a woman who
+      "died in her sleep" — and discovers her grandmother was the secret keeper of a grove,
+      a diary, and the names of fourteen missing girls. The men who killed her are coming to the funeral.
+    </p>
+    <div class="meta">
+      <span class="chip">Genre <b>Suspense · Drama · Family Mystery</b></span>
+      <span class="chip">Scenes <b>8</b></span>
+      <span class="chip">Chapters <b>10 + Epilogue</b></span>
+      <span class="chip">Runtime <b>~50 min</b></span>
+      <span class="chip">Audiobook <b>Chapter 1 — 8:40</b></span>
+    </div>
+  </div>
+</header>
+
+<!-- ================= AUDIO STRIP ================= -->
+<section class="audio-strip">
+  <div class="wrap">
+    <span class="audio-label">▶ Listen</span>
+    <audio controls preload="none" src="../Whistle-of-the-Iroko-Trailer.mp3"></audio>
+    <audio controls preload="none" src="../audiobook/Chapter-01-The-Call-at-347-AM.mp3"></audio>
+  </div>
+</section>
+
+<!-- ================= FILTERS ================= -->
+<section class="filters">
+  <div class="wrap" id="filters">
+    <button class="fbtn on" data-filter="all">All Scenes</button>
+    <button class="fbtn" data-filter="Act I">Act I — The Call</button>
+    <button class="fbtn" data-filter="Act II">Act II — The Grove</button>
+    <button class="fbtn" data-filter="Act III">Act III — The Funeral</button>
+    <span class="count" id="count"></span>
+  </div>
+</section>
+
+<!-- ================= BOARD ================= -->
+<main class="board wrap">
+  <div class="grid" id="grid"></div>
+</main>
+
+<!-- ================= LIGHTBOX ================= -->
+<div class="lb" id="lb" role="dialog" aria-modal="true">
+  <button class="x" id="lbClose" aria-label="Close">×</button>
+  <img id="lbImg" src="" alt="">
+  <div class="cap"><div class="t" id="lbTitle"></div><div class="d" id="lbDesc"></div></div>
+  <button class="nav prev" id="lbPrev" aria-label="Previous">‹</button>
+  <button class="nav next" id="lbNext" aria-label="Next">›</button>
+  <div class="idx" id="lbIdx"></div>
+</div>
+
+<!-- ================= FOOTER ================= -->
+<footer>
+  <div class="wrap">
+    <b>How this board grows:</b> each scene still is added to the <code>SCENES</code> array in the script below,
+    and it renders itself as a new card here — no page edits needed.<br><br>
+    © The Whistle of the Iroko · story, storyboard &amp; audiobook · generated scene stills, 2026
+  </div>
+</footer>
+
+<script>
+/* ============================================================
+   SCENES — append a new object after each visual generation
+   and the storyboard updates automatically.
+   ============================================================ */
+const SCENES = [
+  {
+    id: 1, title: "The Call at 3:47", chapter: "Chapter 1", act: "Act I", mood: "Suspense",
+    img: "scenes/scene-01-call.jpg",
+    caption: "Surulere, Lagos. 3:47 a.m. Chidinma's grandmother calls and whispers that men are digging under the iroko tree — and that if she dies, they must never bury her.",
+    beats: ["The 3:47 a.m. phone call", "\u201CThey are digging under the iroko tree.\u201D", "\u201CDo not let them put me in the ground.\u201D"]
+  },
+  {
+    id: 2, title: "The Night Bus", chapter: "Chapter 2", act: "Act I", mood: "Dread",
+    img: "scenes/scene-02-night-bus.jpg",
+    caption: "On the Enugu night bus, a girl presses her fingers against the window glass while a woman in lace smiles beside her. Chidi has seen that gesture before — in the files of fourteen missing girls.",
+    beats: ["Ojota motorpark at dusk", "The Ore roadblock & the scarred man", "A girl pressed against the glass"]
+  },
+  {
+    id: 3, title: "The Closed Coffin", chapter: "Chapter 4", act: "Act II", mood: "Mystery",
+    img: "scenes/scene-03-coffin.jpg",
+    caption: "The parlor is heavy with candle smoke and flowers. Nobody will open the coffin. At midnight, Chidi lifts the lid and finds blue lips, a bruise on the wrist — and bare feet, on a woman who swore she would be buried in her brown shoes.",
+    beats: ["A coffin nobody will open", "Blue lips & bare feet", "A whistle appears on the parlor floor"]
+  },
+  {
+    id: 4, title: "Under the Iroko", chapter: "Chapter 6", act: "Act II", mood: "Mystery",
+    img: "scenes/scene-04-iroko-dig.jpg",
+    caption: "By torchless moonlight, Chidi and Nnamdi dig at the third root from the road. Inside the rusted strongbox: the 1911 deed, the photographs, the list of fourteen names — and the letter that names the keeper's killers.",
+    beats: ["The third root from the road", "The key hidden inside the whistle", "The deed, the photos, the list"]
+  },
+  {
+    id: 5, title: "The Mission House", chapter: "Chapter 8", act: "Act II", mood: "Horror",
+    img: "scenes/scene-05-mission-house.jpg",
+    caption: "A ruin the village calls haunted. Inside, five girls on thin mattresses. The woman in lace moves among them with a tray — and one girl turns to the window, as if she can feel Chidi watching.",
+    beats: ["The ruined colonial mission house", "Five girls on thin mattresses", "\u201CAunty\u201D — the girl from the bus remembers"]
+  },
+  {
+    id: 6, title: "The Funeral", chapter: "Chapter 9", act: "Act III", mood: "Menace",
+    img: "scenes/scene-06-funeral.jpg",
+    caption: "The convoy arrives with gifts and condolences. Odogwu takes Chidi's hands. The woman in lace watches from the second car. The coffin is lowered — and Chidi steps forward: \u201CWait.\u201D",
+    beats: ["Odogwu's black convoy", "The last-look custom", "\u201CWait.\u201D — the coffin comes back up"]
+  },
+  {
+    id: 7, title: "The Whistle", chapter: "Chapter 9", act: "Act III", mood: "Climax",
+    img: "scenes/scene-07-whistle.jpg",
+    caption: "Three long blasts over the grove. The guardians of the iroko rise from the tall grass with lanterns and Dane guns — and the man who killed the keeper finally runs out of ground.",
+    beats: ["Three long blasts", "The guardians of the grove", "The photograph sewn into the hem"]
+  },
+  {
+    id: 8, title: "Dawn at the Grove", chapter: "Epilogue", act: "Act III", mood: "Resolution",
+    img: "scenes/scene-08-dawn.jpg",
+    caption: "The girls are home, the deed hangs in the town hall, and at dawn Chidi blows the whistle once at the iroko — soft, not calling anyone. And sometimes, she hears her grandmother answering.",
+    beats: ["The reading room named for Mama Nnenna", "The land returned to the women", "One whistle at dawn"]
+  }
+];
+
+/* ============================================================
+   RENDER
+   ============================================================ */
+const grid = document.getElementById('grid');
+const countEl = document.getElementById('count');
+let currentFilter = 'all';
+let currentIndex = 0;
+
+function pad(n){ return String(n).padStart(2,'0'); }
+
+function render(filter){
+  currentFilter = filter;
+  const list = filter === 'all' ? SCENES : SCENES.filter(s => s.act === filter);
+  countEl.textContent = list.length + ' of ' + SCENES.length + ' scenes';
+
+  grid.innerHTML = list.map((s, i) => `
+    <article class="card" data-index="${i}" tabindex="0" role="button"
+             aria-label="View scene ${s.id}: ${s.title}">
+      <div class="frame">
+        <img src="${s.img}" alt="${s.title}" loading="lazy">
+        <span class="num">SCENE ${pad(s.id)}</span>
+      </div>
+      <div class="body">
+        <div class="tags">
+          <span class="tag ch">${s.chapter}</span>
+          <span class="tag act">${s.act}</span>
+          <span class="tag mood">${s.mood}</span>
+        </div>
+        <h3>${s.title}</h3>
+        <p>${s.caption}</p>
+        <div class="beats">${s.beats.map(b => `<div>${b}</div>`).join('')}</div>
+      </div>
+    </article>`).join('');
+
+  // re-attach events
+  document.querySelectorAll('.card').forEach((card, idx) => {
+    card.addEventListener('click', () => openLightbox(idx));
+    card.addEventListener('keydown', e => {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openLightbox(idx); }
+    });
+  });
+}
+
+/* ============================================================
+   LIGHTBOX
+   ============================================================ */
+const lb = document.getElementById('lb');
+const lbImg = document.getElementById('lbImg');
+const lbTitle = document.getElementById('lbTitle');
+const lbDesc = document.getElementById('lbDesc');
+const lbIdx = document.getElementById('lbIdx');
+
+function visibleScenes(){ return currentFilter === 'all' ? SCENES : SCENES.filter(s => s.act === currentFilter); }
+
+function openLightbox(i){
+  const list = visibleScenes();
+  currentIndex = i;
+  show(list[i], i, list.length);
+  lb.classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeLightbox(){
+  lb.classList.remove('open');
+  document.body.style.overflow = '';
+}
+function step(dir){
+  const list = visibleScenes();
+  currentIndex = (currentIndex + dir + list.length) % list.length;
+  show(list[currentIndex], currentIndex, list.length);
+}
+function show(s, i, n){
+  lbImg.src = s.img;
+  lbTitle.textContent = 'Scene ' + pad(s.id) + ' — ' + s.title;
+  lbDesc.textContent = s.caption + '  ·  ' + s.chapter + ' · ' + s.act;
+  lbIdx.textContent = (i + 1) + ' / ' + n;
+}
+
+document.getElementById('lbClose').addEventListener('click', closeLightbox);
+document.getElementById('lbPrev').addEventListener('click', () => step(-1));
+document.getElementById('lbNext').addEventListener('click', () => step(1));
+lb.addEventListener('click', e => { if (e.target === lb) closeLightbox(); });
+document.addEventListener('keydown', e => {
+  if (!lb.classList.contains('open')) return;
+  if (e.key === 'Escape') closeLightbox();
+  if (e.key === 'ArrowLeft') step(-1);
+  if (e.key === 'ArrowRight') step(1);
+});
+
+/* ============================================================
+   FILTERS
+   ============================================================ */
+document.querySelectorAll('.fbtn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.fbtn').forEach(b => b.classList.remove('on'));
+    btn.classList.add('on');
+    render(btn.dataset.filter);
+  });
+});
+
+/* ============================================================
+   INIT
+   ============================================================ */
+render('all');
+</script>
+</body>
+</html>
