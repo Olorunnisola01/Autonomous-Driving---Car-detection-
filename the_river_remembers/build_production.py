@@ -595,10 +595,12 @@ def write_reference_prompts():
         refs.append({
             "tag": c["tag"], "file": f"images/refs/{c['filename']}_ref.png",
             "prompt": (
-                f"Character reference sheet, single full-height three-quarter portrait of {c['name']}, age {c['age']}. "
-                f"{c['physical']} Fixed wardrobe: {c['wardrobe']}. Signature object: {c['object']}. "
-                f"Grounded cinematic Ghanaian coastal drama, neutral warm clay studio backdrop, soft daylight, realistic skin texture, "
-                f"clear face and silhouette, consistent editorial costume design, no text, no logo, no watermark, no collage, no duplicate person."
+                f"Vertical 2:3, full-body single-character reference portrait of {c['name']}, age {c['age']}; three-quarter standing pose, "
+                f"from head to boots fully inside the frame, face and complete outfit clearly visible. {c['physical']} "
+                f"Exact fixed wardrobe: {c['wardrobe']}. Exact signature object: {c['object']}, visibly and naturally worn or held. "
+                f"Grounded, premium cinematic Ghanaian coastal drama; neutral warm clay studio backdrop; soft daylight; realistic natural skin texture; "
+                f"authentic textile detail; clear silhouette; sophisticated editorial costume reference. One person only, no text, no labels, no logo, "
+                f"no watermark, no collage, no character turnaround grid, no duplicate person, no cropped feet, no extra limbs."
             )
         })
     (ROOT / "REFERENCE_PROMPTS.json").write_text(json.dumps({"project": TITLE, "references": refs}, ensure_ascii=False, indent=2), encoding="utf-8")
