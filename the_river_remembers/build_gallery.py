@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
-"""Create one portable, self-contained storyboard gallery with hierarchy:
+"""Create one portable, self-contained storyboard gallery:
 
-Character References → Act header → Scene subsection with voiceover → Step cards (full 16:9 preview, click-to-pop lightbox).
-
-All 207 images are inlined as base64 JPEG thumbnails; gallery is fully offline.
-Lightbox is pure inline JS/CSS, no external deps.
+Hierarchy: Character References → Act → Scene + Voiceover → Step cards
+Features: full 16:9 uncropped tiles, click-to-pop lightbox, collapsible sidebar nav (same buttons as top), 207 base64 JPEG thumbnails offline.
 
 Run:
     python3 build_gallery.py
@@ -180,14 +178,12 @@ def label_for(path: Path) -> str:
 
 
 def inline_thumbnail(path: Path) -> tuple[str, int, int]:
-    """Create 16:9 full-frame thumbnail (no crop) — preserve entire image."""
     with Image.open(path) as raw:
         image = ImageOps.exif_transpose(raw).convert("RGB")
         original_w, original_h = image.size
-        # Thumbnail for grid — keep full frame, no crop, LANCZOS
-        image.thumbnail((560, 560), Image.Resampling.LANCZOS)
+        image.thumbnail((520, 520), Image.Resampling.LANCZOS)
         buffer = io.BytesIO()
-        image.save(buffer, format="JPEG", quality=78, optimize=True)
+        image.save(buffer, format="JPEG", quality=75, optimize=True)
     return base64.b64encode(buffer.getvalue()).decode("ascii"), original_w, original_h
 
 
@@ -206,7 +202,6 @@ def cards(paths: list[Path], empty_text: str) -> str:
             continue
         label = label_for(path)
         rel = html.escape(path.relative_to(ROOT).as_posix())
-        # data-full uses same base64 thumbnail (full frame, now uncropped). Click opens lightbox.
         fragments.append(
             '<article class="card" tabindex="0" role="button" '
             f'aria-label="{html.escape(label)} — click to enlarge">'
@@ -306,6 +301,28 @@ def group_by_scene(files: list[Path]) -> dict[str, list[Path]]:
     return dict(sorted(grouped.items()))
 
 
+def build_sidebar_html(act_titles, act_scenes, scene_titles) -> str:
+    """Generate collapsible sidebar nav mirroring top buttons."""
+    parts = []
+    parts.append('<a href="#refs" class="side-link">Character References</a>')
+    for act_num in (1, 2, 3):
+        act_title = act_titles.get(act_num, FALLBACK_ACT_TITLES.get(act_num, f"Act {act_num}"))
+        parts.append(f'<a href="#act{act_num}" class="side-link side-act">{html.escape(act_title)}</a>')
+        # scenes for this act
+        s_list = act_scenes.get(act_num, [])
+        if s_list:
+            parts.append('<div class="side-scene-grid">')
+            for sid in s_list:
+                short = sid  # S01 etc.
+                # full title for tooltip
+                full = scene_titles.get(sid, sid)
+                parts.append(
+                    f'<a href="#{html.escape(sid.lower())}" class="side-scene" title="{html.escape(full)}">{html.escape(short)}</a>'
+                )
+            parts.append('</div>')
+    return "\n".join(parts)
+
+
 def main() -> None:
     refs = image_files(ROOT / "images" / "refs")
     acts_files = {act: image_files(ROOT / "images" / f"act{act}") for act in (1, 2, 3)}
@@ -320,7 +337,7 @@ def main() -> None:
     body_parts.append(
         f'<section class="top-section refs-section">'
         f'<div class="section-heading"><h2>{html.escape(refs_heading)}</h2>'
-        f'<span>{refs_count} image{"s" if refs_count != 1 else ""} — click any tile to enlarge</span></div>'
+        f'<span>{refs_count} images — click any tile to enlarge</span></div>'
         f'<div class="grid">{refs_grid}</div></section>'
     )
 
@@ -338,7 +355,7 @@ def main() -> None:
             f'<section class="act act-{act_num}">',
             f'<div class="section-heading act-heading">'
             f'<h2>{html.escape(act_title)}</h2>'
-            f'<span>{act_count} image{"s" if act_count != 1 else ""}</span></div>',
+            f'<span>{act_count} images</span></div>',
         ]
 
         if not files:
@@ -366,7 +383,7 @@ def main() -> None:
                 act_html.append(
                     f'<div class="scene" id="{html.escape(anchor)}">'
                     f'<div class="scene-heading"><h3>{html.escape(s_title)}</h3>'
-                    f'<span>{count} step{"s" if count != 1 else ""}</span></div>'
+                    f'<span>{count} steps</span></div>'
                     f'{voice_block}'
                     f'<div class="grid">{cards_html}</div></div>'
                 )
@@ -390,7 +407,7 @@ def main() -> None:
                 act_html.append(
                     f'<div class="scene" id="{html.escape(anchor)}">'
                     f'<div class="scene-heading"><h3>{html.escape(s_title)}</h3>'
-                    f'<span>{count} step{"s" if count != 1 else ""}</span></div>'
+                    f'<span>{count} steps</span></div>'
                     f'{voice_block}'
                     f'<div class="grid">{cards_html}</div></div>'
                 )
@@ -399,6 +416,7 @@ def main() -> None:
         body_parts.append("\n".join(act_html))
 
     source = "\n".join(body_parts)
+    sidebar_nav = build_sidebar_html(act_titles, act_scenes, scene_titles)
 
     document = f"""<!doctype html>
 <html lang="en">
@@ -425,7 +443,6 @@ section {{ margin:2.8rem 0; }}
 .act-heading h2 {{ font-size:1.6rem; }}
 .section-heading h2 {{ margin:0 0 .7rem; font-size:1.5rem; font-family:Georgia,serif; }}
 .section-heading span {{ color:var(--muted); font-size:.9rem; white-space:nowrap; }}
-/* GRID & CARDS - redesigned for full 16:9 uncropped preview */
 .grid {{ display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:1.1rem; padding-top:1rem; }}
 .card {{ overflow:hidden; border:1px solid #ded6ca; border-radius:12px; background:var(--card); box-shadow:0 3px 12px rgba(21,40,40,.08); display:flex; flex-direction:column; cursor:pointer; transition:transform .18s ease, box-shadow .18s ease; }}
 .card:hover {{ transform:translateY(-3px); box-shadow:0 8px 20px rgba(21,40,40,.18); }}
@@ -444,8 +461,8 @@ section {{ margin:2.8rem 0; }}
 .voiceover {{ margin:0 0 1rem 0; padding:1rem 1.1rem; background:var(--voice-bg); border-left:4px solid var(--voice-border); border-radius:8px; line-height:1.7; }}
 .voice-label {{ font-size:.72rem; letter-spacing:.12em; font-weight:700; color:var(--teal); margin-bottom:.4rem; text-transform:uppercase; }}
 .voiceover p {{ margin:0; font-family:Georgia,serif; font-size:.98rem; color:#2c2a26; }}
-/* LIGHTBOX - click to enlarge full image */
-.lightbox {{ display:none; position:fixed; inset:0; background:rgba(5,15,20,.92); z-index:9999; align-items:center; justify-content:center; padding:1.5rem; }}
+/* LIGHTBOX */
+.lightbox {{ display:none; position:fixed; inset:0; background:rgba(5,15,20,.92); z-index:10002; align-items:center; justify-content:center; padding:1.5rem; }}
 .lightbox.active {{ display:flex; }}
 .lightbox-content {{ position:relative; max-width:92vw; max-height:88vh; display:flex; flex-direction:column; align-items:center; }}
 .lightbox-content img {{ max-width:90vw; max-height:78vh; width:auto; height:auto; object-fit:contain; border-radius:10px; background:#000; box-shadow:0 12px 50px rgba(0,0,0,.7); }}
@@ -454,13 +471,48 @@ section {{ margin:2.8rem 0; }}
 .lightbox-close {{ position:absolute; top:.8rem; right:1.2rem; background:rgba(0,0,0,.4); border:1px solid rgba(255,255,255,.35); color:#fff; font-size:2rem; width:44px; height:44px; border-radius:50%; cursor:pointer; line-height:1; display:flex; align-items:center; justify-content:center; }}
 .lightbox-close:hover {{ background:rgba(255,255,255,.15); }}
 .lightbox-hint {{ margin-top:.6rem; color:#8aa0a6; font-size:.73rem; }}
+/* COLLAPSIBLE SIDEBAR */
+.sidebar-toggle {{ position:fixed; top:1rem; left:1rem; z-index:10001; background:var(--navy); color:#fff; border:1px solid rgba(255,255,255,.3); border-radius:99px; padding:.62rem 1.1rem; font-size:.9rem; cursor:pointer; box-shadow:0 4px 14px rgba(0,0,0,.28); transition:all .2s ease; letter-spacing:.02em; }}
+.sidebar-toggle:hover {{ background:var(--teal); transform:translateY(-1px); }}
+.sidebar-overlay {{ display:none; position:fixed; inset:0; background:rgba(0,0,0,.45); z-index:9998; backdrop-filter:blur(2px); }}
+.sidebar-overlay.active {{ display:block; }}
+.sidebar {{ position:fixed; top:0; left:0; height:100vh; width:310px; max-width:85vw; background:linear-gradient(180deg,#fffdf9 0%,#f7f2e9 100%); border-right:2px solid var(--line); z-index:9999; overflow-y:auto; transform:translateX(-100%); transition:transform .32s cubic-bezier(.25,.8,.25,1); box-shadow:6px 0 28px rgba(0,0,0,.22); padding:0 0 1.2rem 0; }}
+.sidebar.open {{ transform:translateX(0); }}
+.sidebar-header {{ position:sticky; top:0; background:rgba(247,242,233,.96); backdrop-filter:blur(6px); display:flex; justify-content:space-between; align-items:center; padding:1rem 1.1rem .8rem; border-bottom:2px solid var(--line); z-index:1; }}
+.sidebar-header h2 {{ margin:0; font-family:Georgia,serif; font-size:1.15rem; }}
+.sidebar-close {{ background:rgba(0,0,0,.06); border:1px solid var(--line); color:var(--ink); font-size:1.6rem; width:36px; height:36px; border-radius:50%; cursor:pointer; line-height:1; }}
+.sidebar-close:hover {{ background:rgba(0,0,0,.1); }}
+.sidebar-nav {{ padding:.8rem 1rem; }}
+.side-link {{ display:block; padding:.5rem .6rem; margin:.2rem 0; text-decoration:none; color:var(--ink); border-radius:8px; font-size:.9rem; border:1px solid transparent; transition:all .15s; }}
+.side-link:hover {{ background:rgba(25,99,107,.08); border-color:var(--line-light); transform:translateX(2px); }}
+.side-act {{ font-weight:700; margin-top:.9rem; background:rgba(16,44,58,.07); border:1px solid var(--line-light); font-family:Georgia,serif; }}
+.side-act:hover {{ background:rgba(16,44,58,.11); }}
+.side-scene-grid {{ display:grid; grid-template-columns:repeat(4,1fr); gap:.35rem; margin:.45rem 0 .2rem 0; }}
+.side-scene {{ display:flex; align-items:center; justify-content:center; padding:.45rem .2rem; text-decoration:none; color:var(--ink); background:#fff; border:1px solid var(--line-light); border-radius:7px; font-size:.8rem; font-weight:600; transition:all .15s; }}
+.side-scene:hover {{ background:var(--navy); color:#fff; border-color:var(--navy); transform:translateY(-1px); box-shadow:0 3px 8px rgba(0,0,0,.12); }}
+.side-hint {{ margin:1rem 0 0; padding:.8rem; background:rgba(25,99,107,.06); border:1px dashed var(--line); border-radius:8px; font-size:.75rem; color:var(--muted); line-height:1.5; }}
 footer {{ max-width:1380px; margin:auto; padding:0 1.3rem 3rem; color:var(--muted); font-size:.8rem; }}
-@media (max-width:650px) {{ .grid {{ grid-template-columns:1fr 1fr; gap:.7rem; }} .scene {{ padding:.8rem; }} .card img {{ aspect-ratio:16/9; }} }}
+@media (max-width:700px) {{ .grid {{ grid-template-columns:1fr 1fr; gap:.7rem; }} .scene {{ padding:.8rem; }} .sidebar {{ width:280px; }} }}
 </style>
 </head>
 <body>
-<header><h1>The River Remembers</h1><p>A self-contained visual production gallery. All 207 thumbnails are full-frame 16:9 (no crop), base64-inlined and viewable offline. Hierarchy: Character References → Act → Scene (S01–S20) with voiceover → Step cards. <b>Click any tile to pop up the full image.</b></p><span class="badge">{total} assets — 7 refs + 200 steps + 20 voice scripts — click to enlarge</span>
-<nav class="toc">
+
+<!-- Collapsible Sidebar Toggle -->
+<button id="sidebar-toggle" class="sidebar-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="sidebar">☰ Navigate • Acts & Scenes</button>
+<div id="sidebar-overlay" class="sidebar-overlay" aria-hidden="true"></div>
+<aside id="sidebar" class="sidebar" aria-hidden="true" aria-label="Scene navigator">
+  <div class="sidebar-header">
+    <h2>🌊 The River Remembers</h2>
+    <button id="sidebar-close" class="sidebar-close" aria-label="Close navigation">×</button>
+  </div>
+  <nav class="sidebar-nav" aria-label="Primary">
+    {sidebar_nav}
+    <div class="side-hint">💡 Tip: Click any image tile to pop up full 16:9 image. Voiceover tells the full story — S01 to S20 in order. This sidebar stays accessible without scrolling to top.</div>
+  </nav>
+</aside>
+
+<header><h1>The River Remembers</h1><p>A self-contained visual production gallery. All 207 thumbnails are full-frame 16:9 (no crop), base64-inlined and viewable offline. Hierarchy: Character References → Act → Scene (S01–S20) with voiceover → Step cards. <b>Click any tile to pop up full image. Use ☰ Navigate sidebar to jump without scrolling to top.</b></p><span class="badge">{total} assets — 7 refs + 200 steps + 20 voice scripts — sidebar nav + click to enlarge</span>
+<nav class="toc" aria-label="Top quick nav">
 <a href="#refs">Character References</a>
 <a href="#act1">Act I — Return</a>
 <a href="#act2">Act II — The Signal</a>
@@ -470,7 +522,7 @@ footer {{ max-width:1380px; margin:auto; padding:0 1.3rem 3rem; color:var(--mute
 </nav>
 </header>
 <main>{source}</main>
-<footer>Generated from <code>images/refs/</code> and <code>images/act1–3/</code>. Re-run <code>build_gallery.py</code> after adding a batch. All images are inlined as base64 JPEG, full-frame 16:9 contain (no crop). Tap/click any card to open lightbox. Hierarchy: Refs → Act → Scene + Voiceover → Steps.</footer>
+<footer>Generated from <code>images/refs/</code> and <code>images/act1–3/</code>. All images are base64 JPEG, full-frame 16:9 contain (no crop). Click any card for lightbox. Top buttons + collapsible sidebar provide same navigation. 207 images, 20 voiceovers.</footer>
 
 <!-- Lightbox Modal -->
 <div id="lightbox" class="lightbox" aria-hidden="true" role="dialog" aria-label="Image preview">
@@ -478,65 +530,84 @@ footer {{ max-width:1380px; margin:auto; padding:0 1.3rem 3rem; color:var(--mute
   <div class="lightbox-content">
     <img id="lb-img" src="" alt="">
     <div class="lightbox-caption" id="lb-caption"></div>
-    <div class="lightbox-hint">Press Esc or click outside to close — click tile to enlarge</div>
+    <div class="lightbox-hint">Press Esc or click outside to close</div>
   </div>
 </div>
 
 <script>
 (function() {{
+  // Lightbox logic
   const lb = document.getElementById('lightbox');
   const lbImg = document.getElementById('lb-img');
   const lbCaption = document.getElementById('lb-caption');
   const lbClose = document.getElementById('lb-close');
   let lastFocus = null;
-
+  function esc(s) {{ return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }}
   function openLB(src, label, path, orig) {{
     lastFocus = document.activeElement;
-    lbImg.src = src;
-    lbImg.alt = label;
-    lbCaption.innerHTML = '<strong>' + escapeHtml(label) + '</strong>' + escapeHtml(path ? path + ' · ' + orig : '');
-    lb.classList.add('active');
-    lb.setAttribute('aria-hidden','false');
+    lbImg.src = src; lbImg.alt = label;
+    lbCaption.innerHTML = '<strong>' + esc(label) + '</strong>' + esc(path ? path + ' · ' + orig : '');
+    lb.classList.add('active'); lb.setAttribute('aria-hidden','false');
     document.body.style.overflow = 'hidden';
     lbClose.focus();
   }}
   function closeLB() {{
-    lb.classList.remove('active');
-    lb.setAttribute('aria-hidden','true');
-    lbImg.src = '';
-    document.body.style.overflow = '';
+    lb.classList.remove('active'); lb.setAttribute('aria-hidden','true');
+    lbImg.src = ''; document.body.style.overflow = '';
     if (lastFocus) lastFocus.focus();
   }}
-  function escapeHtml(s) {{
-    return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-  }}
-
   document.addEventListener('click', function(e) {{
     const card = e.target.closest('.card');
     if (!card) return;
     const img = card.querySelector('img');
     if (!img) return;
-    const full = img.getAttribute('data-full') || img.src;
-    const label = img.getAttribute('data-label') || img.alt || '';
-    const path = img.getAttribute('data-path') || '';
-    const orig = img.getAttribute('data-orig') || '';
-    openLB(full, label, path, orig);
+    openLB(img.getAttribute('data-full')||img.src, img.getAttribute('data-label')||img.alt||'', img.getAttribute('data-path')||'', img.getAttribute('data-orig')||'');
   }});
-
-  // keyboard accessibility on card (Enter/Space)
   document.addEventListener('keydown', function(e) {{
-    if ((e.key === 'Enter' || e.key === ' ') && e.target.closest('.card')) {{
-      e.preventDefault();
-      e.target.closest('.card').click();
-    }}
+    if ((e.key==='Enter'||e.key===' ') && e.target.closest('.card')) {{ e.preventDefault(); e.target.closest('.card').click(); }}
   }});
-
-  lb.addEventListener('click', function(e) {{
-    if (e.target === lb) closeLB();
-  }});
+  lb.addEventListener('click', function(e) {{ if (e.target===lb) closeLB(); }});
   lbClose.addEventListener('click', closeLB);
+
+  // Sidebar logic - collapsible, openable without scrolling to top
+  const sb = document.getElementById('sidebar');
+  const sbToggle = document.getElementById('sidebar-toggle');
+  const sbClose = document.getElementById('sidebar-close');
+  const sbOverlay = document.getElementById('sidebar-overlay');
+  let sbLastFocus = null;
+  function openSB() {{
+    sbLastFocus = document.activeElement;
+    sb.classList.add('open'); sbOverlay.classList.add('active');
+    sb.setAttribute('aria-hidden','false'); sbOverlay.setAttribute('aria-hidden','false');
+    sbToggle.setAttribute('aria-expanded','true');
+    document.body.style.overflow = 'hidden';
+    sbClose.focus();
+  }}
+  function closeSB() {{
+    sb.classList.remove('open'); sbOverlay.classList.remove('active');
+    sb.setAttribute('aria-hidden','true'); sbOverlay.setAttribute('aria-hidden','true');
+    sbToggle.setAttribute('aria-expanded','false');
+    // only restore overflow if lightbox not open
+    if (!lb.classList.contains('active')) document.body.style.overflow = '';
+    if (sbLastFocus) sbLastFocus.focus();
+  }}
+  function isSBOpen() {{ return sb.classList.contains('open'); }}
+  sbToggle.addEventListener('click', function() {{ isSBOpen() ? closeSB() : openSB(); }});
+  sbClose.addEventListener('click', closeSB);
+  sbOverlay.addEventListener('click', closeSB);
+  // close sidebar when nav link clicked (jump to scene)
+  sb.querySelectorAll('a').forEach(function(a) {{
+    a.addEventListener('click', function() {{
+      // small delay to allow hash navigation
+      setTimeout(closeSB, 180);
+    }});
+  }});
+  // global Esc closes sidebar or lightbox (lightbox priority)
   document.addEventListener('keydown', function(e) {{
-    if (e.key === 'Escape' && lb.classList.contains('active')) closeLB();
+    if (e.key==='Escape') {{
+      if (lb.classList.contains('active')) {{ closeLB(); }}
+      else if (isSBOpen()) {{ closeSB(); }}
+    }}
   }});
 }})();
 </script>
@@ -547,7 +618,7 @@ footer {{ max-width:1380px; margin:auto; padding:0 1.3rem 3rem; color:var(--mute
     document = document.replace('class="act act-3"', 'class="act act-3" id="act3"')
 
     OUT.write_text(document, encoding="utf-8")
-    print(f"Wrote {OUT.name} with {len(refs)} refs, {sum(len(v) for v in acts_files.values())} scenes = {total}, plus {len(VOICE_SCRIPTS)} voiceovers, lightbox enabled, full 16:9 contain.")
+    print(f"Wrote {OUT.name} with {len(refs)} refs, {sum(len(v) for v in acts_files.values())} scenes = {total}, plus {len(VOICE_SCRIPTS)} voiceovers, lightbox + collapsible sidebar.")
 
 
 if __name__ == "__main__":
