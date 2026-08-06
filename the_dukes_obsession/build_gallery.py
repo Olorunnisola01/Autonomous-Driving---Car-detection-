@@ -31,7 +31,121 @@ The candle guttered lower, casting long shadows that danced on the walls like gh
 
 But tonight, in the flickering candlelight, with my father's trembling hands and the ghost of my mother's Chaucer watching over us, I allowed myself a moment of honesty. We were finished. The bindery was finished. The life we had known was finished. And no amount of careful stitching could mend what was broken beyond repair.
 
-Some things, once sold, cannot be bought back. But some things, once lost, cannot be kept either. And I was beginning to understand that love — for a father, for a mother, for a life that no longer existed — was the most expensive thing of all.""", "FINCH_BINDERY", 1),
+Some things, once sold, cannot be bought back. But some things, once lost, cannot be kept either. And I was beginning to understand that love — for a father, for a mother, for a life that no longer existed — was the most expensive thing of all.
+
+I remember when the bindery was different. When it smelled of possibility rather than despair. Mother would sit at her workbench, her hands moving with the confidence of someone who knew exactly what she was doing. She would sing as she worked, old folk songs that I can still hear in my head when the wind is right. Father would watch her with an expression I can only describe now as worship, his eyes following her every movement as if she were performing magic rather than craftsmanship.
+
+The books we bound in those days were different too. Not the desperate repairs of water-damaged Bibles and moth-eaten prayer books that now constituted our income, but fine editions, leather-bound volumes with gold leaf tooling and silk endpapers. We had clients then — real clients, not just the vicar's wife paying in bread. The squire's library, the doctor's collection, even a few commissions from London. We were respected. We were artists.
+
+Now we were scavengers, picking through the remnants of our former life, trying to extract whatever value we could from the ruins.
+
+The creditor notices on the wall told the story of our decline in stark black ink. Hemsworth & Sons, Butchers — 2 pounds, 7 shillings. Gable's Bakery — 1 pound, 3 shillings. The Chandlery — 15 shillings. Each one a small death, a small failure, a small acknowledgment that we were no longer the people we had once been. The notices were arranged chronologically, though I don't know why. Perhaps Father found some comfort in seeing the progression, in watching our ruin unfold in neat rows of numbers. Or perhaps he simply didn't have the energy to take them down.
+
+I had taken to reading them in the morning, when Father was still asleep. I would stand before the wall and trace the amounts with my finger, calculating how long we could survive on what we had. The answer was always the same: not long enough.
+
+The Chaucer. Mother's Chaucer. I had never opened it, though I knew I should have. It seemed sacrilegious somehow, to read the words that had given her so much pleasure when she was no longer here to enjoy them. But now, with the creditors circling and Father's hands shaking worse each day, I wondered if the book held any secrets that might save us. Some hidden value, some forgotten inscription that might make it worth more than three pounds.
+
+I reached for it, my fingers closing around the brass clasp. It was cold, colder than I expected. The leather was soft with age, worn smooth by Mother's hands. I could almost feel her presence in the binding, in the careful stitching, in the way the pages lay flat and true. She had loved this book. She had read it every evening, by the light of the fire, while Father and I worked at our benches. She would read aloud sometimes, her voice filling the bindery with Chaucer's Middle English, making the old words sound like music.
+
+"Whan that Aprill with his shoures soote, The droghte of March hath perced to the roote..."
+
+I could hear her voice now, clear as if she were standing beside me. And for a moment, just a moment, I could pretend that she was. That this was any other evening, that the bindery was warm and bright, that we were a family intact rather than a family in ruins.
+
+But the candle guttered, and the moment passed, and I was alone with the Chaucer and the creditor notices and the sound of Father's ragged breathing from the cot in the corner.
+
+I opened the book.
+
+The pages were yellowed but intact, the black ink still sharp against the cream paper. I turned to the first page, expecting to find the famous opening of the Canterbury Tales. Instead, I found an inscription, written in Mother's careful hand:
+
+"For Thomas, with all my love. May this book bring you as much joy as it has brought me. — Eleanor, 1847"
+
+1847. The year before I was born. The year before everything started to go wrong. I ran my finger over the words, feeling the slight indentation where Mother's pen had pressed into the paper. She had been happy then. We had all been happy then.
+
+I turned another page and found a pressed flower, a violet, its color faded to brown but its shape still perfect. Mother's favorite flower. She used to press them in books, said it was a way of preserving beauty, of keeping a moment alive forever.
+
+Forever. The word felt like a mockery now. Nothing lasted forever. Not beauty, not love, not even books. Especially not books, which were the first things to go when the creditors came calling.
+
+I closed the Chaucer gently, carefully, as if it might break. As if I might break. I placed it back on its shelf, high up where Father's trembling hands couldn't reach it, where the creditors couldn't see it, where the world couldn't take it away from us.
+
+Not yet. Not tonight.
+
+Tomorrow I would make my decision. Tomorrow I would choose between the Chaucer and our survival, between Mother's memory and Father's future, between the past and whatever scraps of the future we might still claw back from the jaws of ruin.
+
+But tonight, I would stitch. Tonight, I would bind. Tonight, I would do the only thing I knew how to do, the only thing that made sense in a world that had lost all meaning.
+
+I picked up my needle and thread and returned to the vicar's Bible. The leather was cheap, the paper thin, but the stitching was mine. The care was mine. The love I put into every stitch was mine, and no creditor could take that away.
+
+The candle burned lower. The night grew deeper. And I stitched, and I stitched, and I stitched, as if I could stitch our lives back together, as if I could bind our broken family as carefully as I bound this book.
+
+But some things cannot be bound. Some things cannot be mended. Some debts cannot be paid.
+
+And some loves, once lost, can never be recovered.
+
+Not even by the most skilled bookbinder in all of England.
+
+I worked through the night, the needle slipping in and out of the leather with a rhythm that was older than thought, older than words. My mother had taught me this rhythm, and her mother had taught her, and so on back through the generations of women who had bound books and bound families and bound the fragile threads of their lives together with nothing but skill and determination.
+
+The vicar's Bible was nearly finished now. The spine was tight, the covers secure, the gold lettering on the front still legible despite the wear. It was good work. Honest work. The kind of work that would have made Mother proud.
+
+But pride was another luxury we could not afford.
+
+Dawn was approaching. I could see the first grey light seeping through the cracks in the shutters, and I knew that soon Father would wake, and the day would begin, and the creditors would come again, and we would face another day of pretending that we were not drowning.
+
+I tied off the final stitch, trimmed the thread, and set the Bible aside. It was done. Another book bound, another small resurrection complete. But no amount of resurrections could bring our life back. No amount of careful stitching could mend what was broken.
+
+I stood and stretched, my back aching from hours at the workbench. The bindery was cold, the fire having died to embers in the small grate. I should bank it, add more coal, but we were low on coal too. Everything was low. Everything was running out.
+
+I moved to the window and looked out at the street. The village was quiet, the houses dark, the world asleep. In a few hours, the baker would light his ovens, the butcher would open his shop, the chandler would trim his wicks. In a few hours, the creditors would come.
+
+But for now, in this moment between night and day, there was peace. For now, in this moment between what was and what would be, there was stillness.
+
+I pressed my forehead against the cold glass and closed my eyes. I could smell the leather and the glue and the old paper. I could hear Father's breathing from the corner. I could feel the weight of the Chaucer on the shelf behind me, heavy with memory and loss and the impossible choice that awaited me.
+
+Tomorrow. Tomorrow I would decide.
+
+But tonight, I was still a bookbinder's daughter. Tonight, I was still a keeper of stories. Tonight, I was still a mender of broken things.
+
+Even if some things, I was learning, could not be mended.
+
+Even if some debts could not be paid.
+
+Even if some loves could not be saved.
+
+The candle finally guttered and died, leaving me in darkness. But I did not move. I stood at the window and watched the night give way to dawn, and I thought about my mother, and my father, and the Chaucer, and the creditors, and the impossible arithmetic of our survival.
+
+And I understood, with a clarity that was almost peaceful, that we were already lost. That the bindery was already gone. That the life we had known was already over.
+
+All that remained was to choose how we would face the end.
+
+With dignity, I thought. With skill. With love.
+
+With the careful stitching of a bookbinder's daughter who knew that some things, once sold, cannot be bought back, but who would try anyway.
+
+Because that was what love was. That was what family was. That was what survival was.
+
+Trying anyway.
+
+Even when you knew you would fail.
+
+Even when you knew the debt could not be paid.
+
+Even when you knew the book could not be saved.
+
+Trying anyway.
+
+The dawn came. The village woke. The creditors came.
+
+And I made my choice.
+
+I chose the Chaucer.
+
+I chose my mother's memory.
+
+I chose love over survival.
+
+And in that choice, in that impossible, irrational, beautiful choice, I found the strength to face whatever came next.
+
+Even if what came next was the end.""", "FINCH_BINDERY", 1),
     ("S02", "The Summons Arrives", "The letter came under the door like a thief — black wax, black seal, the thorned rose pressed into it like a brand. I broke it open before I understood what I was opening. They wanted a bookbinder's daughter at Blackthorn Hall. Payment enough to clear every debt, every notice, every whisper of ruin. My father's eyes went wide when I read it aloud. Not with hope. With recognition. He said the Duke knew his name. I said not his name. Someone else's. The question sat between us like a third person in the room.", "FINCH_BINDERY", 1),
     ("S03", "The Road to Blackthorn", "The road stretched ahead of me like a warning written in frost. Every hedgerow was skeletal, every breath a small white ghost that vanished before I could name it. I walked alone with my satchel of binding tools and the weight of a decision I hadn't fully made. The milestone appeared suddenly — carved with a thorned rose, ancient and deliberate. I knew then that every story about that house ended the same way. He did it. She vanished. No one agreed on how. They all agreed it happened. I pulled my cloak tighter and kept walking.", "WINTER_ROAD", 1),
     ("S04", "The Gates of Blackthorn Hall", "The gates were taller than a man and twisted into thorned vines, black iron against a grey sky that seemed to press down on everything below it. Mrs. Varma waited in the gateway like a sentinel carved from shadow and silk. She did not smile. She did not welcome. She measured me with one look that took in my ink-stained hands and my worn boots and found something acceptable, or at least tolerable. She said I would sleep in the east wing. Not the upper corridor. The Duke does not receive callers. He receives people who answer letters. I asked what the difference was. She did not answer.", "BLACKTHORN_GATES", 1),
