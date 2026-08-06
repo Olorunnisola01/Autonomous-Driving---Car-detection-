@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 160,
+    "scene_shots_complete": 170,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -3795,7 +3795,7 @@
         "Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S17 — Signal on the Water. WIDE shot, high establishing angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Kojo's canoe reaches the restored beacon as lantern canoes gather in the distance. Mood: breath-held suspense. Lighting: blue-hour sky, beacon amber and reflected lantern trail. Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S17_Step01_beacon_blue_hour.png"
     },
     {
@@ -3817,7 +3817,7 @@
         "Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S17 — Signal on the Water. MEDIUM shot, eye-level. Characters in frame: @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). Kojo secures the canoe to the buoy with practiced hands. Mood: breath-held suspense. Lighting: blue-hour sky, beacon amber and reflected lantern trail. Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S17_Step02_kojo_moors.png"
     },
     {
@@ -3839,7 +3839,7 @@
         "Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S17 — Signal on the Water. CLOSE shot, three-quarter profile. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi connects a repaired solar cell inside the blue-glass lantern crown. Mood: breath-held suspense. Lighting: blue-hour sky, beacon amber and reflected lantern trail. Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S17_Step03_kosi_connects.png"
     },
     {
@@ -3861,7 +3861,7 @@
         "Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S17 — Signal on the Water. INSERT shot, top-down detail. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena's broadcast equipment displays the transmitted archive pages and water readings. Mood: breath-held suspense. Lighting: blue-hour sky, beacon amber and reflected lantern trail. Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S17_Step04_archive_signal.png"
     },
     {
@@ -3889,7 +3889,7 @@
         "Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S17 — Signal on the Water. TWO-SHOT shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). The four balance at the beacon as a flotilla of lights forms behind them. Mood: breath-held suspense. Lighting: blue-hour sky, beacon amber and reflected lantern trail. Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S17_Step05_four_at_beacon.png"
     },
     {
@@ -3911,7 +3911,7 @@
         "Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S17 — Signal on the Water. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Over Kwame's shoulder, he sends the unredacted map to regional reporters. Mood: breath-held suspense. Lighting: blue-hour sky, beacon amber and reflected lantern trail. Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S17_Step06_kwame_sends_files.png"
     },
     {
@@ -3933,7 +3933,7 @@
         "Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S17 — Signal on the Water. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena announces that Afenyo is speaking and asks listeners not to call it noise. Mood: breath-held suspense. Lighting: blue-hour sky, beacon amber and reflected lantern trail. Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S17_Step07_sena_on_air.png"
     },
     {
@@ -3961,7 +3961,7 @@
         "Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S17 — Signal on the Water. WIDE shot, low observational angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Lantern canoes glow in a broad arc across the blue lagoon. Mood: breath-held suspense. Lighting: blue-hour sky, beacon amber and reflected lantern trail. Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S17_Step08_flotilla_glow.png"
     },
     {
@@ -3983,7 +3983,7 @@
         "Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S17 — Signal on the Water. MEDIUM shot, handheld eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). The blue-glass beacon gives its first steady pulse. Mood: breath-held suspense. Lighting: blue-hour sky, beacon amber and reflected lantern trail. Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S17_Step09_beacon_pulse.png"
     },
     {
@@ -4011,7 +4011,7 @@
         "Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S17 — Signal on the Water. WIDE shot, rear closing tableau. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). The beacon and flotilla burn together beneath a vast cloud-streaked sky. Mood: breath-held suspense. Lighting: blue-hour sky, beacon amber and reflected lantern trail. Environment = Location Registry id 'LAGOON_BEACON': The restored solar beacon on the open Afenyo lagoon: a weathered metal buoy with a blue-glass lantern crown, tether chain, rippling teal water, mangrove horizon and vast cloud-streaked sky.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S17_Step10_lagoon_hears.png"
     },
     {

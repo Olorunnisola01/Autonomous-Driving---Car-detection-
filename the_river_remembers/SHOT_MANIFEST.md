@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 160 / 200
+- **Scene shots complete:** 170 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S17_Step01`
+- **Next scene-image label after reference approval:** `S18_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -263,16 +263,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S17_Step01` | @KOSI_MENSAH @KOJO_DANSO @SENA_ADJOVI @KWAME_AGYEMAN | WIDE / high establishing angle | Kojo's canoe reaches the restored beacon as lantern canoes gather in the distance. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step01_beacon_blue_hour.png` |
-| ⬜ | `S17_Step02` | @KOJO_DANSO | MEDIUM / eye-level | Kojo secures the canoe to the buoy with practiced hands. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step02_kojo_moors.png` |
-| ⬜ | `S17_Step03` | @KOSI_MENSAH | CLOSE / three-quarter profile | Kosi connects a repaired solar cell inside the blue-glass lantern crown. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step03_kosi_connects.png` |
-| ⬜ | `S17_Step04` | @SENA_ADJOVI | INSERT / top-down detail | Sena's broadcast equipment displays the transmitted archive pages and water readings. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step04_archive_signal.png` |
-| ⬜ | `S17_Step05` | @KOSI_MENSAH @KOJO_DANSO @SENA_ADJOVI @KWAME_AGYEMAN | TWO-SHOT / eye-level | The four balance at the beacon as a flotilla of lights forms behind them. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step05_four_at_beacon.png` |
-| ⬜ | `S17_Step06` | @KWAME_AGYEMAN | OVER-SHOULDER / over the lead character's shoulder | Over Kwame's shoulder, he sends the unredacted map to regional reporters. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step06_kwame_sends_files.png` |
-| ⬜ | `S17_Step07` | @SENA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Sena announces that Afenyo is speaking and asks listeners not to call it noise. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step07_sena_on_air.png` |
-| ⬜ | `S17_Step08` | @KOSI_MENSAH @KOJO_DANSO @SENA_ADJOVI @KWAME_AGYEMAN | WIDE / low observational angle | Lantern canoes glow in a broad arc across the blue lagoon. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step08_flotilla_glow.png` |
-| ⬜ | `S17_Step09` | @KOSI_MENSAH | MEDIUM / handheld eye-level | The blue-glass beacon gives its first steady pulse. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step09_beacon_pulse.png` |
-| ⬜ | `S17_Step10` | @KOSI_MENSAH @KOJO_DANSO @SENA_ADJOVI @KWAME_AGYEMAN | WIDE / rear closing tableau | The beacon and flotilla burn together beneath a vast cloud-streaked sky. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step10_lagoon_hears.png` |
+| ✅ | `S17_Step01` | @KOSI_MENSAH @KOJO_DANSO @SENA_ADJOVI @KWAME_AGYEMAN | WIDE / high establishing angle | Kojo's canoe reaches the restored beacon as lantern canoes gather in the distance. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step01_beacon_blue_hour.png` |
+| ✅ | `S17_Step02` | @KOJO_DANSO | MEDIUM / eye-level | Kojo secures the canoe to the buoy with practiced hands. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step02_kojo_moors.png` |
+| ✅ | `S17_Step03` | @KOSI_MENSAH | CLOSE / three-quarter profile | Kosi connects a repaired solar cell inside the blue-glass lantern crown. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step03_kosi_connects.png` |
+| ✅ | `S17_Step04` | @SENA_ADJOVI | INSERT / top-down detail | Sena's broadcast equipment displays the transmitted archive pages and water readings. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step04_archive_signal.png` |
+| ✅ | `S17_Step05` | @KOSI_MENSAH @KOJO_DANSO @SENA_ADJOVI @KWAME_AGYEMAN | TWO-SHOT / eye-level | The four balance at the beacon as a flotilla of lights forms behind them. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step05_four_at_beacon.png` |
+| ✅ | `S17_Step06` | @KWAME_AGYEMAN | OVER-SHOULDER / over the lead character's shoulder | Over Kwame's shoulder, he sends the unredacted map to regional reporters. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step06_kwame_sends_files.png` |
+| ✅ | `S17_Step07` | @SENA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Sena announces that Afenyo is speaking and asks listeners not to call it noise. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step07_sena_on_air.png` |
+| ✅ | `S17_Step08` | @KOSI_MENSAH @KOJO_DANSO @SENA_ADJOVI @KWAME_AGYEMAN | WIDE / low observational angle | Lantern canoes glow in a broad arc across the blue lagoon. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step08_flotilla_glow.png` |
+| ✅ | `S17_Step09` | @KOSI_MENSAH | MEDIUM / handheld eye-level | The blue-glass beacon gives its first steady pulse. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step09_beacon_pulse.png` |
+| ✅ | `S17_Step10` | @KOSI_MENSAH @KOJO_DANSO @SENA_ADJOVI @KWAME_AGYEMAN | WIDE / rear closing tableau | The beacon and flotilla burn together beneath a vast cloud-streaked sky. | breath-held suspense; blue-hour sky, beacon amber and reflected lantern trail | `images/act3/S17_Step10_lagoon_hears.png` |
 
 ## S18 — The Chair Answers (COMMUNITY_HALL)
 
