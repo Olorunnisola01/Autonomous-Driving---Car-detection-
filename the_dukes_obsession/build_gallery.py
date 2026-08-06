@@ -9,7 +9,29 @@ OUT = ROOT / "storyboard_gallery.html"
 IMAGE_EXT = {".png", ".jpg", ".jpeg", ".webp"}
 
 SCENES = [
-    ("S01", "The Debt That Breathes", "I learned to count debts the way other girls counted stitches — by candlelight, by the tremor in my father's hands, by the silence that grew thicker than the leather we bound. The workshop smelled of old paper and desperation. Every creditor notice on the wall was another winter we might not survive. I told him we could sell the Chaucer. He said Mother loved it. I said it was worth more alive than dead. We both knew I was lying. Some things, once sold, cannot be bought back.", "FINCH_BINDERY", 1),
+    ("S01", "The Debt That Breathes", """I learned to count debts the way other girls counted stitches — by candlelight, by the tremor in my father's hands, by the silence that grew thicker than the leather we bound. The workshop smelled of old paper and desperation, of glue and grief and the slow decay of things that once mattered. Every creditor notice on the wall was another winter we might not survive, another nail in the coffin of the life we'd once known. I told him we could sell the Chaucer. He said Mother loved it. I said it was worth more alive than dead. We both knew I was lying. Some things, once sold, cannot be bought back.
+
+The bindery had been our home for as long as I could remember, though "home" was perhaps too generous a word for a place that smelled perpetually of turpentine and despair. Father's hands, once steady enough to thread a needle in dim light, now shook so badly he could barely hold the awl. The tremor had started three years ago, around the time the last of Mother's jewelry disappeared into the pawnbroker's till. Since then, the shaking had spread from his hands to his voice, from his voice to his spirit, until the man who had once taught me to distinguish between calfskin and goatskin by touch alone could barely meet my eyes.
+
+I worked by the light of a single tallow candle, its flame guttering in the draft that seeped through the cracks in the walls. The Bible I was rebinding belonged to the vicar's wife, who had paid us in stale bread and the promise of prayers. It was honest work, if poorly compensated, and I had learned to find a kind of peace in the rhythm of needle and thread, in the careful folding of signatures, in the patient application of paste to leather. Each book was a small resurrection, a dead thing brought back to life through skill and care.
+
+But no amount of skill could resurrect our fortunes. The creditors came every week now, their notices papering the walls like autumn leaves, each one more urgent than the last. Mr. Hemsworth the butcher had stopped extending credit. Mrs. Gable the baker demanded payment before delivery. Even the chandler, who had once been a friend of Father's, now required coin before surrendering his candles. We were drowning, and I was the only one who seemed to notice the water rising.
+
+The Chaucer sat on the highest shelf, its brass clasps gleaming dully in the candlelight. It had been Mother's favorite, a first edition she had purchased with her dowry money, back when such things still mattered. Father had forbidden me to touch it, saying it was the last thing of beauty in our lives. But beauty, I had learned, was a luxury we could no longer afford.
+
+"We can sell it," I said again, keeping my voice gentle, the way one speaks to a wounded animal. "The brass alone is worth something. And the pages — they're old, Father. Someone might pay for the paper alone."
+
+He looked up from his work, his eyes red-rimmed and haunted. "Your mother loved that book," he said, as if that settled the matter. As if love were a currency we could spend.
+
+"Then it is worth more alive than dead," I replied, and we both knew I was lying. The Chaucer would fetch perhaps three pounds at the bookseller's, enough to keep us for a month, perhaps two if we were careful. But then what? There would be another debt, another notice, another winter.
+
+I returned to my stitching, the needle slipping in and out of the leather with practiced ease. My fingers were stained with ink, permanently marked by the trade I had learned at my mother's knee. She had been a bookbinder too, before the cough took her, before the medicine costs bankrupted us, before the slow unraveling of everything we had been. I had her hands, people said. I had her patience. But I also had her stubbornness, her refusal to accept that some things cannot be mended no matter how carefully you stitch them.
+
+The candle guttered lower, casting long shadows that danced on the walls like ghosts. Outside, the wind howled through the bare branches of the elms, and I could hear the distant clang of the church bell marking the hour. Midnight. Another day survived, another day closer to ruin. I tied off the thread, trimmed the excess with my shears, and set the Bible aside. Tomorrow I would deliver it to the vicar's wife and collect my stale bread. Tomorrow I would face the creditors again. Tomorrow I would pretend that we were not drowning.
+
+But tonight, in the flickering candlelight, with my father's trembling hands and the ghost of my mother's Chaucer watching over us, I allowed myself a moment of honesty. We were finished. The bindery was finished. The life we had known was finished. And no amount of careful stitching could mend what was broken beyond repair.
+
+Some things, once sold, cannot be bought back. But some things, once lost, cannot be kept either. And I was beginning to understand that love — for a father, for a mother, for a life that no longer existed — was the most expensive thing of all.""", "FINCH_BINDERY", 1),
     ("S02", "The Summons Arrives", "The letter came under the door like a thief — black wax, black seal, the thorned rose pressed into it like a brand. I broke it open before I understood what I was opening. They wanted a bookbinder's daughter at Blackthorn Hall. Payment enough to clear every debt, every notice, every whisper of ruin. My father's eyes went wide when I read it aloud. Not with hope. With recognition. He said the Duke knew his name. I said not his name. Someone else's. The question sat between us like a third person in the room.", "FINCH_BINDERY", 1),
     ("S03", "The Road to Blackthorn", "The road stretched ahead of me like a warning written in frost. Every hedgerow was skeletal, every breath a small white ghost that vanished before I could name it. I walked alone with my satchel of binding tools and the weight of a decision I hadn't fully made. The milestone appeared suddenly — carved with a thorned rose, ancient and deliberate. I knew then that every story about that house ended the same way. He did it. She vanished. No one agreed on how. They all agreed it happened. I pulled my cloak tighter and kept walking.", "WINTER_ROAD", 1),
     ("S04", "The Gates of Blackthorn Hall", "The gates were taller than a man and twisted into thorned vines, black iron against a grey sky that seemed to press down on everything below it. Mrs. Varma waited in the gateway like a sentinel carved from shadow and silk. She did not smile. She did not welcome. She measured me with one look that took in my ink-stained hands and my worn boots and found something acceptable, or at least tolerable. She said I would sleep in the east wing. Not the upper corridor. The Duke does not receive callers. He receives people who answer letters. I asked what the difference was. She did not answer.", "BLACKTHORN_GATES", 1),
@@ -93,49 +115,59 @@ def build_gallery():
     total = len(refs) + sum(len(f) for f in acts.values())
     print(f"\nImages: {total} total, {len(refs)} refs")
     
-    print("Building HTML with header, sidebar, and full-resolution lightbox...")
+    print("Building HTML with professional white theme...")
     
     html = ['<!doctype html><html><head><meta charset="utf-8">']
     html.append('<title>The Duke\'s Obsession — Storyboard Gallery</title>')
     html.append('<style>')
-    html.append('body{margin:0;padding:0;background:#0a0a0f;color:#e8e0d5;font-family:Georgia,serif;}')
-    html.append('header{padding:3rem 2rem;text-align:center;border-bottom:2px solid #8b1a1a;background:linear-gradient(180deg,#1a0a0f 0%,#0a0a0f 100%);}')
-    html.append('h1{color:#c9a961;font-size:3rem;margin:0;letter-spacing:0.06em;text-shadow:0 2px 30px rgba(201,169,97,0.2);}')
-    html.append('.subtitle{color:#a62020;font-size:1.1rem;letter-spacing:0.15em;text-transform:uppercase;margin:1rem 0;}')
-    html.append('.badge{display:inline-block;padding:0.5rem 1rem;border:1px solid #8a7540;color:#c9a961;margin-top:1rem;}')
-    html.append('.sidebar-toggle{position:fixed;top:1.5rem;left:1.5rem;z-index:9999;background:#8b1a1a;color:#c9a961;border:1px solid #8a7540;padding:0.6rem 1rem;font-size:1rem;cursor:pointer;border-radius:3px;font-family:Georgia,serif;}')
-    html.append('.sidebar{position:fixed;top:0;left:-360px;width:360px;height:100vh;background:#0a0a0f;border-right:2px solid #8b1a1a;z-index:9998;transition:left 0.3s ease;overflow-y:auto;padding:4rem 1.5rem 2rem;}')
+    html.append('*{margin:0;padding:0;box-sizing:border-box;}')
+    html.append('body{font-family:"Segoe UI",Tahoma,Geneva,Verdana,sans-serif;background:#f5f5f5;color:#333;line-height:1.6;}')
+    html.append('header{background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#fff;padding:3rem 2rem;text-align:center;box-shadow:0 2px 10px rgba(0,0,0,0.1);}')
+    html.append('h1{font-size:2.5rem;margin-bottom:0.5rem;font-weight:300;letter-spacing:1px;}')
+    html.append('.subtitle{font-size:1.1rem;opacity:0.9;margin-bottom:1rem;font-weight:300;}')
+    html.append('.description{max-width:800px;margin:1rem auto;font-size:1rem;opacity:0.95;line-height:1.6;}')
+    html.append('.badge{display:inline-block;padding:0.5rem 1.5rem;background:rgba(255,255,255,0.2);border:1px solid rgba(255,255,255,0.3);border-radius:20px;margin-top:1rem;font-size:0.9rem;}')
+    html.append('.sidebar-toggle{position:fixed;top:1.5rem;left:1.5rem;z-index:9999;background:#fff;color:#667eea;border:none;padding:0.75rem 1.25rem;font-size:1rem;cursor:pointer;border-radius:25px;box-shadow:0 2px 10px rgba(0,0,0,0.1);font-family:inherit;transition:all 0.3s;}')
+    html.append('.sidebar-toggle:hover{background:#667eea;color:#fff;transform:translateY(-2px);box-shadow:0 4px 15px rgba(102,126,234,0.4);}')
+    html.append('.sidebar{position:fixed;top:0;left:-380px;width:380px;height:100vh;background:#fff;border-right:1px solid #e0e0e0;z-index:9998;transition:left 0.3s ease;overflow-y:auto;padding:5rem 1.5rem 2rem;box-shadow:2px 0 10px rgba(0,0,0,0.1);}')
     html.append('.sidebar.open{left:0;}')
-    html.append('.sidebar-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.6);z-index:9997;}')
+    html.append('.sidebar-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.5);z-index:9997;}')
     html.append('.sidebar-overlay.active{display:block;}')
-    html.append('.sidebar-close{position:absolute;top:0.8rem;right:1rem;font-size:2rem;color:#c9a961;background:none;border:none;cursor:pointer;}')
-    html.append('.sidebar nav{display:flex;flex-direction:column;gap:0.3rem;}')
-    html.append('.sidebar nav a{color:#e8e0d5;text-decoration:none;padding:0.4rem 0.5rem;border-bottom:1px solid rgba(201,169,97,0.08);transition:color 0.2s,background 0.2s;font-size:0.95rem;}')
-    html.append('.sidebar nav a:hover{color:#c9a961;background:rgba(139,26,26,0.15);}')
-    html.append('.sidebar nav a.act-link{font-weight:bold;color:#c9a961;margin-top:0.5rem;padding-top:0.6rem;border-bottom:1px solid #8a7540;}')
-    html.append('.sidebar nav a.scene-link{padding-left:1.5rem;font-size:0.85rem;color:#8a8078;}')
-    html.append('.sidebar nav a.scene-link:hover{color:#c9a961;}')
-    html.append('.act{margin:3rem 2rem;}')
-    html.append('.act h2{color:#c9a961;border-bottom:1px solid #8b1a1a;padding-bottom:0.5rem;}')
-    html.append('.scene{margin:2rem 0;padding:1.5rem;background:#111d24;border-left:4px solid #8b1a1a;}')
-    html.append('.scene h3{color:#c9a961;margin-top:0;}')
-    html.append('.voiceover{font-style:italic;color:#d0d0d0;margin:1rem 0;padding:1rem;background:rgba(139,26,26,0.1);border-left:3px solid #c9a961;}')
-    html.append('.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:1rem;margin-top:1rem;}')
-    html.append('.card{cursor:pointer;transition:transform 0.2s;}')
-    html.append('.card:hover{transform:scale(1.05);}')
+    html.append('.sidebar-close{position:absolute;top:1rem;right:1rem;font-size:1.5rem;color:#666;background:none;border:none;cursor:pointer;width:32px;height:32px;border-radius:50%;transition:background 0.2s;}')
+    html.append('.sidebar-close:hover{background:#f0f0f0;}')
+    html.append('.sidebar nav{display:flex;flex-direction:column;gap:0.25rem;}')
+    html.append('.sidebar nav a{color:#555;text-decoration:none;padding:0.6rem 0.75rem;border-radius:6px;transition:all 0.2s;font-size:0.95rem;}')
+    html.append('.sidebar nav a:hover{background:#f0f0f0;color:#667eea;}')
+    html.append('.sidebar nav a.act-link{font-weight:600;color:#667eea;margin-top:0.75rem;padding:0.75rem;background:#f8f9ff;border-radius:8px;}')
+    html.append('.sidebar nav a.act-link:hover{background:#667eea;color:#fff;}')
+    html.append('.sidebar nav a.scene-link{padding-left:1.75rem;font-size:0.9rem;color:#777;}')
+    html.append('.sidebar nav a.scene-link:hover{color:#667eea;background:#f0f0f0;}')
+    html.append('.container{max-width:1400px;margin:0 auto;padding:2rem;}')
+    html.append('.act{margin:3rem 0;}')
+    html.append('.act h2{color:#667eea;font-size:2rem;margin-bottom:1.5rem;padding-bottom:0.75rem;border-bottom:2px solid #667eea;font-weight:300;}')
+    html.append('.scene{margin:2rem 0;padding:2rem;background:#fff;border-radius:12px;box-shadow:0 2px 10px rgba(0,0,0,0.05);border-left:4px solid #667eea;}')
+    html.append('.scene h3{color:#333;font-size:1.5rem;margin-bottom:0.5rem;font-weight:500;}')
+    html.append('.scene .location{color:#888;font-size:0.9rem;margin-bottom:1rem;text-transform:uppercase;letter-spacing:1px;}')
+    html.append('.voiceover{font-style:italic;color:#555;margin:1.5rem 0;padding:1.5rem;background:#f8f9ff;border-left:3px solid #667eea;border-radius:4px;line-height:1.8;font-size:1.05rem;}')
+    html.append('.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1.5rem;margin-top:1.5rem;}')
+    html.append('.card{cursor:pointer;transition:all 0.3s;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.1);}')
+    html.append('.card:hover{transform:translateY(-5px);box-shadow:0 8px 25px rgba(0,0,0,0.15);}')
     html.append('.card img{width:100%;height:auto;display:block;}')
-    html.append('.lightbox{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.95);z-index:1000;justify-content:center;align-items:center;}')
+    html.append('.card .label{padding:1rem;text-align:center;font-size:0.9rem;color:#555;font-weight:500;}')
+    html.append('.lightbox{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.9);z-index:1000;justify-content:center;align-items:center;}')
     html.append('.lightbox.active{display:flex;}')
-    html.append('.lightbox img{max-width:95%;max-height:95%;object-fit:contain;}')
-    html.append('.lightbox-close{position:absolute;top:20px;right:30px;font-size:3rem;color:#c9a961;cursor:pointer;background:none;border:none;}')
+    html.append('.lightbox img{max-width:95%;max-height:95%;object-fit:contain;border-radius:4px;}')
+    html.append('.lightbox-close{position:absolute;top:20px;right:30px;font-size:2.5rem;color:#fff;cursor:pointer;background:rgba(255,255,255,0.1);border:none;width:50px;height:50px;border-radius:50%;transition:background 0.2s;}')
+    html.append('.lightbox-close:hover{background:rgba(255,255,255,0.2);}')
+    html.append('@media (max-width:768px){.container{padding:1rem;}.act{margin:2rem 0;}.scene{padding:1rem;}.grid{grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;}}')
     html.append('</style></head><body>')
     
     html.append('<button class="sidebar-toggle" onclick="toggleSidebar()">☰ Navigate</button>')
     html.append('<div class="sidebar-overlay" id="sidebar-overlay" onclick="toggleSidebar()"></div>')
     html.append('<aside class="sidebar" id="sidebar">')
-    html.append('<button class="sidebar-close" onclick="toggleSidebar()">×</button>')
+    html.append('<button class="sidebar-close" onclick="toggleSidebar()">✕</button>')
     html.append('<nav>')
-    html.append('<a href="#character-refs">Character References</a>')
+    html.append('<a href="#character-refs" style="font-weight:600;color:#667eea;">Character References</a>')
     for act_num in range(1, 6):
         act_name, scene_ids = ACTS[act_num]
         html.append(f'<a href="#act-{act_num}" class="act-link">Act {act_num} — {act_name}</a>')
@@ -147,17 +179,18 @@ def build_gallery():
     html.append('<header>')
     html.append('<h1>The Duke\'s Obsession</h1>')
     html.append('<div class="subtitle">A Gothic Dark Romance</div>')
-    html.append('<p style="color:#d0d0d5;font-style:italic;max-width:55rem;margin:1rem auto;">When an impoverished bookbinder\'s daughter is summoned to catalog the library of a reclusive, widowed Duke rumored to have killed his first wife, she discovers her name already written in his journals from ten years before she was born — and a contract offering her family\'s debts cleared in exchange for one winter as his Duchess in name only.</p>')
-    html.append(f'<div class="badge">{total} images • Click thumbnails for full resolution (1200×675)</div>')
+    html.append('<p class="description">When an impoverished bookbinder\'s daughter is summoned to catalog the library of a reclusive, widowed Duke rumored to have killed his first wife, she discovers her name already written in his journals from ten years before she was born — and a contract offering her family\'s debts cleared in exchange for one winter as his Duchess in name only.</p>')
+    html.append(f'<div class="badge">{total} images • Click thumbnails for full resolution</div>')
     html.append('</header>')
     
+    html.append('<div class="container">')
     html.append('<div class="act" id="character-refs"><h2>Character References</h2><div class="grid">')
     for img_path in refs:
         thumb_b64, full_b64, orig_w, orig_h = inline_images(img_path)
         label = label_for(img_path)
         html.append(f'<div class="card" onclick="openLightbox(\'data:image/jpeg;base64,{full_b64}\')">')
         html.append(f'<img src="data:image/jpeg;base64,{thumb_b64}" alt="{label}">')
-        html.append(f'<div style="padding:0.5rem;text-align:center;font-size:0.9rem;">{label}</div>')
+        html.append(f'<div class="label">{label}</div>')
         html.append('</div>')
     html.append('</div></div>')
     
@@ -169,7 +202,7 @@ def build_gallery():
             info = scene_map[scene_id]
             html.append(f'<div class="scene" id="{scene_id}">')
             html.append(f'<h3>{scene_id} — {info["title"]}</h3>')
-            html.append(f'<p style="color:#8a8078;font-size:0.9rem;">Location: {info["location"]}</p>')
+            html.append(f'<div class="location">{info["location"]}</div>')
             html.append(f'<div class="voiceover">{info["voiceover"]}</div>')
             html.append('<div class="grid">')
             
@@ -179,12 +212,14 @@ def build_gallery():
                 label = label_for(img_path)
                 html.append(f'<div class="card" onclick="openLightbox(\'data:image/jpeg;base64,{full_b64}\')">')
                 html.append(f'<img src="data:image/jpeg;base64,{thumb_b64}" alt="{label}">')
-                html.append(f'<div style="padding:0.5rem;text-align:center;font-size:0.85rem;">{label}</div>')
+                html.append(f'<div class="label">{label}</div>')
                 html.append('</div>')
             
             html.append('</div></div>')
         
         html.append('</div>')
+    
+    html.append('</div>')  # close container
     
     html.append('<div class="lightbox" id="lightbox" onclick="closeLightbox()">')
     html.append('<button class="lightbox-close" onclick="closeLightbox()">&times;</button>')
