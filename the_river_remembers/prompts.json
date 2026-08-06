@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 180,
+    "scene_shots_complete": 190,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -4285,7 +4285,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S19 — The Water Is Public. WIDE shot, high establishing angle. Characters in frame: @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Post-rain daylight fills the assembly hall before the public decision. Mood: earned clarity. Lighting: clean post-rain daylight through open louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S19_Step01_morning_hall.png"
     },
     {
@@ -4307,7 +4307,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S19 — The Water Is Public. MEDIUM shot, eye-level. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena records rows of residents watching the dais in silence. Mood: earned clarity. Lighting: clean post-rain daylight through open louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S19_Step02_public_observers.png"
     },
     {
@@ -4329,7 +4329,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S19 — The Water Is Public. CLOSE shot, three-quarter profile. Characters in frame: @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). Nii reads the order suspending the resort permit pending inquiry. Mood: earned clarity. Lighting: clean post-rain daylight through open louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S19_Step03_nii_reads_order.png"
     },
     {
@@ -4351,7 +4351,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S19 — The Water Is Public. INSERT shot, top-down detail. Characters in frame: @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). The signed suspension order rests beside Nii's silver wristwatch. Mood: earned clarity. Lighting: clean post-rain daylight through open louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S19_Step04_suspension_paper.png"
     },
     {
@@ -4375,7 +4375,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S19 — The Water Is Public. TWO-SHOT shot, eye-level. Characters in frame: @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kwame submits his resignation and complete project files to the assembly. Mood: earned clarity. Lighting: clean post-rain daylight through open louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S19_Step05_kwame_resigns.png"
     },
     {
@@ -4399,7 +4399,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S19 — The Water Is Public. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). Over Esi's shoulder, she insists that victory include a cooperative water board. Mood: earned clarity. Lighting: clean post-rain daylight through open louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S19_Step06_esi_demands_board.png"
     },
     {
@@ -4421,7 +4421,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S19 — The Water Is Public. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi says a pause is only a door if the town decides what walks through it. Mood: earned clarity. Lighting: clean post-rain daylight through open louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S19_Step07_kosi_door.png"
     },
     {
@@ -4451,7 +4451,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S19 — The Water Is Public. WIDE shot, low observational angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose); @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). Hands rise around the hall in support of the community water board. Mood: earned clarity. Lighting: clean post-rain daylight through open louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S19_Step08_vote_rises.png"
     },
     {
@@ -4473,7 +4473,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S19 — The Water Is Public. MEDIUM shot, handheld eye-level. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Sena captures the sound of the vote with a bright, astonished smile. Mood: earned clarity. Lighting: clean post-rain daylight through open louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S19_Step09_sena_catches_sound.png"
     },
     {
@@ -4501,7 +4501,7 @@
         "Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S19 — The Water Is Public. WIDE shot, rear closing tableau. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). The allies leave through open louvre-lit doors into clean post-rain morning. Mood: earned clarity. Lighting: clean post-rain daylight through open louvre windows. Environment = Location Registry id 'DISTRICT_ASSEMBLY_HALL': A modest district assembly hall in Afenyo: cream concrete walls, tall louvre windows, stacked plastic chairs, a raised wood dais, ceiling fans and late-afternoon lagoon light.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S19_Step10_open_windows.png"
     },
     {

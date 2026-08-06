@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 180 / 200
+- **Scene shots complete:** 190 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S19_Step01`
+- **Next scene-image label after reference approval:** `S20_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -293,16 +293,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S19_Step01` | @NII_LAMPTEY @KWAME_AGYEMAN | WIDE / high establishing angle | Post-rain daylight fills the assembly hall before the public decision. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step01_morning_hall.png` |
-| ⬜ | `S19_Step02` | @SENA_ADJOVI | MEDIUM / eye-level | Sena records rows of residents watching the dais in silence. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step02_public_observers.png` |
-| ⬜ | `S19_Step03` | @NII_LAMPTEY | CLOSE / three-quarter profile | Nii reads the order suspending the resort permit pending inquiry. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step03_nii_reads_order.png` |
-| ⬜ | `S19_Step04` | @NII_LAMPTEY | INSERT / top-down detail | The signed suspension order rests beside Nii's silver wristwatch. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step04_suspension_paper.png` |
-| ⬜ | `S19_Step05` | @KWAME_AGYEMAN @KOSI_MENSAH | TWO-SHOT / eye-level | Kwame submits his resignation and complete project files to the assembly. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step05_kwame_resigns.png` |
-| ⬜ | `S19_Step06` | @ESI_TETTEH @NII_LAMPTEY | OVER-SHOULDER / over the lead character's shoulder | Over Esi's shoulder, she insists that victory include a cooperative water board. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step06_esi_demands_board.png` |
-| ⬜ | `S19_Step07` | @KOSI_MENSAH | EXTREME CLOSE / intimate frontal angle | Kosi says a pause is only a door if the town decides what walks through it. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step07_kosi_door.png` |
-| ⬜ | `S19_Step08` | @KOSI_MENSAH @ESI_TETTEH @SENA_ADJOVI @KWAME_AGYEMAN @NII_LAMPTEY | WIDE / low observational angle | Hands rise around the hall in support of the community water board. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step08_vote_rises.png` |
-| ⬜ | `S19_Step09` | @SENA_ADJOVI | MEDIUM / handheld eye-level | Sena captures the sound of the vote with a bright, astonished smile. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step09_sena_catches_sound.png` |
-| ⬜ | `S19_Step10` | @KOSI_MENSAH @ESI_TETTEH @SENA_ADJOVI @KWAME_AGYEMAN | WIDE / rear closing tableau | The allies leave through open louvre-lit doors into clean post-rain morning. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step10_open_windows.png` |
+| ✅ | `S19_Step01` | @NII_LAMPTEY @KWAME_AGYEMAN | WIDE / high establishing angle | Post-rain daylight fills the assembly hall before the public decision. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step01_morning_hall.png` |
+| ✅ | `S19_Step02` | @SENA_ADJOVI | MEDIUM / eye-level | Sena records rows of residents watching the dais in silence. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step02_public_observers.png` |
+| ✅ | `S19_Step03` | @NII_LAMPTEY | CLOSE / three-quarter profile | Nii reads the order suspending the resort permit pending inquiry. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step03_nii_reads_order.png` |
+| ✅ | `S19_Step04` | @NII_LAMPTEY | INSERT / top-down detail | The signed suspension order rests beside Nii's silver wristwatch. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step04_suspension_paper.png` |
+| ✅ | `S19_Step05` | @KWAME_AGYEMAN @KOSI_MENSAH | TWO-SHOT / eye-level | Kwame submits his resignation and complete project files to the assembly. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step05_kwame_resigns.png` |
+| ✅ | `S19_Step06` | @ESI_TETTEH @NII_LAMPTEY | OVER-SHOULDER / over the lead character's shoulder | Over Esi's shoulder, she insists that victory include a cooperative water board. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step06_esi_demands_board.png` |
+| ✅ | `S19_Step07` | @KOSI_MENSAH | EXTREME CLOSE / intimate frontal angle | Kosi says a pause is only a door if the town decides what walks through it. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step07_kosi_door.png` |
+| ✅ | `S19_Step08` | @KOSI_MENSAH @ESI_TETTEH @SENA_ADJOVI @KWAME_AGYEMAN @NII_LAMPTEY | WIDE / low observational angle | Hands rise around the hall in support of the community water board. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step08_vote_rises.png` |
+| ✅ | `S19_Step09` | @SENA_ADJOVI | MEDIUM / handheld eye-level | Sena captures the sound of the vote with a bright, astonished smile. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step09_sena_catches_sound.png` |
+| ✅ | `S19_Step10` | @KOSI_MENSAH @ESI_TETTEH @SENA_ADJOVI @KWAME_AGYEMAN | WIDE / rear closing tableau | The allies leave through open louvre-lit doors into clean post-rain morning. | earned clarity; clean post-rain daylight through open louvre windows | `images/act3/S19_Step10_open_windows.png` |
 
 ## S20 — First Light, Shared (SUNRISE_PIER)
 
