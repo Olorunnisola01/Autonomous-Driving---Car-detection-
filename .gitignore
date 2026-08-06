@@ -1,0 +1,7 @@
+# Local Python tooling
+.venv/
+__pycache__/
+*.py[cod]
+
+# OS/editor noise
+.DS_Store
