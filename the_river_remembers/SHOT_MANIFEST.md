@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 150 / 200
+- **Scene shots complete:** 160 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S16_Step01`
+- **Next scene-image label after reference approval:** `S17_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -248,16 +248,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S16_Step01` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI @KOJO_DANSO @ESI_TETTEH | WIDE / high establishing angle | Festival Square fills with people building lanterns beneath the silk-cotton tree. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step01_square_preparation.png` |
-| ⬜ | `S16_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi teaches children to connect safe low-voltage solar cells. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step02_kosi_teaches.png` |
-| ⬜ | `S16_Step03` | @AMA_ADJOVI | CLOSE / three-quarter profile | Ama sorts blue glass panes with her amber beads catching the morning sun. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step03_ama_glass.png` |
-| ⬜ | `S16_Step04` | @KOSI_MENSAH | INSERT / top-down detail | Hands arrange recycled solar cells, blue glass and copper wire on red earth. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step04_lantern_parts.png` |
-| ⬜ | `S16_Step05` | @ESI_TETTEH | TWO-SHOT / eye-level | Esi directs food, work tables and volunteers with her smoking paddle. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step05_esi_coordinates.png` |
-| ⬜ | `S16_Step06` | @KWAME_AGYEMAN @KOSI_MENSAH | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Kwame arrives without his bronze lapel pin and offers the master code. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step06_kwame_arrives.png` |
-| ⬜ | `S16_Step07` | @SENA_ADJOVI @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama hands Sena the oldest blue-glass lantern in the square. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step07_sena_oldest_lantern.png` |
-| ⬜ | `S16_Step08` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI @KOJO_DANSO @ESI_TETTEH @KWAME_AGYEMAN | WIDE / low observational angle | Six allies work amid strings of lanterns that slowly begin to glow. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step08_growing_lights.png` |
-| ⬜ | `S16_Step09` | @SENA_ADJOVI | MEDIUM / handheld eye-level | Sena says her light points at everybody, smiling beneath turquoise headphones. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step09_sena_points_outward.png` |
-| ⬜ | `S16_Step10` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI @KOJO_DANSO @ESI_TETTEH @KWAME_AGYEMAN | WIDE / rear closing tableau | The prepared square gleams with a thousand small, unlit promises. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step10_square_ready.png` |
+| ✅ | `S16_Step01` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI @KOJO_DANSO @ESI_TETTEH | WIDE / high establishing angle | Festival Square fills with people building lanterns beneath the silk-cotton tree. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step01_square_preparation.png` |
+| ✅ | `S16_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi teaches children to connect safe low-voltage solar cells. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step02_kosi_teaches.png` |
+| ✅ | `S16_Step03` | @AMA_ADJOVI | CLOSE / three-quarter profile | Ama sorts blue glass panes with her amber beads catching the morning sun. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step03_ama_glass.png` |
+| ✅ | `S16_Step04` | @KOSI_MENSAH | INSERT / top-down detail | Hands arrange recycled solar cells, blue glass and copper wire on red earth. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step04_lantern_parts.png` |
+| ✅ | `S16_Step05` | @ESI_TETTEH | TWO-SHOT / eye-level | Esi directs food, work tables and volunteers with her smoking paddle. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step05_esi_coordinates.png` |
+| ✅ | `S16_Step06` | @KWAME_AGYEMAN @KOSI_MENSAH | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, Kwame arrives without his bronze lapel pin and offers the master code. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step06_kwame_arrives.png` |
+| ✅ | `S16_Step07` | @SENA_ADJOVI @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama hands Sena the oldest blue-glass lantern in the square. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step07_sena_oldest_lantern.png` |
+| ✅ | `S16_Step08` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI @KOJO_DANSO @ESI_TETTEH @KWAME_AGYEMAN | WIDE / low observational angle | Six allies work amid strings of lanterns that slowly begin to glow. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step08_growing_lights.png` |
+| ✅ | `S16_Step09` | @SENA_ADJOVI | MEDIUM / handheld eye-level | Sena says her light points at everybody, smiling beneath turquoise headphones. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step09_sena_points_outward.png` |
+| ✅ | `S16_Step10` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI @KOJO_DANSO @ESI_TETTEH @KWAME_AGYEMAN | WIDE / rear closing tableau | The prepared square gleams with a thousand small, unlit promises. | communal preparation; fresh sun, bright fabrics and building anticipation | `images/act3/S16_Step10_square_ready.png` |
 
 ## S17 — Signal on the Water (LAGOON_BEACON)
 
