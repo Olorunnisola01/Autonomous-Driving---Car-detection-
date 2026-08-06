@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 170,
+    "scene_shots_complete": 180,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -4037,7 +4037,7 @@
         "Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S18 — The Chair Answers. WIDE shot, high establishing angle. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Afenyo packs the community hall under amber lantern light and rain-darkened night. Mood: public reckoning. Lighting: amber lanterns, projection glow and rain-muted night. Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S18_Step01_hall_lanterns.png"
     },
     {
@@ -4059,7 +4059,7 @@
         "Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S18 — The Chair Answers. MEDIUM shot, eye-level. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). The landing deed and water data shine clearly on a blank projection sheet. Mood: public reckoning. Lighting: amber lanterns, projection glow and rain-muted night. Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S18_Step02_projected_deed.png"
     },
     {
@@ -4081,7 +4081,7 @@
         "Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S18 — The Chair Answers. CLOSE shot, three-quarter profile. Characters in frame: @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). Nii enters the open hall with his ebony heron cane and confronts the crowd. Mood: public reckoning. Lighting: amber lanterns, projection glow and rain-muted night. Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S18_Step03_nii_enters.png"
     },
     {
@@ -4103,7 +4103,7 @@
         "Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S18 — The Chair Answers. INSERT shot, top-down detail. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama's calm face reflects the projection glow as neighbours begin to speak. Mood: public reckoning. Lighting: amber lanterns, projection glow and rain-muted night. Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S18_Step04_watching_faces.png"
     },
     {
@@ -4135,7 +4135,7 @@
         "Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S18 — The Chair Answers. TWO-SHOT shot, eye-level. Characters in frame: @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). The principals face each other while the public owns the room around them. Mood: public reckoning. Lighting: amber lanterns, projection glow and rain-muted night. Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S18_Step05_public_reckoning.png"
     },
     {
@@ -4159,7 +4159,7 @@
         "Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S18 — The Chair Answers. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). Over Kosi's shoulder, live water readings refute the project safeguards. Mood: public reckoning. Lighting: amber lanterns, projection glow and rain-muted night. Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S18_Step06_kosi_evidence.png"
     },
     {
@@ -4181,7 +4181,7 @@
         "Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S18 — The Chair Answers. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama tells Nii that people carrying the difficulty must make the decision. Mood: public reckoning. Lighting: amber lanterns, projection glow and rain-muted night. Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S18_Step07_ama_reply.png"
     },
     {
@@ -4207,7 +4207,7 @@
         "Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S18 — The Chair Answers. WIDE shot, low observational angle. Characters in frame: @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Many residents raise their voices beneath rain-muted darkness. Mood: public reckoning. Lighting: amber lanterns, projection glow and rain-muted night. Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S18_Step08_hall_answers.png"
     },
     {
@@ -4229,7 +4229,7 @@
         "Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S18 — The Chair Answers. MEDIUM shot, handheld eye-level. Characters in frame: @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle). Nii lowers his cane as the truth becomes impossible to re-bury. Mood: public reckoning. Lighting: amber lanterns, projection glow and rain-muted night. Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S18_Step09_nii_lowers_cane.png"
     },
     {
@@ -4261,7 +4261,7 @@
         "Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S18 — The Chair Answers. WIDE shot, rear closing tableau. Characters in frame: @NII_LAMPTEY (tailored charcoal caftan with a subtle black geometric weave, polished black shoes and a silver wristwatch, black ebony walking cane with a carved heron handle); @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Lanterns and projection light hold every face in the reclaimed hall. Mood: public reckoning. Lighting: amber lanterns, projection glow and rain-muted night. Environment = Location Registry id 'COMMUNITY_HALL': Afenyo's community hall at night: open concrete walls, a corrugated roof, rows of plastic chairs, a hand-painted blank projection sheet, standing fans, amber lantern light and rain-darkened red earth outside.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S18_Step10_shared_room.png"
     },
     {

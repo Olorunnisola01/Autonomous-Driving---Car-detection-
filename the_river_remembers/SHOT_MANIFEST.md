@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 170 / 200
+- **Scene shots complete:** 180 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S18_Step01`
+- **Next scene-image label after reference approval:** `S19_Step01`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -278,16 +278,16 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S18_Step01` | @ESI_TETTEH @SENA_ADJOVI @AMA_ADJOVI | WIDE / high establishing angle | Afenyo packs the community hall under amber lantern light and rain-darkened night. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step01_hall_lanterns.png` |
-| ⬜ | `S18_Step02` | @SENA_ADJOVI | MEDIUM / eye-level | The landing deed and water data shine clearly on a blank projection sheet. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step02_projected_deed.png` |
-| ⬜ | `S18_Step03` | @NII_LAMPTEY | CLOSE / three-quarter profile | Nii enters the open hall with his ebony heron cane and confronts the crowd. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step03_nii_enters.png` |
-| ⬜ | `S18_Step04` | @AMA_ADJOVI | INSERT / top-down detail | Ama's calm face reflects the projection glow as neighbours begin to speak. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step04_watching_faces.png` |
-| ⬜ | `S18_Step05` | @NII_LAMPTEY @KOSI_MENSAH @ESI_TETTEH @SENA_ADJOVI @KWAME_AGYEMAN @AMA_ADJOVI | TWO-SHOT / eye-level | The principals face each other while the public owns the room around them. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step05_public_reckoning.png` |
-| ⬜ | `S18_Step06` | @KOSI_MENSAH @NII_LAMPTEY | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, live water readings refute the project safeguards. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step06_kosi_evidence.png` |
-| ⬜ | `S18_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama tells Nii that people carrying the difficulty must make the decision. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step07_ama_reply.png` |
-| ⬜ | `S18_Step08` | @ESI_TETTEH @SENA_ADJOVI @AMA_ADJOVI | WIDE / low observational angle | Many residents raise their voices beneath rain-muted darkness. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step08_hall_answers.png` |
-| ⬜ | `S18_Step09` | @NII_LAMPTEY | MEDIUM / handheld eye-level | Nii lowers his cane as the truth becomes impossible to re-bury. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step09_nii_lowers_cane.png` |
-| ⬜ | `S18_Step10` | @NII_LAMPTEY @KOSI_MENSAH @ESI_TETTEH @SENA_ADJOVI @KWAME_AGYEMAN @AMA_ADJOVI | WIDE / rear closing tableau | Lanterns and projection light hold every face in the reclaimed hall. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step10_shared_room.png` |
+| ✅ | `S18_Step01` | @ESI_TETTEH @SENA_ADJOVI @AMA_ADJOVI | WIDE / high establishing angle | Afenyo packs the community hall under amber lantern light and rain-darkened night. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step01_hall_lanterns.png` |
+| ✅ | `S18_Step02` | @SENA_ADJOVI | MEDIUM / eye-level | The landing deed and water data shine clearly on a blank projection sheet. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step02_projected_deed.png` |
+| ✅ | `S18_Step03` | @NII_LAMPTEY | CLOSE / three-quarter profile | Nii enters the open hall with his ebony heron cane and confronts the crowd. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step03_nii_enters.png` |
+| ✅ | `S18_Step04` | @AMA_ADJOVI | INSERT / top-down detail | Ama's calm face reflects the projection glow as neighbours begin to speak. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step04_watching_faces.png` |
+| ✅ | `S18_Step05` | @NII_LAMPTEY @KOSI_MENSAH @ESI_TETTEH @SENA_ADJOVI @KWAME_AGYEMAN @AMA_ADJOVI | TWO-SHOT / eye-level | The principals face each other while the public owns the room around them. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step05_public_reckoning.png` |
+| ✅ | `S18_Step06` | @KOSI_MENSAH @NII_LAMPTEY | OVER-SHOULDER / over the lead character's shoulder | Over Kosi's shoulder, live water readings refute the project safeguards. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step06_kosi_evidence.png` |
+| ✅ | `S18_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama tells Nii that people carrying the difficulty must make the decision. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step07_ama_reply.png` |
+| ✅ | `S18_Step08` | @ESI_TETTEH @SENA_ADJOVI @AMA_ADJOVI | WIDE / low observational angle | Many residents raise their voices beneath rain-muted darkness. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step08_hall_answers.png` |
+| ✅ | `S18_Step09` | @NII_LAMPTEY | MEDIUM / handheld eye-level | Nii lowers his cane as the truth becomes impossible to re-bury. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step09_nii_lowers_cane.png` |
+| ✅ | `S18_Step10` | @NII_LAMPTEY @KOSI_MENSAH @ESI_TETTEH @SENA_ADJOVI @KWAME_AGYEMAN @AMA_ADJOVI | WIDE / rear closing tableau | Lanterns and projection light hold every face in the reclaimed hall. | public reckoning; amber lanterns, projection glow and rain-muted night | `images/act3/S18_Step10_shared_room.png` |
 
 ## S19 — The Water Is Public (DISTRICT_ASSEMBLY_HALL)
 
