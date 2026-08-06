@@ -898,7 +898,7 @@ def build_gallery():
             html.append(f'<div class="scene" id="{scene_id}">')
             html.append(f'<h3>{scene_id} — {info["title"]}</h3>')
             html.append(f'<div class="location">{info["location"]}</div>')
-            vo_html = info["voiceover"].replace('\n', '<br>').replace('\n\n', '<br><br>')
+            vo_html = info["voiceover"].replace('\n\n', '\n').replace('\n', '<br>')
             html.append(f'<div class="voiceover">{vo_html}</div>')
             html.append('<div class="grid">')
             
