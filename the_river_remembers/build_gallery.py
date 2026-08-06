@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """Create one portable, self-contained storyboard gallery with hierarchy:
 
-Character References → Act header → Scene subsection with voiceover → Step cards.
+Character References → Act header → Scene subsection with voiceover → Step cards (full 16:9 preview, click-to-pop lightbox).
 
 All 207 images are inlined as base64 JPEG thumbnails; gallery is fully offline.
+Lightbox is pure inline JS/CSS, no external deps.
 
-Run after every image batch:
+Run:
     python3 build_gallery.py
-(or any env with Pillow installed.)
 """
 from __future__ import annotations
 
@@ -25,7 +25,6 @@ OUT = ROOT / "storyboard_gallery.html"
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp"}
 SCREENPLAY = ROOT / "SCREENPLAY.md"
 
-# Fallback metadata if SCREENPLAY.md parsing fails
 FALLBACK_ACT_TITLES = {
     1: "Act I — Return",
     2: "Act II — The Signal",
@@ -59,7 +58,6 @@ FALLBACK_ACT_SCENES = {
     3: ["S16", "S17", "S18", "S19", "S20"],
 }
 
-# Voiceover / narration scripts — one per scene, sum tells full story
 VOICE_SCRIPTS = {
     "S01": (
         "In Accra, I learned to love things that hum when you fix them. Panels, wires, "
@@ -182,12 +180,14 @@ def label_for(path: Path) -> str:
 
 
 def inline_thumbnail(path: Path) -> tuple[str, int, int]:
+    """Create 16:9 full-frame thumbnail (no crop) — preserve entire image."""
     with Image.open(path) as raw:
         image = ImageOps.exif_transpose(raw).convert("RGB")
         original_w, original_h = image.size
-        image.thumbnail((420, 420), Image.Resampling.LANCZOS)
+        # Thumbnail for grid — keep full frame, no crop, LANCZOS
+        image.thumbnail((560, 560), Image.Resampling.LANCZOS)
         buffer = io.BytesIO()
-        image.save(buffer, format="JPEG", quality=70, optimize=True)
+        image.save(buffer, format="JPEG", quality=78, optimize=True)
     return base64.b64encode(buffer.getvalue()).decode("ascii"), original_w, original_h
 
 
@@ -205,12 +205,20 @@ def cards(paths: list[Path], empty_text: str) -> str:
             )
             continue
         label = label_for(path)
+        rel = html.escape(path.relative_to(ROOT).as_posix())
+        # data-full uses same base64 thumbnail (full frame, now uncropped). Click opens lightbox.
         fragments.append(
-            '<article class="card">'
-            f'<img loading="lazy" src="data:image/jpeg;base64,{data}" alt="{html.escape(label)}">'
+            '<article class="card" tabindex="0" role="button" '
+            f'aria-label="{html.escape(label)} — click to enlarge">'
+            f'<img loading="lazy" src="data:image/jpeg;base64,{data}" '
+            f'data-full="data:image/jpeg;base64,{data}" '
+            f'alt="{html.escape(label)}" '
+            f'data-label="{html.escape(label)}" '
+            f'data-path="{rel}" '
+            f'data-orig="{original_w}×{original_h}">'
             '<div class="meta">'
             f'<h3>{html.escape(label)}</h3>'
-            f'<p>{html.escape(path.relative_to(ROOT).as_posix())} · original {original_w}×{original_h}</p>'
+            f'<p>{rel} · original {original_w}×{original_h} · click to enlarge</p>'
             '</div></article>'
         )
     return "\n".join(fragments)
@@ -312,7 +320,7 @@ def main() -> None:
     body_parts.append(
         f'<section class="top-section refs-section">'
         f'<div class="section-heading"><h2>{html.escape(refs_heading)}</h2>'
-        f'<span>{refs_count} image{"s" if refs_count != 1 else ""}</span></div>'
+        f'<span>{refs_count} image{"s" if refs_count != 1 else ""} — click any tile to enlarge</span></div>'
         f'<div class="grid">{refs_grid}</div></section>'
     )
 
@@ -399,7 +407,7 @@ def main() -> None:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The River Remembers — Storyboard Gallery</title>
 <style>
-:root {{ --ink:#172020; --muted:#617071; --paper:#f7f2e9; --navy:#102c3a; --teal:#19636b; --amber:#d88a28; --card:#fffdf9; --line:#d8d0c1; --line-light:#e8e0d1; --voice-bg:#fdf1d8; --voice-border:#d8a73a; }}
+:root {{ --ink:#172020; --muted:#617071; --paper:#f7f2e9; --navy:#102c3a; --teal:#19636b; --amber:#d88a28; --card:#fffdf9; --line:#d8d0c1; --line-light:#e8e0d1; --voice-bg:#fdf1d8; --voice-border:#d8a73a; --img-bg:#111d24; }}
 * {{ box-sizing:border-box; }}
 body {{ margin:0; color:var(--ink); background:var(--paper); font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; line-height:1.5; }}
 header {{ padding:3.2rem max(1.3rem,calc((100vw - 1380px)/2)); color:#fff; background:linear-gradient(120deg,var(--navy),var(--teal)); }}
@@ -417,29 +425,41 @@ section {{ margin:2.8rem 0; }}
 .act-heading h2 {{ font-size:1.6rem; }}
 .section-heading h2 {{ margin:0 0 .7rem; font-size:1.5rem; font-family:Georgia,serif; }}
 .section-heading span {{ color:var(--muted); font-size:.9rem; white-space:nowrap; }}
-.grid {{ display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:1rem; padding-top:1rem; }}
-.card {{ overflow:hidden; border:1px solid #ded6ca; border-radius:12px; background:var(--card); box-shadow:0 3px 12px rgba(21,40,40,.08); display:flex; flex-direction:column; }}
-.card img {{ display:block; width:100%; aspect-ratio:16/9; object-fit:cover; background:#e6e1d7; }}
-.meta {{ padding:.75rem .8rem .9rem; }}
-.meta h3 {{ margin:0; font-size:.88rem; line-height:1.35; }}
-.meta p,.empty,.error p {{ margin:.35rem 0 0; color:var(--muted); font-size:.76rem; line-height:1.45; }}
+/* GRID & CARDS - redesigned for full 16:9 uncropped preview */
+.grid {{ display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:1.1rem; padding-top:1rem; }}
+.card {{ overflow:hidden; border:1px solid #ded6ca; border-radius:12px; background:var(--card); box-shadow:0 3px 12px rgba(21,40,40,.08); display:flex; flex-direction:column; cursor:pointer; transition:transform .18s ease, box-shadow .18s ease; }}
+.card:hover {{ transform:translateY(-3px); box-shadow:0 8px 20px rgba(21,40,40,.18); }}
+.card:focus {{ outline:2px solid var(--teal); outline-offset:2px; }}
+.card img {{ display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:contain; object-position:center; background:var(--img-bg); }}
+.meta {{ padding:.7rem .8rem .85rem; }}
+.meta h3 {{ margin:0; font-size:.86rem; line-height:1.35; }}
+.meta p,.empty,.error p {{ margin:.35rem 0 0; color:var(--muted); font-size:.73rem; line-height:1.45; }}
 .empty {{ grid-column:1/-1; margin:0; padding:1.1rem; border:1px dashed #b9b1a5; border-radius:9px; background:rgba(255,255,255,.6); }}
 .error {{ padding:1rem; border-color:#bd7467; }}
 .act {{ padding-top:.8rem; border-top:4px solid var(--navy); margin-top:3.5rem; }}
-.act:first-of-type {{ border-top:none; }}
 .scene {{ margin:1.8rem 0 2.2rem; padding:1.1rem 1.1rem 1.2rem; background:rgba(255,253,249,.78); border:1px solid var(--line-light); border-radius:14px; box-shadow:0 2px 10px rgba(16,44,58,.06); }}
 .scene-heading {{ display:flex; align-items:baseline; justify-content:space-between; gap:1rem; border-bottom:1px solid var(--line-light); padding-bottom:.5rem; margin-bottom:.8rem; }}
-.scene-heading h3 {{ margin:0; font-size:1.18rem; font-family:Georgia,serif; letter-spacing:.01em; }}
-.scene-heading span {{ color:var(--muted); font-size:.82rem; white-space:nowrap; }}
+.scene-heading h3 {{ margin:0; font-size:1.18rem; font-family:Georgia,serif; }}
+.scene-heading span {{ color:var(--muted); font-size:.82rem; }}
 .voiceover {{ margin:0 0 1rem 0; padding:1rem 1.1rem; background:var(--voice-bg); border-left:4px solid var(--voice-border); border-radius:8px; line-height:1.7; }}
 .voice-label {{ font-size:.72rem; letter-spacing:.12em; font-weight:700; color:var(--teal); margin-bottom:.4rem; text-transform:uppercase; }}
 .voiceover p {{ margin:0; font-family:Georgia,serif; font-size:.98rem; color:#2c2a26; }}
+/* LIGHTBOX - click to enlarge full image */
+.lightbox {{ display:none; position:fixed; inset:0; background:rgba(5,15,20,.92); z-index:9999; align-items:center; justify-content:center; padding:1.5rem; }}
+.lightbox.active {{ display:flex; }}
+.lightbox-content {{ position:relative; max-width:92vw; max-height:88vh; display:flex; flex-direction:column; align-items:center; }}
+.lightbox-content img {{ max-width:90vw; max-height:78vh; width:auto; height:auto; object-fit:contain; border-radius:10px; background:#000; box-shadow:0 12px 50px rgba(0,0,0,.7); }}
+.lightbox-caption {{ margin-top:.9rem; color:#e6ecec; font-size:.9rem; text-align:center; max-width:70ch; line-height:1.5; }}
+.lightbox-caption strong {{ display:block; color:#fff; font-family:Georgia,serif; font-size:1.05rem; margin-bottom:.25rem; }}
+.lightbox-close {{ position:absolute; top:.8rem; right:1.2rem; background:rgba(0,0,0,.4); border:1px solid rgba(255,255,255,.35); color:#fff; font-size:2rem; width:44px; height:44px; border-radius:50%; cursor:pointer; line-height:1; display:flex; align-items:center; justify-content:center; }}
+.lightbox-close:hover {{ background:rgba(255,255,255,.15); }}
+.lightbox-hint {{ margin-top:.6rem; color:#8aa0a6; font-size:.73rem; }}
 footer {{ max-width:1380px; margin:auto; padding:0 1.3rem 3rem; color:var(--muted); font-size:.8rem; }}
-@media (max-width:600px) {{ .grid {{ grid-template-columns:1fr 1fr; gap:.7rem; }} .scene {{ padding:.8rem; }} .scene-heading h3 {{ font-size:1rem; }} .voiceover p {{ font-size:.92rem; }} }}
+@media (max-width:650px) {{ .grid {{ grid-template-columns:1fr 1fr; gap:.7rem; }} .scene {{ padding:.8rem; }} .card img {{ aspect-ratio:16/9; }} }}
 </style>
 </head>
 <body>
-<header><h1>The River Remembers</h1><p>A self-contained visual production gallery. Every thumbnail is JPEG-compressed, base64-inlined and viewable offline; no external image, font, script or network request is used. Hierarchy: Character References → Act → Scene (S01–S20) with voiceover narration → Step cards.</p><span class="badge">{total} visual asset{'s' if total != 1 else ''} in this build — 7 refs + 200 steps + 20 voice scripts</span>
+<header><h1>The River Remembers</h1><p>A self-contained visual production gallery. All 207 thumbnails are full-frame 16:9 (no crop), base64-inlined and viewable offline. Hierarchy: Character References → Act → Scene (S01–S20) with voiceover → Step cards. <b>Click any tile to pop up the full image.</b></p><span class="badge">{total} assets — 7 refs + 200 steps + 20 voice scripts — click to enlarge</span>
 <nav class="toc">
 <a href="#refs">Character References</a>
 <a href="#act1">Act I — Return</a>
@@ -450,7 +470,76 @@ footer {{ max-width:1380px; margin:auto; padding:0 1.3rem 3rem; color:var(--mute
 </nav>
 </header>
 <main>{source}</main>
-<footer>Generated from <code>images/refs/</code> and <code>images/act1–3/</code>. Re-run <code>build_gallery.py</code> after adding a batch. All images are inlined as base64 JPEG thumbnails for offline viewing. Hierarchy: Character References → Act → Scene + Voiceover → Steps. 20 voice scripts form continuous story.</footer>
+<footer>Generated from <code>images/refs/</code> and <code>images/act1–3/</code>. Re-run <code>build_gallery.py</code> after adding a batch. All images are inlined as base64 JPEG, full-frame 16:9 contain (no crop). Tap/click any card to open lightbox. Hierarchy: Refs → Act → Scene + Voiceover → Steps.</footer>
+
+<!-- Lightbox Modal -->
+<div id="lightbox" class="lightbox" aria-hidden="true" role="dialog" aria-label="Image preview">
+  <button class="lightbox-close" id="lb-close" aria-label="Close preview">×</button>
+  <div class="lightbox-content">
+    <img id="lb-img" src="" alt="">
+    <div class="lightbox-caption" id="lb-caption"></div>
+    <div class="lightbox-hint">Press Esc or click outside to close — click tile to enlarge</div>
+  </div>
+</div>
+
+<script>
+(function() {{
+  const lb = document.getElementById('lightbox');
+  const lbImg = document.getElementById('lb-img');
+  const lbCaption = document.getElementById('lb-caption');
+  const lbClose = document.getElementById('lb-close');
+  let lastFocus = null;
+
+  function openLB(src, label, path, orig) {{
+    lastFocus = document.activeElement;
+    lbImg.src = src;
+    lbImg.alt = label;
+    lbCaption.innerHTML = '<strong>' + escapeHtml(label) + '</strong>' + escapeHtml(path ? path + ' · ' + orig : '');
+    lb.classList.add('active');
+    lb.setAttribute('aria-hidden','false');
+    document.body.style.overflow = 'hidden';
+    lbClose.focus();
+  }}
+  function closeLB() {{
+    lb.classList.remove('active');
+    lb.setAttribute('aria-hidden','true');
+    lbImg.src = '';
+    document.body.style.overflow = '';
+    if (lastFocus) lastFocus.focus();
+  }}
+  function escapeHtml(s) {{
+    return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }}
+
+  document.addEventListener('click', function(e) {{
+    const card = e.target.closest('.card');
+    if (!card) return;
+    const img = card.querySelector('img');
+    if (!img) return;
+    const full = img.getAttribute('data-full') || img.src;
+    const label = img.getAttribute('data-label') || img.alt || '';
+    const path = img.getAttribute('data-path') || '';
+    const orig = img.getAttribute('data-orig') || '';
+    openLB(full, label, path, orig);
+  }});
+
+  // keyboard accessibility on card (Enter/Space)
+  document.addEventListener('keydown', function(e) {{
+    if ((e.key === 'Enter' || e.key === ' ') && e.target.closest('.card')) {{
+      e.preventDefault();
+      e.target.closest('.card').click();
+    }}
+  }});
+
+  lb.addEventListener('click', function(e) {{
+    if (e.target === lb) closeLB();
+  }});
+  lbClose.addEventListener('click', closeLB);
+  document.addEventListener('keydown', function(e) {{
+    if (e.key === 'Escape' && lb.classList.contains('active')) closeLB();
+  }});
+}})();
+</script>
 </body></html>"""
     document = document.replace('class="top-section refs-section"', 'class="top-section refs-section" id="refs"')
     document = document.replace('class="act act-1"', 'class="act act-1" id="act1"')
@@ -458,9 +547,7 @@ footer {{ max-width:1380px; margin:auto; padding:0 1.3rem 3rem; color:var(--mute
     document = document.replace('class="act act-3"', 'class="act act-3" id="act3"')
 
     OUT.write_text(document, encoding="utf-8")
-    print(f"Wrote {OUT.name} with {len(refs)} refs, {sum(len(v) for v in acts_files.values())} scenes = {total}, plus {len(VOICE_SCRIPTS)} voiceovers.")
-    for act_num in (1,2,3):
-        print(f"{act_titles.get(act_num)}: {act_scenes.get(act_num)}")
+    print(f"Wrote {OUT.name} with {len(refs)} refs, {sum(len(v) for v in acts_files.values())} scenes = {total}, plus {len(VOICE_SCRIPTS)} voiceovers, lightbox enabled, full 16:9 contain.")
 
 
 if __name__ == "__main__":
