@@ -2,9 +2,9 @@
 
 ## Production state
 
-- **Scene shots complete:** 190 / 200
+- **Scene shots complete:** 200 / 200
 - **Character reference sheets complete:** 7 / 7
-- **Next scene-image label after reference approval:** `S20_Step01`
+- **Next scene-image label after reference approval:** `All scene shots complete`
 - **Status legend:** `✅` actual image exists and was reviewed in this package; `⬜` planned, not generated. A filename alone never changes status.
 
 ## Locked visual basis
@@ -308,13 +308,13 @@
 
 | Status | Label | Characters in frame | Size / camera | Action / blocking / emotion | Mood + lighting | Planned file |
 |---|---|---|---|---|---|---|
-| ⬜ | `S20_Step01` | @KOSI_MENSAH @KOJO_DANSO @AMA_ADJOVI @SENA_ADJOVI @ESI_TETTEH @KWAME_AGYEMAN | WIDE / high establishing angle | Sunrise opens across the fishing pier, repaired nets and calm gold-and-teal water. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step01_pier_sunrise.png` |
-| ⬜ | `S20_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi secures the community-owned solar battery at the pier. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step02_kosi_battery.png` |
-| ⬜ | `S20_Step03` | @KOJO_DANSO | CLOSE / three-quarter profile | Kojo lifts repaired fishing nets beneath the distant beacon pulse. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step03_kojo_nets.png` |
-| ⬜ | `S20_Step04` | @KOSI_MENSAH | INSERT / top-down detail | The blue beacon flashes across calm water beyond painted canoes. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step04_beacon_in_distance.png` |
-| ⬜ | `S20_Step05` | @AMA_ADJOVI @SENA_ADJOVI | TWO-SHOT / eye-level | Ama watches Sena prepare the first episode of her new radio programme. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step05_ama_and_sena.png` |
-| ⬜ | `S20_Step06` | @SENA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Sena's shoulder, she broadcasts that the light and water are public. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step06_sena_good_morning.png` |
-| ⬜ | `S20_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama's knowing smile softens as she nods to Kosi. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step07_ama_nods.png` |
-| ⬜ | `S20_Step08` | @KWAME_AGYEMAN @ESI_TETTEH | WIDE / low observational angle | Kwame in work gloves joins Esi's line carrying fishing nets, no longer standing apart. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step08_kwame_helps.png` |
-| ⬜ | `S20_Step09` | @KOSI_MENSAH @AMA_ADJOVI | MEDIUM / handheld eye-level | Kosi and Ama share a quiet look over the brightening lagoon. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step09_kosi_at_home.png` |
-| ⬜ | `S20_Step10` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI @KOJO_DANSO @ESI_TETTEH @KWAME_AGYEMAN | WIDE / rear closing tableau | The whole pier works together beneath the first fully shared light. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step10_first_light_shared.png` |
+| ✅ | `S20_Step01` | @KOSI_MENSAH @KOJO_DANSO @AMA_ADJOVI @SENA_ADJOVI @ESI_TETTEH @KWAME_AGYEMAN | WIDE / high establishing angle | Sunrise opens across the fishing pier, repaired nets and calm gold-and-teal water. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step01_pier_sunrise.png` |
+| ✅ | `S20_Step02` | @KOSI_MENSAH | MEDIUM / eye-level | Kosi secures the community-owned solar battery at the pier. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step02_kosi_battery.png` |
+| ✅ | `S20_Step03` | @KOJO_DANSO | CLOSE / three-quarter profile | Kojo lifts repaired fishing nets beneath the distant beacon pulse. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step03_kojo_nets.png` |
+| ✅ | `S20_Step04` | @KOSI_MENSAH | INSERT / top-down detail | The blue beacon flashes across calm water beyond painted canoes. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step04_beacon_in_distance.png` |
+| ✅ | `S20_Step05` | @AMA_ADJOVI @SENA_ADJOVI | TWO-SHOT / eye-level | Ama watches Sena prepare the first episode of her new radio programme. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step05_ama_and_sena.png` |
+| ✅ | `S20_Step06` | @SENA_ADJOVI | OVER-SHOULDER / over the lead character's shoulder | Over Sena's shoulder, she broadcasts that the light and water are public. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step06_sena_good_morning.png` |
+| ✅ | `S20_Step07` | @AMA_ADJOVI | EXTREME CLOSE / intimate frontal angle | Ama's knowing smile softens as she nods to Kosi. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step07_ama_nods.png` |
+| ✅ | `S20_Step08` | @KWAME_AGYEMAN @ESI_TETTEH | WIDE / low observational angle | Kwame in work gloves joins Esi's line carrying fishing nets, no longer standing apart. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step08_kwame_helps.png` |
+| ✅ | `S20_Step09` | @KOSI_MENSAH @AMA_ADJOVI | MEDIUM / handheld eye-level | Kosi and Ama share a quiet look over the brightening lagoon. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step09_kosi_at_home.png` |
+| ✅ | `S20_Step10` | @KOSI_MENSAH @AMA_ADJOVI @SENA_ADJOVI @KOJO_DANSO @ESI_TETTEH @KWAME_AGYEMAN | WIDE / rear closing tableau | The whole pier works together beneath the first fully shared light. | hopeful, lived-in renewal; soft gold sunrise over calm teal water | `images/act3/S20_Step10_first_light_shared.png` |

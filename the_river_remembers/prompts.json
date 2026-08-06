@@ -4,7 +4,7 @@
   "visual_style": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people.",
   "planned_shot_count": 200,
   "generation_progress": {
-    "scene_shots_complete": 190,
+    "scene_shots_complete": 200,
     "scene_shots_total": 200,
     "references_complete": 7,
     "references_total": 7
@@ -4533,7 +4533,7 @@
         "Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S20 — First Light, Shared. WIDE shot, high establishing angle. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). Sunrise opens across the fishing pier, repaired nets and calm gold-and-teal water. Mood: hopeful, lived-in renewal. Lighting: soft gold sunrise over calm teal water. Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S20_Step01_pier_sunrise.png"
     },
     {
@@ -4555,7 +4555,7 @@
         "Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S20 — First Light, Shared. MEDIUM shot, eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). Kosi secures the community-owned solar battery at the pier. Mood: hopeful, lived-in renewal. Lighting: soft gold sunrise over calm teal water. Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S20_Step02_kosi_battery.png"
     },
     {
@@ -4577,7 +4577,7 @@
         "Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S20 — First Light, Shared. CLOSE shot, three-quarter profile. Characters in frame: @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord). Kojo lifts repaired fishing nets beneath the distant beacon pulse. Mood: hopeful, lived-in renewal. Lighting: soft gold sunrise over calm teal water. Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S20_Step03_kojo_nets.png"
     },
     {
@@ -4599,7 +4599,7 @@
         "Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S20 — First Light, Shared. INSERT shot, top-down detail. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings). The blue beacon flashes across calm water beyond painted canoes. Mood: hopeful, lived-in renewal. Lighting: soft gold sunrise over calm teal water. Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S20_Step04_beacon_in_distance.png"
     },
     {
@@ -4623,7 +4623,7 @@
         "Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S20 — First Light, Shared. TWO-SHOT shot, eye-level. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Ama watches Sena prepare the first episode of her new radio programme. Mood: hopeful, lived-in renewal. Lighting: soft gold sunrise over calm teal water. Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S20_Step05_ama_and_sena.png"
     },
     {
@@ -4645,7 +4645,7 @@
         "Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S20 — First Light, Shared. OVER-SHOULDER shot, over the lead character's shoulder. Characters in frame: @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones). Over Sena's shoulder, she broadcasts that the light and water are public. Mood: hopeful, lived-in renewal. Lighting: soft gold sunrise over calm teal water. Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S20_Step06_sena_good_morning.png"
     },
     {
@@ -4667,7 +4667,7 @@
         "Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S20 — First Light, Shared. EXTREME CLOSE shot, intimate frontal angle. Characters in frame: @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Ama's knowing smile softens as she nods to Kosi. Mood: hopeful, lived-in renewal. Lighting: soft gold sunrise over calm teal water. Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S20_Step07_ama_nods.png"
     },
     {
@@ -4691,7 +4691,7 @@
         "Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S20 — First Light, Shared. WIDE shot, low observational angle. Characters in frame: @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle). Kwame in work gloves joins Esi's line carrying fishing nets, no longer standing apart. Mood: hopeful, lived-in renewal. Lighting: soft gold sunrise over calm teal water. Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S20_Step08_kwame_helps.png"
     },
     {
@@ -4715,7 +4715,7 @@
         "Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S20 — First Light, Shared. MEDIUM shot, handheld eye-level. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace). Kosi and Ama share a quiet look over the brightening lagoon. Mood: hopeful, lived-in renewal. Lighting: soft gold sunrise over calm teal water. Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S20_Step09_kosi_at_home.png"
     },
     {
@@ -4747,7 +4747,7 @@
         "Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun."
       ],
       "prompt": "Grounded cinematic West African magical realism; contemporary Ghanaian coastal life; human-scale performances; saturated indigo, lagoon teal, clay red and warm amber palette; natural skin texture; tactile fabric and weathered wood; 16:9 landscape widescreen composition; subtle film grain; expressive realistic lighting. No written words, no logos, no watermark, no distorted hands, no duplicate people. Scene S20 — First Light, Shared. WIDE shot, rear closing tableau. Characters in frame: @KOSI_MENSAH (indigo utility jumpsuit with rolled sleeves, sand-coloured work boots and a narrow woven kente belt, small gold Adinkra-disc earrings); @AMA_ADJOVI (deep navy kaba blouse, hand-dyed indigo wrapper with tiny white wave motifs and flat leather sandals, three-strand amber bead necklace); @SENA_ADJOVI (mustard oversized hoodie, blue-and-white printed ankle skirt and worn white canvas trainers, turquoise over-ear radio headphones); @KOJO_DANSO (faded forest-green canvas jacket over a blue-and-cream striped shirt, charcoal trousers and rubber deck boots, weathered brass compass on a cord); @ESI_TETTEH (brick-red wax-print dress beneath a soot-black oilskin apron, patterned headwrap and sturdy black sandals, smooth charred-wood smoking paddle); @KWAME_AGYEMAN (white linen shirt under a caramel lightweight field jacket, dark tailored trousers and brown loafers, antique bronze lapel pin shaped like a compass rose). The whole pier works together beneath the first fully shared light. Mood: hopeful, lived-in renewal. Lighting: soft gold sunrise over calm teal water. Environment = Location Registry id 'SUNRISE_PIER': Afenyo's wooden fishing pier at sunrise: worn planks, moored painted canoes, repaired fishing nets, calm gold-and-teal lagoon water, distant mangroves and a low orange sun.",
-      "status": "⬜",
+      "status": "✅",
       "file": "images/act3/S20_Step10_first_light_shared.png"
     }
   ]
