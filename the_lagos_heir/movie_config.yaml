@@ -1,0 +1,175 @@
+# ============================================================================
+# THE HIDDEN HEIR — A Nigerian Lagos Love Story
+# ============================================================================
+
+project:
+  title: "The Hidden Heir"
+  tagline: "He hid his wealth to find her heart"
+  slug: "the_lagos_heir"
+
+story:
+  acts: 5
+  scenes_per_act: 5
+  steps_per_scene: 10
+
+theme:
+  genre: "Nigerian Romantic Drama (Nollywood)"
+  setting: "Lagos — Victoria Island mansions, Surulere streets, Balogun market, Third Mainland Bridge at sunset"
+  mood: "heartfelt, suspenseful, romantic, culturally rich"
+  color_palette: "warm gold, deep Ankara reds, ocean blue, sunset orange, rich earth tones"
+  visual_style: "vibrant Nigerian fashion, bustling Lagos streets, golden hour light, intimate close-ups, ceremonial attire"
+  negative_prompt: "no text, no logos, no distorted faces, no western settings"
+
+voiceover:
+  style: "dialogue"
+  narrator_letter: "A"
+  pov_character: "Chioma"
+  total_target_chars: 70000
+
+characters:
+  - id: "ADEOLA_DELE_ADEBAYO"
+    name: "Adeola 'Dele' Adebayo"
+    role: "protagonist — disguised heir"
+    age: 28
+    description: "Tall, broad-shouldered Yoruba man with warm brown skin, kind eyes, short neat hair. Normally wears tailored agbada but currently in faded jeans and a mechanic's shirt"
+    wardrobe: "faded blue jeans, worn mechanic's shirt with grease stains, simple leather sandals, a small gold chain hidden under his collar"
+    object: "a simple wristwatch his late mother gave him — the only expensive thing he keeps visible"
+    personality: "Humble, observant, genuinely kind beneath the disguise, tired of women who want his father's money"
+
+  - id: "CHIOMA_OKAFOR"
+    name: "Chioma Okafor"
+    role: "female lead — the honest heart"
+    age: 25
+    description: "Beautiful Igbo woman with radiant smile, clear brown eyes, natural hair in a neat puff, graceful posture"
+    wardrobe: "simple but elegant Ankara dress in deep blue and gold, small gold earrings, modest cross necklace"
+    object: "a worn leather nurse's bag she carries everywhere"
+    personality: "Hardworking, honest, devoted to her mother, values character over wealth, fierce in her principles"
+
+  - id: "MAMA_NKECHI"
+    name: "Mama Nkechi (Chioma's mother)"
+    role: "wise mother"
+    age: 52
+    description: "Warm-faced woman with kind eyes, silver-streaked hair under a headtie, full figure, gentle smile"
+    wardrobe: "colorful iro and buba wrapper set in green and gold, matching gele headtie, coral beads"
+    object: "a small wooden rosary she prays with each morning"
+    personality: "Wise, protective, sees through people quickly, wants only happiness for her daughter"
+
+  - id: "BABATUNDE_TUNDE"
+    name: "Babatunde 'Tunde' Fashola"
+    role: "antagonist — Dele's fake best friend"
+    age: 29
+    description: "Slick, well-groomed man with a calculating smile, expensive cologne, sharp features"
+    wardrobe: "designer polo shirt, gold chain, luxury watch, clean white sneakers"
+    object: "a silver lighter he flicks when scheming"
+    personality: "Charming but manipulative, knows Dele's secret, wants to steal Chioma for himself"
+
+  - id: "FATHER_ADEBAYO"
+    name: "Chief Adébáyọ̀ Adebayo (Dele's father)"
+    role: "the powerful father"
+    age: 58
+    description: "Imposing Yoruba chief with grey temples, commanding presence, traditional cap always on his head"
+    wardrobe: "rich indigo agbada with gold embroidery, coral beads, traditional fila cap, expensive wristwatch"
+    object: "a carved wooden walking stick with a silver head"
+    personality: "Loving but controlling, wants a 'suitable' wife for his son, underestimates ordinary people"
+
+  - id: "IYEKE"
+    name: "Iyeke Adésọ́yè"
+    role: "the arranged bride"
+    age: 26
+    description: "Polished, beautiful woman with perfect makeup, designer clothes, cold calculating eyes"
+    wardrobe: "designer lace gown in cream and gold, diamond earrings, luxury handbag, high heels"
+    object: "a diamond ring her father gave her — she wears it like a weapon"
+    personality: "Entitled, status-obsessed, will do anything to marry into the Adebayo fortune"
+
+  - id: "UNCLE_SEGUN"
+    name: "Uncle Segun (family lawyer)"
+    role: "keeper of secrets"
+    age: 50
+    description: "Lean man with glasses, always in a crisp suit, carries a leather briefcase"
+    wardrobe: "navy blue suit, white shirt, gold-rimmed glasses, polished black shoes"
+    object: "a leather folder containing the Adebayo will"
+    personality: "Loyal to the family, conflicted about the deception, ultimately does what's right"
+
+  - id: "PASTOR_EMMANUEL"
+    name: "Pastor Emmanuel"
+    role: "moral compass"
+    age: 55
+    description: "Gentle-faced man with a warm smile, short grey hair, kind eyes behind thin glasses"
+    wardrobe: "white clergy shirt with black collar, dark trousers, simple leather shoes"
+    object: "a worn Bible he carries everywhere"
+    personality: "Wise, non-judgmental, guides Dele toward truth without preaching"
+
+acts:
+  - name: "THE DISGUISE"
+    scenes:
+      - title: "The Father's Ultimatum"
+        location: "ADEBAYO_MANSION_VI"
+      - title: "Dele's Decision"
+        location: "THIRD_MAINLAND_BRIDGE"
+      - title: "The Mechanic's Shop"
+        location: "SURULERE_WORKSHOP"
+      - title: "The First Meeting"
+        location: "BALOGUN_MARKET"
+      - title: "The Broken Car"
+        location: "IKOYI_STREET"
+
+  - name: "THE FALLING"
+    scenes:
+      - title: "Coffee at Mama's"
+        location: "CHIIOMA_HOUSE_SURULERE"
+      - title: "The Hospital Shift"
+        location: "LAGOS_UNIVERSITY_TEACHING_HOSPITAL"
+      - title: "Tunde's Warning"
+        location: "Victoria_ISLAND_CLUB"
+      - title: "Sunset on the Bridge"
+        location: "THIRD_MAINLAND_BRIDGE_EVENING"
+      - title: "The Confession Almost"
+        location: "LEKKI_CONSERVATION_CENTRE"
+
+  - name: "THE REVEAL"
+    scenes:
+      - title: "The Charity Gala"
+        location: "EKO_HOTEL_BALLROOM"
+      - title: "Iyeke's Entrance"
+        location: "EKO_HOTEL_ENTRANCE"
+      - title: "The Truth Unravels"
+        location: "EKO_HOTEL_BALLROOM"
+      - title: "Chioma's Heartbreak"
+        location: "SURULERE_STREET_NIGHT"
+      - title: "Tunde's Betrayal"
+        location: "VICTORIA_ISLAND_RESTAURANT"
+
+  - name: "THE SEPARATION"
+    scenes:
+      - title: "The Confrontation with Father"
+        location: "ADEBAYO_MANSION_STUDY"
+      - title: "Dele's Choice"
+        location: "PASTOR_EMMANUELS_CHURCH"
+      - title: "Chioma's Decision"
+        location: "CHIIOMA_HOUSE_MORNING"
+      - title: "The Journey to Ibadan"
+        location: "LAGOS_IBADAN_EXPRESSWAY"
+      - title: "Grandmother's Wisdom"
+        location: "IBADAN_COMPOUND"
+
+  - name: "THE RETURN"
+    scenes:
+      - title: "Dele's Proof"
+        location: "SURULERE_WORKSHOP_REBUILT"
+      - title: "The Apology"
+        location: "HOSPITAL_GATE"
+      - title: "Mama Nkechi's Blessing"
+        location: "CHIIOMA_HOUSE_EVENING"
+      - title: "The Traditional Engagement"
+        location: "ADEBAYO_COMPOUND_CEREMONY"
+      - title: "The Wedding on the Beach"
+        location: "ELEGUSHI_BEACH_SUNSET"
+
+image_api:
+  provider: "placeholder"
+  batch_size: 10
+
+deploy:
+  enabled: true
+  branch: "gh-pages"
+  folder: "output"
