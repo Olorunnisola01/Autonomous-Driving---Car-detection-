@@ -1,0 +1,192 @@
+# ============================================================================
+# MOVIE CONFIGURATION — Edit this file for each new movie project
+# ============================================================================
+# To create a new movie:
+#   1. Change the values below
+#   2. Run the pipeline (GitHub Action or python generate_screenplay.py)
+#   3. Gallery auto-builds and deploys to GitHub Pages
+# ============================================================================
+
+project:
+  title: "The Duke's Obsession"
+  tagline: "A Gothic Dark Romance"
+  slug: "the_dukes_obsession"       # folder name
+  repo_url: ""                       # auto-detected if empty
+  github_pages_url: ""               # auto-generated if empty
+
+story:
+  acts: 5
+  scenes_per_act: 5
+  steps_per_scene: 10
+
+theme:
+  genre: "Gothic Dark Romance"
+  setting: "Regency England manor in deep winter, Blackthorn Hall"
+  mood: "possessive, slow-burn, morally grey"
+  color_palette: "saturated deep crimson, charcoal, ivory, gold"
+  visual_style: "candlelight, velvet, frost, decaying opulence, tactile skin, breath fog, 16:9 widescreen"
+  negative_prompt: "no text, no logos, no distorted hands, no duplicate people, no watermarks"
+
+voiceover:
+  style: "dialogue"                  # "dialogue" or "monologue"
+  narrator_letter: "A"               # Always the narrator in dialogue mode
+  pov_character: "Elara"             # First-person voice
+  total_target_chars: 70000          # target across all scenes
+
+# Character Bible — add/remove as needed
+# Each character becomes a reference portrait + appears in scenes
+characters:
+  - id: "ELARA_FINCH"
+    name: "Elara Finch"
+    role: "protagonist"
+    age: 23
+    description: "A slender English woman with pale ivory skin dusted with freckles, large hazel eyes, auburn hair in messy coil, ink-stained fingertips"
+    wardrobe: "forest-green wool dress, cream linen apron, leather bookbinder's gloves, worn ankle boots"
+    object: "small brass thimble on a chain around her neck"
+    personality: "Intellectually fearless, emotionally guarded, stubbornly honest"
+  
+  - id: "DUKE_SILAS_BLACKTHORN"
+    name: "Duke Silas Blackthorn"
+    role: "male lead"
+    age: 32
+    description: "Tall, broad-shouldered Englishman with sharp aristocratic features, dark charcoal eyes, black hair slightly too long, scar through left eyebrow"
+    wardrobe: "black wool coat with silver buttons, ivory cravat, dark grey waistcoat, black leather gloves"
+    object: "Blackthorn signet ring on right hand"
+    personality: "Controlled, obsessive, devastatingly intelligent"
+
+  - id: "MRS_VARMA"
+    name: "Mrs. Varma"
+    role: "housekeeper"
+    age: 58
+    description: "Composed woman with dark olive skin, silver-streaked black hair pulled tight, knowing eyes"
+    wardrobe: "black silk dress with high collar, white apron with lace trim, heavy iron key ring at waist"
+    object: "iron house key on black ribbon"
+    personality: "Fiercely loyal, protective, suspicious of outsiders"
+
+  - id: "JULIAN_FOX"
+    name: "Julian Fox"
+    role: "antagonist"
+    age: 30
+    description: "Handsome man with sandy blond hair, ice-blue eyes, lazy smile, elegant cruelty"
+    wardrobe: "burgundy velvet coat with gold embroidery, cream silk shirt, tan riding breeches"
+    object: "gold-tipped riding crop"
+    personality: "Witty, manipulative, entitled"
+
+  - id: "LADY_MARGARET"
+    name: "Lady Margaret"
+    role: "ghost / portrait"
+    age: 25
+    description: "Beautiful woman with raven-black hair, porcelain skin, eyes holding a warning"
+    wardrobe: "white satin gown, pearl choker, dark emerald pendant"
+    object: "emerald pendant"
+    personality: "Seemingly gentle, secretly trapped"
+
+  - id: "THOMAS_FINCH"
+    name: "Thomas Finch"
+    role: "father"
+    age: 52
+    description: "Thin, stooped man with grey-streaked auburn hair, trembling hands, haunted eyes"
+    wardrobe: "threadbare brown wool coat, stained linen shirt, patched trousers, leather apron"
+    object: "cracked bookbinding press"
+    personality: "Gentle, broken, full of love but unable to provide"
+
+  - id: "LUCY"
+    name: "Lucy"
+    role: "maid ally"
+    age: 19
+    description: "Cheerful, round-faced young woman with rosy cheeks, auburn-brown hair in twin braids"
+    wardrobe: "grey wool maid's dress with white cap and apron"
+    object: "tin of stolen candles"
+    personality: "Warm, brave, perceptive"
+
+  - id: "FATHER_BENEDICT"
+    name: "Father Benedict"
+    role: "vicar"
+    age: 65
+    description: "Tall, thin man with kind weathered features, white beard, watery blue eyes"
+    wardrobe: "black cassock with white clerical collar, heavy wool scarf"
+    object: "leather-bound prayer book"
+    personality: "Gentle, principled, unafraid to speak truth"
+
+# Scene-by-scene breakdown — acts and scene titles
+# If left empty, auto-generated from theme
+acts:
+  - name: "INHERITANCE"
+    scenes:
+      - title: "The Debt That Breathes"
+        location: "FINCH_BINDERY"
+      - title: "The Summons Arrives"
+        location: "FINCH_BINDERY"
+      - title: "The Road to Blackthorn"
+        location: "WINTER_ROAD"
+      - title: "The Gates of Blackthorn Hall"
+        location: "BLACKTHORN_GATES"
+      - title: "The First Glimpse of Him"
+        location: "BLACKTHORN_FOYER"
+
+  - name: "OBSESSION"
+    scenes:
+      - title: "The Library That Remembered"
+        location: "BLACKTHORN_LIBRARY"
+      - title: "The Journals with Her Name"
+        location: "BLACKTHORN_LIBRARY"
+      - title: "The Duke Watches"
+        location: "BLACKTHORN_LIBRARY"
+      - title: "The Gallery of Dead Wives"
+        location: "BLACKTHORN_GALLERY"
+      - title: "The First Touch"
+        location: "BLACKTHORN_LIBRARY"
+
+  - name: "THE BARGAIN"
+    scenes:
+      - title: "The Contract on the Desk"
+        location: "BLACKTHORN_STUDY"
+      - title: "The Fake Engagement"
+        location: "BLACKTHORN_DINING_HALL"
+      - title: "The Jealousy at the Hunt Ball"
+        location: "BLACKTHORN_BALLROOM"
+      - title: "The Secret of the First Wife"
+        location: "BLACKTHORN_STUDY"
+      - title: "The Agreement"
+        location: "BLACKTHORN_LIBRARY"
+
+  - name: "RUIN"
+    scenes:
+      - title: "The Betrayal"
+        location: "BLACKTHORN_STUDY"
+      - title: "The Fire in the East Wing"
+        location: "BLACKTHORN_EAST_WING"
+      - title: "She Tries to Flee"
+        location: "BLACKTHORN_GROUNDS"
+      - title: "He Lets Her Go"
+        location: "BLACKTHORN_GATES"
+      - title: "The Distance Between"
+        location: "VILLAGE_INN"
+
+  - name: "DEVOTION"
+    scenes:
+      - title: "The Return on Her Own Terms"
+        location: "BLACKTHORN_GATES"
+      - title: "The Consummation"
+        location: "BLACKTHORN_CHAMBERS"
+      - title: "The Public Claiming"
+        location: "BLACKTHORN_BALLROOM"
+      - title: "The Marriage"
+        location: "VILLAGE_CHURCH"
+      - title: "The True Duchess"
+        location: "BLACKTHORN_LIBRARY"
+
+# Image generation settings
+image_api:
+  provider: "openai"                  # "openai" or "placeholder"
+  model: "dall-e-3"
+  size: "1792x1024"                   # 16:9 widescreen
+  quality: "hd"
+  style: "vivid"
+  batch_size: 10                      # images per API call batch
+
+# GitHub Pages deployment
+deploy:
+  enabled: true
+  branch: "gh-pages"
+  folder: "output"

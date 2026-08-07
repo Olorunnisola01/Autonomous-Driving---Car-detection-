@@ -1,102 +1,655 @@
-# THE DUKE'S OBSESSION
+# The Duke's Obsession
 
 *A Gothic Dark Romance*
 
-## Production Overview
-
-**Format:** 25-scene storyboard (5 acts × 5 scenes × 10 steps)
-**Total Images:** 258 (8 character refs + 250 scene steps)
-**Genre:** Gothic dark romance; possessive, slow-burn, morally grey
-**Setting:** Blackthorn Hall, a decaying Regency-era manor; winter
-
 ## Logline
 
-When an impoverished bookbinder's daughter is summoned to catalog the library of a reclusive, widowed Duke rumored to have killed his first wife, she discovers her name already written in his journals from ten years before she was born — and a contract offering her family's debts cleared in exchange for one winter as his Duchess in name only.
+*(Auto-generated — customize in movie_config.yaml)*
 
-**Theme:** Love that feels like being claimed by winter — terrifying, consuming, and finally, chosen.
-
-## Visual Style Guide
-
-Gothic dark romance; Regency England manor in deep winter; candlelight, velvet, frost, decaying opulence; saturated deep crimson, charcoal, ivory, gold; tactile skin, breath fog, 16:9 widescreen; no text, no logos, no distorted hands.
-
-## Character Bible (8 Characters)
+## Character Bible
 
 ### @ELARA_FINCH — Elara Finch
-Age 23; bookbinder's daughter, protagonist.
-Pale ivory skin with freckles, hazel eyes (green-gold), auburn hair in messy coil, ink-stained fingertips.
-**Wardrobe:** forest-green wool dress, cream linen apron, leather bookbinder's gloves at belt, worn ankle boots.
-**Object:** small brass thimble on chain around neck.
+Age 23; protagonist.
+A slender English woman with pale ivory skin dusted with freckles, large hazel eyes, auburn hair in messy coil, ink-stained fingertips
+**Wardrobe:** forest-green wool dress, cream linen apron, leather bookbinder's gloves, worn ankle boots
+**Object:** small brass thimble on a chain around her neck
+**Personality:** Intellectually fearless, emotionally guarded, stubbornly honest
 
 ### @DUKE_SILAS_BLACKTHORN — Duke Silas Blackthorn
-Age 32; reclusive widowed Duke, male lead.
-Tall, broad-shouldered, sharp aristocratic features, dark charcoal eyes, black hair slightly too long, scar through left eyebrow.
-**Wardrobe:** black wool coat with silver buttons, ivory cravat, dark grey waistcoat, black leather gloves.
-**Object:** Blackthorn signet ring on right hand.
+Age 32; male lead.
+Tall, broad-shouldered Englishman with sharp aristocratic features, dark charcoal eyes, black hair slightly too long, scar through left eyebrow
+**Wardrobe:** black wool coat with silver buttons, ivory cravat, dark grey waistcoat, black leather gloves
+**Object:** Blackthorn signet ring on right hand
+**Personality:** Controlled, obsessive, devastatingly intelligent
 
 ### @MRS_VARMA — Mrs. Varma
-Age 58; Duke's housekeeper.
-Dark olive skin, silver-streaked black hair pulled tight, knowing eyes.
-**Wardrobe:** black silk dress with high collar, white apron with lace trim, heavy iron key ring at waist.
-**Object:** iron house key on black ribbon.
+Age 58; housekeeper.
+Composed woman with dark olive skin, silver-streaked black hair pulled tight, knowing eyes
+**Wardrobe:** black silk dress with high collar, white apron with lace trim, heavy iron key ring at waist
+**Object:** iron house key on black ribbon
+**Personality:** Fiercely loyal, protective, suspicious of outsiders
 
 ### @JULIAN_FOX — Julian Fox
-Age 30; Duke's charming, predatory cousin; antagonist.
-Sandy blond hair, ice-blue eyes, lazy smile, elegant cruelty.
-**Wardrobe:** burgundy velvet coat with gold embroidery, cream silk shirt, tan riding breeches, polished brown boots.
-**Object:** gold-tipped riding crop.
+Age 30; antagonist.
+Handsome man with sandy blond hair, ice-blue eyes, lazy smile, elegant cruelty
+**Wardrobe:** burgundy velvet coat with gold embroidery, cream silk shirt, tan riding breeches
+**Object:** gold-tipped riding crop
+**Personality:** Witty, manipulative, entitled
 
 ### @LADY_MARGARET — Lady Margaret
-Deceased, appeared 25 in portraits; the Duke's first wife.
-Raven-black hair, porcelain skin, eyes that hold a warning.
-**Portrait wardrobe:** white satin gown, pearl choker, dark emerald pendant.
-**Object:** emerald pendant.
+Age 25; ghost / portrait.
+Beautiful woman with raven-black hair, porcelain skin, eyes holding a warning
+**Wardrobe:** white satin gown, pearl choker, dark emerald pendant
+**Object:** emerald pendant
+**Personality:** Seemingly gentle, secretly trapped
 
 ### @THOMAS_FINCH — Thomas Finch
-Age 52; Elara's father, ruined bookbinder.
-Thin, stooped, grey-streaked auburn hair, trembling hands, haunted eyes.
-**Wardrobe:** threadbare brown wool coat, stained linen shirt, patched trousers, leather apron.
-**Object:** cracked bookbinding press.
+Age 52; father.
+Thin, stooped man with grey-streaked auburn hair, trembling hands, haunted eyes
+**Wardrobe:** threadbare brown wool coat, stained linen shirt, patched trousers, leather apron
+**Object:** cracked bookbinding press
+**Personality:** Gentle, broken, full of love but unable to provide
 
 ### @LUCY — Lucy
-Age 19; maid at Blackthorn Hall; Elara's ally.
-Round-faced, rosy cheeks, auburn-brown hair in twin braids.
-**Wardrobe:** grey wool maid's dress, white cap and apron.
-**Object:** tin of stolen candles.
+Age 19; maid ally.
+Cheerful, round-faced young woman with rosy cheeks, auburn-brown hair in twin braids
+**Wardrobe:** grey wool maid's dress with white cap and apron
+**Object:** tin of stolen candles
+**Personality:** Warm, brave, perceptive
 
 ### @FATHER_BENEDICT — Father Benedict
-Age 65; village vicar.
-Tall, thin, kind weathered features, white beard, watery blue eyes.
-**Wardrobe:** black cassock with white clerical collar, heavy wool scarf.
-**Object:** leather-bound prayer book.
+Age 65; vicar.
+Tall, thin man with kind weathered features, white beard, watery blue eyes
+**Wardrobe:** black cassock with white clerical collar, heavy wool scarf
+**Object:** leather-bound prayer book
+**Personality:** Gentle, principled, unafraid to speak truth
 
-## The 25 Scenes
+## Screenplay
 
-### ACT I — INHERITANCE (S01-S05)
+### ACT 1 — INHERITANCE
 
-**S01 — The Debt That Breathes** (FINCH_BINDERY, evening)
+## S01 — The Debt That Breathes
 
-*VOICEOVER:*
+**Location:** `FINCH_BINDERY`
 
-I learned to count debts the way other girls counted stitches — by candlelight, by the tremor in my father's hands, by the silence that grew thicker than the leather we bound. The workshop smelled of old paper and desperation, of glue and grief and the slow decay of things that once mattered. Every creditor notice on the wall was another winter we might not survive, another nail in the coffin of the life we'd once known. I told him we could sell the Chaucer. He said Mother loved it. I said it was worth more alive than dead. We both knew I was lying. Some things, once sold, cannot be bought back.
+**VOICEOVER:**
 
-The bindery had been our home for as long as I could remember, though "home" was perhaps too generous a word for a place that smelled perpetually of turpentine and despair. Father's hands, once steady enough to thread a needle in dim light, now shook so badly he could barely hold the awl. The tremor had started three years ago, around the time the last of Mother's jewelry disappeared into the pawnbroker's till. Since then, the shaking had spread from his hands to his voice, from his voice to his spirit, until the man who had once taught me to distinguish between calfskin and goatskin by touch alone could barely meet my eyes.
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · B = Elara Finch]
 
-I worked by the light of a single tallow candle, its flame guttering in the draft that seeped through the cracks in the walls. The Bible I was rebinding belonged to the vicar's wife, who had paid us in stale bread and the promise of prayers. It was honest work, if poorly compensated, and I had learned to find a kind of peace in the rhythm of needle and thread, in the careful folding of signatures, in the patient application of paste to leather. Each book was a small resurrection, a dead thing brought back to life through skill and care.
+A: The scene opens on FINCH_BINDERY. The Debt That Breathes begins here.
 
-But no amount of skill could resurrect our fortunes. The creditors came every week now, their notices papering the walls like autumn leaves, each one more urgent than the last. Mr. Hemsworth the butcher had stopped extending credit. Mrs. Gable the baker demanded payment before delivery. Even the chandler, who had once been a friend of Father's, now required coin before surrendering his candles. We were drowning, and I was the only one who seemed to notice the water rising.
+B: I've been expecting this moment.
 
-The Chaucer sat on the highest shelf, its brass clasps gleaming dully in the candlelight. It had been Mother's favorite, a first edition she had purchased with her dowry money, back when such things still mattered. Father had forbidden me to touch it, saying it was the last thing of beauty in our lives. But beauty, I had learned, was a luxury we could no longer afford.
+C: Then you know what must be done.
 
-"We can sell it," I said again, keeping my voice gentle, the way one speaks to a wounded animal. "The brass alone is worth something. And the pages — they're old, Father. Someone might pay for the paper alone."
+A: The weight of the moment settles between them like dust in still air.
 
-He looked up from his work, his eyes red-rimmed and haunted. "Your mother loved that book," he said, as if that settled the matter. As if love were a currency we could spend.
+B: I know.
 
-"Then it is worth more alive than dead," I replied, and we both knew I was lying. The Chaucer would fetch perhaps three pounds at the bookseller's, enough to keep us for a month, perhaps two if we were careful. But then what? There would be another debt, another notice, another winter.
+A: And yet neither of them moves. The silence says what words cannot.
 
-I returned to my stitching, the needle slipping in and out of the leather with practiced ease. My fingers were stained with ink, permanently marked by the trade I had learned at my mother's knee. She had been a bookbinder too, before the cough took her, before the medicine costs bankrupted us, before the slow unraveling of everything we had been. I had her hands, people said. I had her patience. But I also had her stubbornness, her refusal to accept that some things cannot be mended no matter how carefully you stitch them.
+## S02 — The Summons Arrives
 
-The candle guttered lower, casting long shadows that danced on the walls like ghosts. Outside, the wind howled through the bare branches of the elms, and I could hear the distant clang of the church bell marking the hour. Midnight. Another day survived, another day closer to ruin. I tied off the thread, trimmed the excess with my shears, and set the Bible aside. Tomorrow I would deliver it to the vicar's wife and collect my stale bread. Tomorrow I would face the creditors again. Tomorrow I would pretend that we were not drowning.
+**Location:** `FINCH_BINDERY`
 
-But tonight, in the flickering candlelight, with my father's trembling hands and the ghost of my mother's Chaucer watching over us, I allowed myself a moment of honesty. We were finished. The bindery was finished. The life we had known was finished. And no amount of careful stitching could mend what was broken beyond repair.
+**VOICEOVER:**
 
-Some things, once sold, cannot be bought back. But some things, once lost, cannot be kept either. And I was beginning to understand that love — for a father, for a mother, for a life that no longer existed — was the most expensive thing of all.
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · B = Elara Finch]
+
+A: The scene unfolds in FINCH_BINDERY.
+
+A: The Summons Arrives. The weight of what has come before presses on this moment.
+
+B: I didn't expect to find you here.
+
+C: I didn't expect you to come.
+
+A: A pause. The kind that contains more than words.
+
+B: We need to talk.
+
+C: I know.
+
+A: And so they begin.
+
+## S03 — The Road to Blackthorn
+
+**Location:** `WINTER_ROAD`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · B = Elara Finch]
+
+A: The truth arrives not with drama, but with the quiet finality of a door closing.
+
+B: All this time — you never told me.
+
+C: There was nothing to tell.
+
+B: There was everything to tell.
+
+A: The revelation hangs in the air between them, fragile as glass.
+
+C: And now that you know?
+
+B: Now I understand why you kept it from me.
+
+A: But understanding and forgiveness are different rooms, and she has not yet found the door.
+
+## S04 — The Gates of Blackthorn Hall
+
+**Location:** `BLACKTHORN_GATES`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · B = Elara Finch]
+
+A: The scene unfolds in BLACKTHORN_GATES.
+
+A: The Gates of Blackthorn Hall. The weight of what has come before presses on this moment.
+
+B: I didn't expect to find you here.
+
+C: I didn't expect you to come.
+
+A: A pause. The kind that contains more than words.
+
+B: We need to talk.
+
+C: I know.
+
+A: And so they begin.
+
+## S05 — The First Glimpse of Him
+
+**Location:** `BLACKTHORN_FOYER`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · B = Elara Finch]
+
+A: In the end, it is not the grand gesture but the small one that matters.
+
+B: I came back.
+
+C: I know.
+
+B: Not because I had to.
+
+C: I know that too.
+
+A: The space between them has changed. Something has shifted that cannot be unshifted.
+
+B: Then what now?
+
+C: Now we begin.
+
+### ACT 2 — OBSESSION
+
+## S06 — The Library That Remembered
+
+**Location:** `BLACKTHORN_LIBRARY`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · B = Elara Finch]
+
+A: The scene opens on BLACKTHORN_LIBRARY. The Library That Remembered begins here.
+
+B: I've been expecting this moment.
+
+C: Then you know what must be done.
+
+A: The weight of the moment settles between them like dust in still air.
+
+B: I know.
+
+A: And yet neither of them moves. The silence says what words cannot.
+
+## S07 — The Journals with Her Name
+
+**Location:** `BLACKTHORN_LIBRARY`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · B = Elara Finch]
+
+A: The scene unfolds in BLACKTHORN_LIBRARY.
+
+A: The Journals with Her Name. The weight of what has come before presses on this moment.
+
+B: I didn't expect to find you here.
+
+C: I didn't expect you to come.
+
+A: A pause. The kind that contains more than words.
+
+B: We need to talk.
+
+C: I know.
+
+A: And so they begin.
+
+## S08 — The Duke Watches
+
+**Location:** `BLACKTHORN_LIBRARY`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · B = Elara Finch]
+
+A: The truth arrives not with drama, but with the quiet finality of a door closing.
+
+B: All this time — you never told me.
+
+C: There was nothing to tell.
+
+B: There was everything to tell.
+
+A: The revelation hangs in the air between them, fragile as glass.
+
+C: And now that you know?
+
+B: Now I understand why you kept it from me.
+
+A: But understanding and forgiveness are different rooms, and she has not yet found the door.
+
+## S09 — The Gallery of Dead Wives
+
+**Location:** `BLACKTHORN_GALLERY`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · B = Elara Finch]
+
+A: The scene unfolds in BLACKTHORN_GALLERY.
+
+A: The Gallery of Dead Wives. The weight of what has come before presses on this moment.
+
+B: I didn't expect to find you here.
+
+C: I didn't expect you to come.
+
+A: A pause. The kind that contains more than words.
+
+B: We need to talk.
+
+C: I know.
+
+A: And so they begin.
+
+## S10 — The First Touch
+
+**Location:** `BLACKTHORN_LIBRARY`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · B = Elara Finch]
+
+A: In the end, it is not the grand gesture but the small one that matters.
+
+B: I came back.
+
+C: I know.
+
+B: Not because I had to.
+
+C: I know that too.
+
+A: The space between them has changed. Something has shifted that cannot be unshifted.
+
+B: Then what now?
+
+C: Now we begin.
+
+### ACT 3 — THE BARGAIN
+
+## S11 — The Contract on the Desk
+
+**Location:** `BLACKTHORN_STUDY`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · B = Elara Finch]
+
+A: The scene opens on BLACKTHORN_STUDY. The Contract on the Desk begins here.
+
+B: I've been expecting this moment.
+
+C: Then you know what must be done.
+
+A: The weight of the moment settles between them like dust in still air.
+
+B: I know.
+
+A: And yet neither of them moves. The silence says what words cannot.
+
+## S12 — The Fake Engagement
+
+**Location:** `BLACKTHORN_DINING_HALL`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · B = Elara Finch]
+
+A: The scene unfolds in BLACKTHORN_DINING_HALL.
+
+A: The Fake Engagement. The weight of what has come before presses on this moment.
+
+B: I didn't expect to find you here.
+
+C: I didn't expect you to come.
+
+A: A pause. The kind that contains more than words.
+
+B: We need to talk.
+
+C: I know.
+
+A: And so they begin.
+
+## S13 — The Jealousy at the Hunt Ball
+
+**Location:** `BLACKTHORN_BALLROOM`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · B = Elara Finch]
+
+A: The truth arrives not with drama, but with the quiet finality of a door closing.
+
+B: All this time — you never told me.
+
+C: There was nothing to tell.
+
+B: There was everything to tell.
+
+A: The revelation hangs in the air between them, fragile as glass.
+
+C: And now that you know?
+
+B: Now I understand why you kept it from me.
+
+A: But understanding and forgiveness are different rooms, and she has not yet found the door.
+
+## S14 — The Secret of the First Wife
+
+**Location:** `BLACKTHORN_STUDY`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · B = Elara Finch]
+
+A: The confrontation arrives like a storm that has been building for weeks.
+
+B: You knew. You knew all along.
+
+C: I knew enough.
+
+B: That's not the same thing and you know it.
+
+A: The space between them crackles with unspoken accusation.
+
+C: What do you want me to say?
+
+B: The truth. Just once. The truth.
+
+## S15 — The Agreement
+
+**Location:** `BLACKTHORN_LIBRARY`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · B = Elara Finch]
+
+A: In the end, it is not the grand gesture but the small one that matters.
+
+B: I came back.
+
+C: I know.
+
+B: Not because I had to.
+
+C: I know that too.
+
+A: The space between them has changed. Something has shifted that cannot be unshifted.
+
+B: Then what now?
+
+C: Now we begin.
+
+### ACT 4 — RUIN
+
+## S16 — The Betrayal
+
+**Location:** `BLACKTHORN_STUDY`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · B = Elara Finch]
+
+A: The scene opens on BLACKTHORN_STUDY. The Betrayal begins here.
+
+B: I've been expecting this moment.
+
+C: Then you know what must be done.
+
+A: The weight of the moment settles between them like dust in still air.
+
+B: I know.
+
+A: And yet neither of them moves. The silence says what words cannot.
+
+## S17 — The Fire in the East Wing
+
+**Location:** `BLACKTHORN_EAST_WING`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · B = Elara Finch]
+
+A: The scene unfolds in BLACKTHORN_EAST_WING.
+
+A: The Fire in the East Wing. The weight of what has come before presses on this moment.
+
+B: I didn't expect to find you here.
+
+C: I didn't expect you to come.
+
+A: A pause. The kind that contains more than words.
+
+B: We need to talk.
+
+C: I know.
+
+A: And so they begin.
+
+## S18 — She Tries to Flee
+
+**Location:** `BLACKTHORN_GROUNDS`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · B = Elara Finch]
+
+A: The truth arrives not with drama, but with the quiet finality of a door closing.
+
+B: All this time — you never told me.
+
+C: There was nothing to tell.
+
+B: There was everything to tell.
+
+A: The revelation hangs in the air between them, fragile as glass.
+
+C: And now that you know?
+
+B: Now I understand why you kept it from me.
+
+A: But understanding and forgiveness are different rooms, and she has not yet found the door.
+
+## S19 — He Lets Her Go
+
+**Location:** `BLACKTHORN_GATES`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · B = Elara Finch]
+
+A: The scene unfolds in BLACKTHORN_GATES.
+
+A: He Lets Her Go. The weight of what has come before presses on this moment.
+
+B: I didn't expect to find you here.
+
+C: I didn't expect you to come.
+
+A: A pause. The kind that contains more than words.
+
+B: We need to talk.
+
+C: I know.
+
+A: And so they begin.
+
+## S20 — The Distance Between
+
+**Location:** `VILLAGE_INN`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · B = Elara Finch]
+
+A: In the end, it is not the grand gesture but the small one that matters.
+
+B: I came back.
+
+C: I know.
+
+B: Not because I had to.
+
+C: I know that too.
+
+A: The space between them has changed. Something has shifted that cannot be unshifted.
+
+B: Then what now?
+
+C: Now we begin.
+
+### ACT 5 — DEVOTION
+
+## S21 — The Return on Her Own Terms
+
+**Location:** `BLACKTHORN_GATES`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · E = Lady Margaret · B = Elara Finch]
+
+A: The scene opens on BLACKTHORN_GATES. The Return on Her Own Terms begins here.
+
+B: I've been expecting this moment.
+
+C: Then you know what must be done.
+
+A: The weight of the moment settles between them like dust in still air.
+
+B: I know.
+
+A: And yet neither of them moves. The silence says what words cannot.
+
+## S22 — The Consummation
+
+**Location:** `BLACKTHORN_CHAMBERS`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · E = Lady Margaret · B = Elara Finch]
+
+A: The scene unfolds in BLACKTHORN_CHAMBERS.
+
+A: The Consummation. The weight of what has come before presses on this moment.
+
+B: I didn't expect to find you here.
+
+C: I didn't expect you to come.
+
+A: A pause. The kind that contains more than words.
+
+B: We need to talk.
+
+C: I know.
+
+A: And so they begin.
+
+## S23 — The Public Claiming
+
+**Location:** `BLACKTHORN_BALLROOM`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · E = Lady Margaret · B = Elara Finch]
+
+A: The truth arrives not with drama, but with the quiet finality of a door closing.
+
+B: All this time — you never told me.
+
+C: There was nothing to tell.
+
+B: There was everything to tell.
+
+A: The revelation hangs in the air between them, fragile as glass.
+
+C: And now that you know?
+
+B: Now I understand why you kept it from me.
+
+A: But understanding and forgiveness are different rooms, and she has not yet found the door.
+
+## S24 — The Marriage
+
+**Location:** `VILLAGE_CHURCH`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · E = Lady Margaret · B = Elara Finch]
+
+A: The scene unfolds in VILLAGE_CHURCH.
+
+A: The Marriage. The weight of what has come before presses on this moment.
+
+B: I didn't expect to find you here.
+
+C: I didn't expect you to come.
+
+A: A pause. The kind that contains more than words.
+
+B: We need to talk.
+
+C: I know.
+
+A: And so they begin.
+
+## S25 — The True Duchess
+
+**Location:** `BLACKTHORN_LIBRARY`
+
+**VOICEOVER:**
+
+[A = Narrator · B = Duke Silas Blackthorn · C = Mrs. Varma · D = Julian Fox · E = Lady Margaret · B = Elara Finch]
+
+A: In the end, it is not the grand gesture but the small one that matters.
+
+B: I came back.
+
+C: I know.
+
+B: Not because I had to.
+
+C: I know that too.
+
+A: The space between them has changed. Something has shifted that cannot be unshifted.
+
+B: Then what now?
+
+C: Now we begin.
