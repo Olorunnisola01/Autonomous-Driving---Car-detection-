@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Hidden Heir - Storyboard Gallery</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .subtitle {
+            font-size: 1.3em;
+            font-style: italic;
+            opacity: 0.9;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .stat-box {
+            background: rgba(255,255,255,0.2);
+            padding: 15px 25px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+        }
+        
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+        }
+        
+        .stat-label {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+        
+        .section {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 2em;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        h3 {
+            color: #764ba2;
+            margin: 20px 0 15px 0;
+            font-size: 1.5em;
+        }
+        
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        
+        .image-card {
+            background: #f8f9fa;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .image-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        }
+        
+        .image-card img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        
+        .image-caption {
+            padding: 15px;
+            font-size: 0.9em;
+            color: #555;
+        }
+        
+        .progress-bar {
+            background: #e0e0e0;
+            border-radius: 10px;
+            overflow: hidden;
+            margin: 20px 0;
+        }
+        
+        .progress-fill {
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            height: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            transition: width 0.5s ease;
+        }
+        
+        footer {
+            text-align: center;
+            color: white;
+            margin-top: 40px;
+            padding: 20px;
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎬 The Hidden Heir</h1>
+            <p class="subtitle">He hid his wealth to find her heart</p>
+            <div class="stats">
+
+                <div class="stat-box">
+                    <div class="stat-number">110</div>
+                    <div class="stat-label">Images Generated</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">10/25</div>
+                    <div class="stat-label">Scenes Complete</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">8</div>
+                    <div class="stat-label">Character Refs</div>
+                </div>
+            </div>
+        </header>
+        
+        <div class="section">
+            <h2>📊 Progress</h2>
+            <div class="progress-bar">
+                <div class="progress-fill" style="width: 40%">
+                    40% Complete
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>👥 Character References</h2>
+            <div class="gallery">
+
+                <div class="image-card">
+                    <img src="images/refs/ADEOLA_DELE_ADEBAYO_ref.png" alt="Adeola Dele Adebayo">
+                    <div class="image-caption">Adeola Dele Adebayo</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/refs/BABATUNDE_TUNDE_ref.png" alt="Babatunde Tunde">
+                    <div class="image-caption">Babatunde Tunde</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/refs/CHIOMA_OKAFOR_ref.png" alt="Chioma Okafor">
+                    <div class="image-caption">Chioma Okafor</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/refs/FATHER_ADEBAYO_ref.png" alt="Father Adebayo">
+                    <div class="image-caption">Father Adebayo</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/refs/IYEKE_ref.png" alt="Iyeke">
+                    <div class="image-caption">Iyeke</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/refs/MAMA_NKECHI_ref.png" alt="Mama Nkechi">
+                    <div class="image-caption">Mama Nkechi</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/refs/PASTOR_EMMANUEL_ref.png" alt="Pastor Emmanuel">
+                    <div class="image-caption">Pastor Emmanuel</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/refs/UNCLE_SEGUN_ref.png" alt="Uncle Segun">
+                    <div class="image-caption">Uncle Segun</div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🎭 Act 1</h2>
+
+            <h3>S01: The Father's Ultimatum</h3>
+            <div class="gallery">
+
+                <div class="image-card">
+                    <img src="images/act1/S01_Step01_mansion_exterior.png" alt="S01 Step01">
+                    <div class="image-caption">Step 01 - mansion_exterior</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S01_Step02_father_in_study.png" alt="S01 Step02">
+                    <div class="image-caption">Step 02 - father_in_study</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S01_Step03_dele_before_father.png" alt="S01 Step03">
+                    <div class="image-caption">Step 03 - dele_before_father</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S01_Step04_father_hand_stick.png" alt="S01 Step04">
+                    <div class="image-caption">Step 04 - father_hand_stick</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S01_Step05_father_ultimatum.png" alt="S01 Step05">
+                    <div class="image-caption">Step 05 - father_ultimatum</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S01_Step06_dele_conflicted.png" alt="S01 Step06">
+                    <div class="image-caption">Step 06 - dele_conflicted</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S01_Step07_luxurious_study.png" alt="S01 Step07">
+                    <div class="image-caption">Step 07 - luxurious_study</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S01_Step08_father_dismissive.png" alt="S01 Step08">
+                    <div class="image-caption">Step 08 - father_dismissive</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S01_Step09_dele_turns_leave.png" alt="S01 Step09">
+                    <div class="image-caption">Step 09 - dele_turns_leave</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S01_Step10_dele_exits_gates.png" alt="S01 Step10">
+                    <div class="image-caption">Step 10 - dele_exits_gates</div>
+                </div>
+
+            </div>
+
+            <h3>S02: Dele's Decision</h3>
+            <div class="gallery">
+
+                <div class="image-card">
+                    <img src="images/act1/S02_Step01_bridge_sunset.png" alt="S02 Step01">
+                    <div class="image-caption">Step 01 - bridge_sunset</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S02_Step02_dele_driving.png" alt="S02 Step02">
+                    <div class="image-caption">Step 02 - dele_driving</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S02_Step03_dele_reflecting.png" alt="S02 Step03">
+                    <div class="image-caption">Step 03 - dele_reflecting</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S02_Step04_lagos_skyline.png" alt="S02 Step04">
+                    <div class="image-caption">Step 04 - lagos_skyline</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S02_Step05_dele_phone_call.png" alt="S02 Step05">
+                    <div class="image-caption">Step 05 - dele_phone_call</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S02_Step06_bridge_traffic.png" alt="S02 Step06">
+                    <div class="image-caption">Step 06 - bridge_traffic</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S02_Step07_dele_arrives_surulere.png" alt="S02 Step07">
+                    <div class="image-caption">Step 07 - dele_arrives_surulere</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S02_Step08_surulere_street.png" alt="S02 Step08">
+                    <div class="image-caption">Step 08 - surulere_street</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S02_Step09_mechanic_shop_exterior.png" alt="S02 Step09">
+                    <div class="image-caption">Step 09 - mechanic_shop_exterior</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S02_Step10_dele_first_day.png" alt="S02 Step10">
+                    <div class="image-caption">Step 10 - dele_first_day</div>
+                </div>
+
+            </div>
+
+            <h3>S03: The Mechanic's Shop</h3>
+            <div class="gallery">
+
+                <div class="image-card">
+                    <img src="images/act1/S03_Step01_workshop_interior.png" alt="S03 Step01">
+                    <div class="image-caption">Step 01 - workshop_interior</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S03_Step02_dele_working.png" alt="S03 Step02">
+                    <div class="image-caption">Step 02 - dele_working</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S03_Step03_first_customer.png" alt="S03 Step03">
+                    <div class="image-caption">Step 03 - first_customer</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S03_Step04_learning_trade.png" alt="S03 Step04">
+                    <div class="image-caption">Step 04 - learning_trade</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S03_Step05_lunch_break.png" alt="S03 Step05">
+                    <div class="image-caption">Step 05 - lunch_break</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S03_Step06_first_earnings.png" alt="S03 Step06">
+                    <div class="image-caption">Step 06 - first_earnings</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S03_Step07_closing_shop.png" alt="S03 Step07">
+                    <div class="image-caption">Step 07 - closing_shop</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S03_Step08_walking_home.png" alt="S03 Step08">
+                    <div class="image-caption">Step 08 - walking_home</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S03_Step09_small_room.png" alt="S03 Step09">
+                    <div class="image-caption">Step 09 - small_room</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S03_Step10_peaceful_sleep.png" alt="S03 Step10">
+                    <div class="image-caption">Step 10 - peaceful_sleep</div>
+                </div>
+
+            </div>
+
+            <h3>S04: The First Meeting</h3>
+            <div class="gallery">
+
+                <div class="image-card">
+                    <img src="images/act1/S04_Step01_balogun_market.png" alt="S04 Step01">
+                    <div class="image-caption">Step 01 - balogun_market</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S04_Step02_chioma_market.png" alt="S04 Step02">
+                    <div class="image-caption">Step 02 - chioma_market</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S04_Step03_the_bump.png" alt="S04 Step03">
+                    <div class="image-caption">Step 03 - the_bump</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S04_Step04_eyes_meet.png" alt="S04 Step04">
+                    <div class="image-caption">Step 04 - eyes_meet</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S04_Step05_dele_helps.png" alt="S04 Step05">
+                    <div class="image-caption">Step 05 - dele_helps</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S04_Step06_they_talk.png" alt="S04 Step06">
+                    <div class="image-caption">Step 06 - they_talk</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S04_Step07_she_leaves.png" alt="S04 Step07">
+                    <div class="image-caption">Step 07 - she_leaves</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S04_Step08_he_smitten.png" alt="S04 Step08">
+                    <div class="image-caption">Step 08 - he_smitten</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S04_Step09_workshop_that_night.png" alt="S04 Step09">
+                    <div class="image-caption">Step 09 - workshop_that_night</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S04_Step10_cant_stop_thinking.png" alt="S04 Step10">
+                    <div class="image-caption">Step 10 - cant_stop_thinking</div>
+                </div>
+
+            </div>
+
+            <h3>S05: The Broken Car</h3>
+            <div class="gallery">
+
+                <div class="image-card">
+                    <img src="images/act1/S05_Step01_ikoyi_street.png" alt="S05 Step01">
+                    <div class="image-caption">Step 01 - ikoyi_street</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S05_Step02_dele_fixing_car.png" alt="S05 Step02">
+                    <div class="image-caption">Step 02 - dele_fixing_car</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S05_Step03_chioma_walks_by.png" alt="S05 Step03">
+                    <div class="image-caption">Step 03 - chioma_walks_by</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S05_Step04_she_watches.png" alt="S05 Step04">
+                    <div class="image-caption">Step 04 - she_watches</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S05_Step05_skilled_hands.png" alt="S05 Step05">
+                    <div class="image-caption">Step 05 - skilled_hands</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S05_Step06_chioma_admires.png" alt="S05 Step06">
+                    <div class="image-caption">Step 06 - chioma_admires</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S05_Step07_eyes_meet_again.png" alt="S05 Step07">
+                    <div class="image-caption">Step 07 - eyes_meet_again</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S05_Step08_he_smiles_at_her.png" alt="S05 Step08">
+                    <div class="image-caption">Step 08 - he_smiles_at_her</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S05_Step09_car_fixed.png" alt="S05 Step09">
+                    <div class="image-caption">Step 09 - car_fixed</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S05_Step10_final_look.png" alt="S05 Step10">
+                    <div class="image-caption">Step 10 - final_look</div>
+                </div>
+
+            </div>
+
+            <h3>S06: Coffee at Mama's</h3>
+            <div class="gallery">
+
+                <div class="image-card">
+                    <img src="images/act1/S06_Step01_chioma_house_exterior.png" alt="S06 Step01">
+                    <div class="image-caption">Step 01 - chioma_house_exterior</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S06_Step02_mama_nkechi_welcomes.png" alt="S06 Step02">
+                    <div class="image-caption">Step 02 - mama_nkechi_welcomes</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S06_Step03_dele_awkward_visit.png" alt="S06 Step03">
+                    <div class="image-caption">Step 03 - dele_awkward_visit</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S06_Step04_coffee_akara.png" alt="S06 Step04">
+                    <div class="image-caption">Step 04 - coffee_akara</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S06_Step05_mama_studies_him.png" alt="S06 Step05">
+                    <div class="image-caption">Step 05 - mama_studies_him</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S06_Step06_he_charms_them.png" alt="S06 Step06">
+                    <div class="image-caption">Step 06 - he_charms_them</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S06_Step07_talking_laughing.png" alt="S06 Step07">
+                    <div class="image-caption">Step 07 - talking_laughing</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S06_Step08_saying_goodbye.png" alt="S06 Step08">
+                    <div class="image-caption">Step 08 - saying_goodbye</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S06_Step09_walking_home_smiling.png" alt="S06 Step09">
+                    <div class="image-caption">Step 09 - walking_home_smiling</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act1/S06_Step10_falling_in_love.png" alt="S06 Step10">
+                    <div class="image-caption">Step 10 - falling_in_love</div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="section">
+            <h2>🎭 Act 2</h2>
+
+            <h3>S07: The Hospital Shift</h3>
+            <div class="gallery">
+
+                <div class="image-card">
+                    <img src="images/act2/S07_Step01_hospital_exterior.png" alt="S07 Step01">
+                    <div class="image-caption">Step 01 - hospital_exterior</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S07_Step02_chioma_nurse_uniform.png" alt="S07 Step02">
+                    <div class="image-caption">Step 02 - chioma_nurse_uniform</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S07_Step03_dele_visits_hospital.png" alt="S07 Step03">
+                    <div class="image-caption">Step 03 - dele_visits_hospital</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S07_Step04_she_surprised.png" alt="S07 Step04">
+                    <div class="image-caption">Step 04 - she_surprised</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S07_Step05_lunch_together.png" alt="S07 Step05">
+                    <div class="image-caption">Step 05 - lunch_together</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S07_Step06_he_watches_her_work.png" alt="S07 Step06">
+                    <div class="image-caption">Step 06 - he_watches_her_work</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S07_Step07_hospital_garden.png" alt="S07 Step07">
+                    <div class="image-caption">Step 07 - hospital_garden</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S07_Step08_he_falling_deeper.png" alt="S07 Step08">
+                    <div class="image-caption">Step 08 - he_falling_deeper</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S07_Step09_she_cautious.png" alt="S07 Step09">
+                    <div class="image-caption">Step 09 - she_cautious</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S07_Step10_he_persists.png" alt="S07 Step10">
+                    <div class="image-caption">Step 10 - he_persists</div>
+                </div>
+
+            </div>
+
+            <h3>S08: Tunde's Warning</h3>
+            <div class="gallery">
+
+                <div class="image-card">
+                    <img src="images/act2/S08_Step01_victoria_island_club.png" alt="S08 Step01">
+                    <div class="image-caption">Step 01 - victoria_island_club</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S08_Step02_tunde_warning.png" alt="S08 Step02">
+                    <div class="image-caption">Step 02 - tunde_warning</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S08_Step03_tunde_schemes.png" alt="S08 Step03">
+                    <div class="image-caption">Step 03 - tunde_schemes</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S08_Step04_dele_troubled.png" alt="S08 Step04">
+                    <div class="image-caption">Step 04 - dele_troubled</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S08_Step05_dele_leaves_club.png" alt="S08 Step05">
+                    <div class="image-caption">Step 05 - dele_leaves_club</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S08_Step06_walking_alone.png" alt="S08 Step06">
+                    <div class="image-caption">Step 06 - walking_alone</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S08_Step07_roadside_buka.png" alt="S08 Step07">
+                    <div class="image-caption">Step 07 - roadside_buka</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S08_Step08_calls_chioma.png" alt="S08 Step08">
+                    <div class="image-caption">Step 08 - calls_chioma</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S08_Step09_back_to_room.png" alt="S08 Step09">
+                    <div class="image-caption">Step 09 - back_to_room</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S08_Step10_cant_sleep.png" alt="S08 Step10">
+                    <div class="image-caption">Step 10 - cant_sleep</div>
+                </div>
+
+            </div>
+
+            <h3>S09: Sunset on the Bridge</h3>
+            <div class="gallery">
+
+                <div class="image-card">
+                    <img src="images/act2/S09_Step01_bridge_golden_hour.png" alt="S09 Step01">
+                    <div class="image-caption">Step 01 - bridge_golden_hour</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S09_Step02_couple_on_bridge.png" alt="S09 Step02">
+                    <div class="image-caption">Step 02 - couple_on_bridge</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S09_Step03_he_almost_confesses.png" alt="S09 Step03">
+                    <div class="image-caption">Step 03 - he_almost_confesses</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S09_Step04_she_trusts_him.png" alt="S09 Step04">
+                    <div class="image-caption">Step 04 - she_trusts_him</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S09_Step05_fear_stops_him.png" alt="S09 Step05">
+                    <div class="image-caption">Step 05 - fear_stops_him</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S09_Step06_awkward_silence.png" alt="S09 Step06">
+                    <div class="image-caption">Step 06 - awkward_silence</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S09_Step07_she_comforts_him.png" alt="S09 Step07">
+                    <div class="image-caption">Step 07 - she_comforts_him</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S09_Step08_guilt_and_love.png" alt="S09 Step08">
+                    <div class="image-caption">Step 08 - guilt_and_love</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S09_Step09_helmet_moment.png" alt="S09 Step09">
+                    <div class="image-caption">Step 09 - helmet_moment</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S09_Step10_motorcycle_ride.png" alt="S09 Step10">
+                    <div class="image-caption">Step 10 - motorcycle_ride</div>
+                </div>
+
+            </div>
+
+            <h3>S10: The Confession Almost</h3>
+            <div class="gallery">
+
+                <div class="image-card">
+                    <img src="images/act2/S10_Step01_canopy_walkway.png" alt="S10 Step01">
+                    <div class="image-caption">Step 01 - canopy_walkway</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S10_Step02_she_laughs.png" alt="S10 Step02">
+                    <div class="image-caption">Step 02 - she_laughs</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S10_Step03_he_watches_her.png" alt="S10 Step03">
+                    <div class="image-caption">Step 03 - he_watches_her</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S10_Step04_words_on_lips.png" alt="S10 Step04">
+                    <div class="image-caption">Step 04 - words_on_lips</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S10_Step05_fear_stops_him.png" alt="S10 Step05">
+                    <div class="image-caption">Step 05 - fear_stops_him</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S10_Step06_nature_walk.png" alt="S10 Step06">
+                    <div class="image-caption">Step 06 - nature_walk</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S10_Step07_she_happy.png" alt="S10 Step07">
+                    <div class="image-caption">Step 07 - she_happy</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S10_Step08_he_tortured.png" alt="S10 Step08">
+                    <div class="image-caption">Step 08 - he_tortured</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S10_Step09_they_leave.png" alt="S10 Step09">
+                    <div class="image-caption">Step 09 - they_leave</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S10_Step10_he_decides.png" alt="S10 Step10">
+                    <div class="image-caption">Step 10 - he_decides</div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="section">
+            <h2>🎭 Act 3</h2>
+
+            <h3>S11: The Charity Gala</h3>
+            <div class="gallery">
+
+                <div class="image-card">
+                    <img src="images/act2/S11_Step01_eko_hotel_gala.png" alt="S11 Step01">
+                    <div class="image-caption">Step 01 - eko_hotel_gala</div>
+                </div>
+
+                <div class="image-card">
+                    <img src="images/act2/S11_Step02_dele_summoned.png" alt="S11 Step02">
+                    <div class="image-caption">Step 02 - dele_summoned</div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <footer>
+            <p>🎬 The Hidden Heir - Storyboard Gallery</p>
+            <p>Generated automatically as images are created</p>
+        </footer>
+    </div>
+</body>
+</html>
